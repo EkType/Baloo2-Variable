@@ -1,0 +1,91 @@
+
+# This is the official list of people who can contribute 
+# (and typically have contributed) to this repository. 
+# The AUTHORS file lists the copyright holders; this file 
+# lists people. For example, company employees are listed here 
+# but not in AUTHORS, because the company holds the copyright. 
+# 
+# When adding J Random Contributor's name to this file, 
+# either J's name or J's organization's name should be 
+# added to the AUTHORS file. 
+# 
+# Names should be added to this file like so, in the 
+# chronological order of contribution: 
+# 
+#     N: <name> 
+#     E: <email> 
+#     W: <website> 
+#     D: <description of role> 
+
+N: Ek Type 
+E: info@ektype.in 
+W: http://ektype.in 
+D: A collective of type designers based in Mumbai focused on designing contemporary Indian typefaces. 
+
+N: Maithili Shingre 
+E: maithili@whitecrow.in 
+D: Type Design (Baloo Chettan, Baloo Chettan 2, Baloo Latin 2, Baloo Tammudu 2)
+
+N: Noopur Datye 
+E: noopur.datye@ektype.in 
+W: www.ektype.in 
+D: Type Design (Baloo Da, Baloo Bhai 2, Baloo Bhaijaan 2)
+
+N: Girish Dalvi 
+E: girish.dalvi@gmail.com 
+D: Font Engineering and Type Design consultation
+
+N: Sarang Kulkarni 
+E: sarang.kulkarni@ektype.in 
+W: www.ektype.in 
+D: Type Design (Baloo Devanagari, Baloo Devanagari 2)
+
+N: Aadarsh Rajan 
+E: aadarshrajan@gmail.com 
+W: https://www.aadarshrajan.com/ 
+D: Type Design (Baloo Thambi, Baloo Thambi 2)
+
+N: Shuchita Grover
+E: shuchitag0@gmail.com 
+D: Type Design (Baloo Paaji, Baloo Bhaina, Baloo Tamma 2)
+
+N: Divya Kowshik
+E: divya.kowshik90@gmail.com
+D: Type Design (Baloo Tamma)
+
+N: Supriya Tembe
+E: supriyatembe@gmail.com
+D: Type Design (Baloo Bhai)
+
+N: Manish Minz
+E: manishminz.21@gmail.com
+D: Type Design (Baloo Bhaina)
+
+N: Omkar Shende
+E: omkarshende@gmail.com
+D: Type Design (Baloo Tammudu)
+
+N: Devika Bhansali
+E: devika0525@gmail.com
+D: Type Design (Baloo Bhaijaan)
+
+N: Sulekha Rajkumar
+E: hello@sulekharajkumar.com 
+W: sulekharajkumar.com
+D: Type Design (Baloo Da 2)
+
+N: Yesha Goshar
+E: yeshagoshar@gmail.com
+D: Type Design (Baloo Bhaina 2)
+
+N: Unnati Kotecha
+E: unnatiikotecha@gmail.com
+D: Type Design (Baloo Chettan 2)
+
+N: Sanskriti Dholi
+E: sanskriti2497@gmail.com
+D: Type Design (Baloo Bhaijaan2)
+
+
+
+
