@@ -1,5 +1,5 @@
 sources:
-  - BalooBhaina2.glyphs
+  - ../sources/BalooBhaina2.glyphs
 outputDir: "../fonts"
 buildTTF: false
 buildOTF: false
