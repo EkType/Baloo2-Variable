@@ -1739,7 +1739,7 @@ designer = "Maithili Shingre, Omkar Shende and Ek Type";
 designerURL = www.ektype.in;
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
-familyName = "BalooTammudu 2";
+familyName = "Baloo Tammudu 2";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;
