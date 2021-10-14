@@ -184,7 +184,7 @@ code = "parenleft.superior parenright.superior zero.superior onesuperior twosupe
 name = figures_superscript;
 }
 );
-copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2/tree/master/BalooBhai2-Gujarati)";
+copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)";
 customParameters = (
 {
 name = glyphOrder;
