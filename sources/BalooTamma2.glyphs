@@ -2401,7 +2401,7 @@ value = 1078;
 },
 {
 name = typoDescender;
-value = -757;
+value = -673;
 },
 {
 name = typoLineGap;
@@ -2421,7 +2421,7 @@ value = 1078;
 },
 {
 name = hheaDescender;
-value = -757;
+value = -673;
 },
 {
 name = hheaLineGap;
@@ -2444,7 +2444,7 @@ value = 1078;
 },
 {
 name = typoDescender;
-value = -757;
+value = -673;
 },
 {
 name = typoLineGap;
@@ -2464,7 +2464,7 @@ value = 1078;
 },
 {
 name = hheaDescender;
-value = -757;
+value = -673;
 },
 {
 name = hheaLineGap;
