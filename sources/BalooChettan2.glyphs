@@ -1646,11 +1646,11 @@ capHeight = 602;
 customParameters = (
 {
 name = typoAscender;
-value = 1050;
+value = 1078;
 },
 {
 name = typoDescender;
-value = -390;
+value = -392;
 },
 {
 name = typoLineGap;
@@ -1666,11 +1666,11 @@ value = 390;
 },
 {
 name = hheaAscender;
-value = 1050;
+value = 1078;
 },
 {
 name = hheaDescender;
-value = -390;
+value = -392;
 },
 {
 name = hheaLineGap;
@@ -1704,11 +1704,11 @@ custom = Extra;
 customParameters = (
 {
 name = typoAscender;
-value = 1050;
+value = 1078;
 },
 {
 name = typoDescender;
-value = -390;
+value = -392;
 },
 {
 name = typoLineGap;
@@ -1724,11 +1724,11 @@ value = 390;
 },
 {
 name = hheaAscender;
-value = 1050;
+value = 1078;
 },
 {
 name = hheaDescender;
-value = -390;
+value = -392;
 },
 {
 name = hheaLineGap;
