@@ -166,7 +166,7 @@ code = "Ka.dv Pha.dv KaNukta.dv PhaNukta.dv KaRa.dv PhaRa.dv KaNuktaRa.dv PhaNuk
 name = "@Width_matraIithree";
 }
 );
-copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2/tree/master/Baloo2-Devanagari)";
+copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)";
 customParameters = (
 {
 name = glyphOrder;
