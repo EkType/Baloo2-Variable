@@ -46,7 +46,7 @@ code = "Aaytam.tm vowelA.tm vowelAa.tm vowelI.tm vowelIi.tm vowelU.tm vowelUu.tm
 name = all;
 }
 );
-copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2/tree/master/BalooThambi2-Tamil)";
+copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)";
 customParameters = (
 {
 name = glyphOrder;
@@ -1387,7 +1387,7 @@ capHeight = 602;
 customParameters = (
 {
 name = typoAscender;
-value = 1050;
+value = 1078;
 },
 {
 name = typoDescender;
@@ -1407,7 +1407,7 @@ value = 486;
 },
 {
 name = hheaAscender;
-value = 1050;
+value = 1078;
 },
 {
 name = hheaDescender;
@@ -1435,7 +1435,7 @@ custom = Extra;
 customParameters = (
 {
 name = typoAscender;
-value = 1050;
+value = 1078;
 },
 {
 name = typoDescender;
@@ -1455,7 +1455,7 @@ value = 486;
 },
 {
 name = hheaAscender;
-value = 1050;
+value = 1078;
 },
 {
 name = hheaDescender;

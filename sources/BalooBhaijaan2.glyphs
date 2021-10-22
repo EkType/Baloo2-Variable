@@ -34,7 +34,7 @@ code = "alefabove.ar alefbelow.ar damma.ar dammainverted.ar dammatan.ar dotabove
 name = COMBINING_MARKS;
 }
 );
-copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2/tree/master/Baloo2-Devanagari)";
+copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)";
 customParameters = (
 {
 name = glyphOrder;

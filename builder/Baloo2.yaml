@@ -1,0 +1,7 @@
+sources:
+  - ../sources/Baloo2.glyphs
+outputDir: "../fonts"
+buildTTF: false
+buildOTF: false
+buildWebfont: false
+buildVariable: true

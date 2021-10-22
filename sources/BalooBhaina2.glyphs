@@ -82,7 +82,7 @@ code = "zero.or one.or two.or three.or four.or five.or six.or seven.or eight.or 
 name = "@OdiaNumbers";
 }
 );
-copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2/tree/master/BalooChettan2-Malayalam)";
+copyright = "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)";
 customParameters = (
 {
 name = glyphOrder;
