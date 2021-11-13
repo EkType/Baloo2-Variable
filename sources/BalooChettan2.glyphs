@@ -1114,15 +1114,6 @@ value = (
 );
 },
 {
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-},
-{
 name = "Use Extension Kerning";
 value = 1;
 },
@@ -1131,25 +1122,9 @@ name = "Enforce Compatibility Check";
 value = 1;
 },
 {
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
 name = fsType;
 value = (
 );
-},
-{
-name = vendorID;
-value = EKTF;
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-name = "Decompose Components in Variable Font";
-value = 1;
 },
 {
 name = "Use Typo Metrics";
@@ -1176,8 +1151,33 @@ wght = {
 };
 },
 {
-name = variableFileName;
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = EKTF;
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = "Variable Font File Name";
 value = "BalooChettan2[wgth]";
+},
+{
+name = "Decompose Components in Variable Font";
+value = 1;
 }
 );
 date = "2020-03-19 09:15:33 +0000";
@@ -14168,62 +14168,62 @@ paths = (
 {
 closed = 1;
 nodes = (
-"469 318 OFFCURVE",
-"481 330 OFFCURVE",
-"481 352 CURVE SMOOTH",
-"481 365 OFFCURVE",
-"478 375 OFFCURVE",
-"475 383 CURVE",
-"101 383 LINE SMOOTH",
-"79 383 OFFCURVE",
-"66 371 OFFCURVE",
-"66 349 CURVE SMOOTH",
-"66 337 OFFCURVE",
-"69 326 OFFCURVE",
-"72 318 CURVE",
-"446 318 LINE"
+"454 318 OFFCURVE",
+"466 330 OFFCURVE",
+"466 352 CURVE SMOOTH",
+"466 365 OFFCURVE",
+"463 375 OFFCURVE",
+"460 383 CURVE",
+"86 383 LINE SMOOTH",
+"64 383 OFFCURVE",
+"51 371 OFFCURVE",
+"51 349 CURVE SMOOTH",
+"51 337 OFFCURVE",
+"54 326 OFFCURVE",
+"57 318 CURVE",
+"431 318 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"469 0 OFFCURVE",
-"481 12 OFFCURVE",
-"481 34 CURVE SMOOTH",
-"481 47 OFFCURVE",
-"478 57 OFFCURVE",
-"475 65 CURVE",
-"101 65 LINE SMOOTH",
-"79 65 OFFCURVE",
-"66 53 OFFCURVE",
-"66 31 CURVE SMOOTH",
-"66 19 OFFCURVE",
-"69 8 OFFCURVE",
-"72 0 CURVE",
-"446 0 LINE"
+"454 0 OFFCURVE",
+"466 12 OFFCURVE",
+"466 34 CURVE SMOOTH",
+"466 47 OFFCURVE",
+"463 57 OFFCURVE",
+"460 65 CURVE",
+"86 65 LINE SMOOTH",
+"64 65 OFFCURVE",
+"51 53 OFFCURVE",
+"51 31 CURVE SMOOTH",
+"51 19 OFFCURVE",
+"54 8 OFFCURVE",
+"57 0 CURVE",
+"431 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"312 543 OFFCURVE",
-"300 554 OFFCURVE",
-"275 554 CURVE SMOOTH",
-"260 554 OFFCURVE",
-"249 551 OFFCURVE",
-"239 547 CURVE",
-"239 184 LINE SMOOTH",
-"239 154 OFFCURVE",
-"251 143 OFFCURVE",
-"278 143 CURVE SMOOTH",
-"292 143 OFFCURVE",
-"302 147 OFFCURVE",
-"312 150 CURVE",
-"312 514 LINE"
+"297 543 OFFCURVE",
+"285 554 OFFCURVE",
+"260 554 CURVE SMOOTH",
+"245 554 OFFCURVE",
+"234 551 OFFCURVE",
+"224 547 CURVE",
+"224 184 LINE SMOOTH",
+"224 154 OFFCURVE",
+"236 143 OFFCURVE",
+"263 143 CURVE SMOOTH",
+"277 143 OFFCURVE",
+"287 147 OFFCURVE",
+"297 150 CURVE",
+"297 514 LINE"
 );
 }
 );
-width = 548;
+width = 517;
 },
 {
 layerId = "6071b2fe-43f3-4e05-9bbd-9490fbbb86dc";
@@ -14231,62 +14231,62 @@ paths = (
 {
 closed = 1;
 nodes = (
-"470 314 OFFCURVE",
-"495 332 OFFCURVE",
-"495 381 CURVE SMOOTH",
-"495 408 OFFCURVE",
-"486 434 OFFCURVE",
-"478 448 CURVE",
-"111 448 LINE SMOOTH",
-"75 448 OFFCURVE",
-"50 427 OFFCURVE",
-"50 378 CURVE SMOOTH",
-"50 351 OFFCURVE",
-"58 328 OFFCURVE",
-"67 314 CURVE",
-"434 314 LINE"
+"460 314 OFFCURVE",
+"485 332 OFFCURVE",
+"485 381 CURVE SMOOTH",
+"485 408 OFFCURVE",
+"476 434 OFFCURVE",
+"468 448 CURVE",
+"101 448 LINE SMOOTH",
+"65 448 OFFCURVE",
+"40 427 OFFCURVE",
+"40 378 CURVE SMOOTH",
+"40 351 OFFCURVE",
+"48 328 OFFCURVE",
+"57 314 CURVE",
+"424 314 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"470 0 OFFCURVE",
-"495 18 OFFCURVE",
-"495 67 CURVE SMOOTH",
-"495 94 OFFCURVE",
-"486 120 OFFCURVE",
-"478 134 CURVE",
-"111 134 LINE SMOOTH",
-"75 134 OFFCURVE",
-"50 113 OFFCURVE",
-"50 64 CURVE SMOOTH",
-"50 37 OFFCURVE",
-"58 14 OFFCURVE",
-"67 0 CURVE",
-"434 0 LINE"
+"460 0 OFFCURVE",
+"485 18 OFFCURVE",
+"485 67 CURVE SMOOTH",
+"485 94 OFFCURVE",
+"476 120 OFFCURVE",
+"468 134 CURVE",
+"101 134 LINE SMOOTH",
+"65 134 OFFCURVE",
+"40 113 OFFCURVE",
+"40 64 CURVE SMOOTH",
+"40 37 OFFCURVE",
+"48 14 OFFCURVE",
+"57 0 CURVE",
+"424 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"351 563 OFFCURVE",
-"320 576 OFFCURVE",
-"267 576 CURVE SMOOTH",
-"242 576 OFFCURVE",
-"210 570 OFFCURVE",
-"197 567 CURVE",
-"197 254 LINE SMOOTH",
-"197 195 OFFCURVE",
-"226 183 OFFCURVE",
-"280 183 CURVE SMOOTH",
-"305 183 OFFCURVE",
-"338 188 OFFCURVE",
-"351 191 CURVE",
-"351 504 LINE"
+"341 563 OFFCURVE",
+"310 576 OFFCURVE",
+"257 576 CURVE SMOOTH",
+"232 576 OFFCURVE",
+"200 570 OFFCURVE",
+"187 567 CURVE",
+"187 254 LINE SMOOTH",
+"187 195 OFFCURVE",
+"216 183 OFFCURVE",
+"270 183 CURVE SMOOTH",
+"295 183 OFFCURVE",
+"328 188 OFFCURVE",
+"341 191 CURVE",
+"341 504 LINE"
 );
 }
 );
-width = 545;
+width = 525;
 }
 );
 unicode = 00B1;
@@ -37511,7 +37511,7 @@ transform = "{1, 0, 0, 1, 170, 0}";
 }
 );
 layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
-width = 478;
+width = 549;
 },
 {
 components = (
@@ -37851,7 +37851,7 @@ nodes = (
 );
 }
 );
-width = 267;
+width = 282;
 }
 );
 leftKerningGroup = i;
@@ -48870,11 +48870,11 @@ width = 629;
 components = (
 {
 name = uni25B7;
-transform = "{-1, 0, 0, 1, 627, 0}";
+transform = "{-1, 0, 0, 1, 644, 0}";
 }
 );
 layerId = "6071b2fe-43f3-4e05-9bbd-9490fbbb86dc";
-width = 627;
+width = 644;
 }
 );
 unicode = 25C1;
@@ -52223,6 +52223,8 @@ width = 0;
 );
 unicode = 0D01;
 script = malayalam;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = Anuswara.mlm;
@@ -52772,8 +52774,8 @@ nodes = (
 width = 1383;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D05;
 script = malayalam;
 category = Letter;
@@ -53149,8 +53151,8 @@ nodes = (
 width = 1520;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _VowelAaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = vowelAa.mlm;
 unicode = 0D06;
 script = malayalam;
 category = Letter;
@@ -53380,7 +53382,7 @@ nodes = (
 width = 909;
 }
 );
-leftKerningGroup = _VowelULeft;
+leftKerningGroup = vowelU.mlm;
 unicode = 0D07;
 script = malayalam;
 category = Letter;
@@ -53420,8 +53422,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 1662;
 }
 );
-leftKerningGroup = _VowelULeft;
-rightKerningGroup = _AumatraRight;
+leftKerningGroup = vowelU.mlm;
+rightKerningGroup = lengthAu.mlm;
 unicode = 0D08;
 script = malayalam;
 category = Letter;
@@ -53609,7 +53611,7 @@ nodes = (
 width = 677;
 }
 );
-leftKerningGroup = _VowelULeft;
+leftKerningGroup = vowelU.mlm;
 unicode = 0D09;
 script = malayalam;
 category = Letter;
@@ -53649,8 +53651,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 1428;
 }
 );
-leftKerningGroup = _VowelULeft;
-rightKerningGroup = _AumatraRight;
+leftKerningGroup = vowelU.mlm;
+rightKerningGroup = lengthAu.mlm;
 unicode = 0D0A;
 script = malayalam;
 category = Letter;
@@ -53902,8 +53904,8 @@ nodes = (
 width = 809;
 }
 );
-leftKerningGroup = _VowelRuBoth;
-rightKerningGroup = _VowelRuBoth;
+leftKerningGroup = vowelRu.mlm;
+rightKerningGroup = vowelRu.mlm;
 unicode = 0D0B;
 script = malayalam;
 category = Letter;
@@ -54113,8 +54115,8 @@ nodes = (
 width = 1100;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D0C;
 script = malayalam;
 category = Letter;
@@ -54356,8 +54358,8 @@ nodes = (
 width = 1205;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _VowelshortERight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = vowelshortE.mlm;
 unicode = 0D0E;
 script = malayalam;
 category = Letter;
@@ -54657,7 +54659,7 @@ nodes = (
 width = 1223;
 }
 );
-leftKerningGroup = _PaLeft;
+leftKerningGroup = Pa.mlm;
 unicode = 0D0F;
 script = malayalam;
 category = Letter;
@@ -54697,8 +54699,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 1918;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _VowelshortERight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = vowelshortE.mlm;
 unicode = 0D10;
 script = malayalam;
 category = Letter;
@@ -54890,8 +54892,8 @@ nodes = (
 width = 728;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Da.mlm;
 unicode = 0D12;
 script = malayalam;
 category = Letter;
@@ -54931,8 +54933,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 1183;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _TthaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ttha.mlm;
 unicode = 0D13;
 script = malayalam;
 category = Letter;
@@ -54972,8 +54974,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 1473;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _AumatraRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = lengthAu.mlm;
 unicode = 0D14;
 script = malayalam;
 category = Letter;
@@ -55229,8 +55231,8 @@ nodes = (
 width = 962;
 }
 );
-leftKerningGroup = _KaLeft;
-rightKerningGroup = _KaRight;
+leftKerningGroup = Ka.mlm;
+rightKerningGroup = Ka.mlm;
 unicode = 0D15;
 script = malayalam;
 category = Letter;
@@ -55398,8 +55400,8 @@ nodes = (
 width = 974;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Kha.mlm;
 unicode = 0D16;
 script = malayalam;
 category = Letter;
@@ -55531,8 +55533,8 @@ nodes = (
 width = 862;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Na.mlm;
 unicode = 0D17;
 script = malayalam;
 category = Letter;
@@ -55728,7 +55730,7 @@ nodes = (
 width = 1228;
 }
 );
-leftKerningGroup = _GhaLeft;
+leftKerningGroup = Gha.mlm;
 unicode = 0D18;
 script = malayalam;
 category = Letter;
@@ -55962,8 +55964,8 @@ nodes = (
 width = 1063;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Da.mlm;
 unicode = 0D19;
 script = malayalam;
 category = Letter;
@@ -56091,8 +56093,8 @@ nodes = (
 width = 858;
 }
 );
-leftKerningGroup = _CaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ca.mlm;
+rightKerningGroup = Kha.mlm;
 unicode = 0D1A;
 script = malayalam;
 category = Letter;
@@ -56288,8 +56290,8 @@ nodes = (
 width = 1238;
 }
 );
-leftKerningGroup = _CaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ca.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D1B;
 script = malayalam;
 category = Letter;
@@ -56603,8 +56605,8 @@ nodes = (
 width = 890;
 }
 );
-leftKerningGroup = _VowelULeft;
-rightKerningGroup = _JaRight;
+leftKerningGroup = vowelU.mlm;
+rightKerningGroup = Ja.mlm;
 unicode = 0D1C;
 script = malayalam;
 category = Letter;
@@ -56874,8 +56876,8 @@ nodes = (
 width = 1566;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Dha.mlm;
 unicode = 0D1D;
 script = malayalam;
 category = Letter;
@@ -57159,8 +57161,8 @@ nodes = (
 width = 1364;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D1E;
 script = malayalam;
 category = Letter;
@@ -57292,8 +57294,8 @@ nodes = (
 width = 557;
 }
 );
-leftKerningGroup = _TtaBoth;
-rightKerningGroup = _TtaBoth;
+leftKerningGroup = Tta.mlm;
+rightKerningGroup = Tta.mlm;
 unicode = 0D1F;
 script = malayalam;
 category = Letter;
@@ -57383,7 +57385,7 @@ nodes = (
 width = 644;
 }
 );
-rightKerningGroup = _TthaRight;
+rightKerningGroup = Ttha.mlm;
 unicode = 0D20;
 script = malayalam;
 category = Letter;
@@ -57557,8 +57559,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 unicode = 0D21;
 script = malayalam;
 category = Letter;
@@ -57774,8 +57776,8 @@ nodes = (
 width = 1282;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DdhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Ddha.mlm;
 unicode = 0D22;
 script = malayalam;
 category = Letter;
@@ -58005,8 +58007,8 @@ nodes = (
 width = 1307;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Na.mlm;
 unicode = 0D23;
 script = malayalam;
 category = Letter;
@@ -58206,8 +58208,8 @@ nodes = (
 width = 950;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D24;
 script = malayalam;
 category = Letter;
@@ -58305,7 +58307,7 @@ nodes = (
 width = 866;
 }
 );
-rightKerningGroup = _ThaRight;
+rightKerningGroup = Tha.mlm;
 unicode = 0D25;
 script = malayalam;
 category = Letter;
@@ -58447,8 +58449,8 @@ nodes = (
 width = 636;
 }
 );
-leftKerningGroup = _DaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Da.mlm;
+rightKerningGroup = Da.mlm;
 unicode = 0D26;
 script = malayalam;
 category = Letter;
@@ -58606,8 +58608,8 @@ nodes = (
 width = 902;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Dha.mlm;
 unicode = 0D27;
 script = malayalam;
 category = Letter;
@@ -58753,8 +58755,8 @@ nodes = (
 width = 902;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Na.mlm;
 unicode = 0D28;
 script = malayalam;
 category = Letter;
@@ -58942,8 +58944,8 @@ nodes = (
 width = 1002;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Na.mlm;
 unicode = 0D29;
 script = malayalam;
 category = Letter;
@@ -59095,8 +59097,8 @@ nodes = (
 width = 876;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 unicode = 0D2A;
 script = malayalam;
 category = Letter;
@@ -59246,8 +59248,8 @@ nodes = (
 width = 1078;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _ThaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Tha.mlm;
 unicode = 0D2B;
 script = malayalam;
 category = Letter;
@@ -59471,8 +59473,8 @@ nodes = (
 width = 1276;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Kha.mlm;
 unicode = 0D2C;
 script = malayalam;
 category = Letter;
@@ -59630,8 +59632,8 @@ nodes = (
 width = 646;
 }
 );
-leftKerningGroup = _DaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Da.mlm;
+rightKerningGroup = Da.mlm;
 unicode = 0D2D;
 script = malayalam;
 category = Letter;
@@ -59787,8 +59789,8 @@ nodes = (
 width = 647;
 }
 );
-leftKerningGroup = _MaLeft;
-rightKerningGroup = _MaRight;
+leftKerningGroup = Ma.mlm;
+rightKerningGroup = Ma.mlm;
 unicode = 0D2E;
 script = malayalam;
 category = Letter;
@@ -60022,8 +60024,8 @@ nodes = (
 width = 973;
 }
 );
-leftKerningGroup = _YaBoth;
-rightKerningGroup = _YaBoth;
+leftKerningGroup = Ya.mlm;
+rightKerningGroup = Ya.mlm;
 unicode = 0D2F;
 script = malayalam;
 category = Letter;
@@ -60167,8 +60169,8 @@ nodes = (
 width = 707;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D30;
 script = malayalam;
 category = Letter;
@@ -60272,8 +60274,8 @@ nodes = (
 width = 644;
 }
 );
-leftKerningGroup = _RraLeft;
-rightKerningGroup = _RraRight;
+leftKerningGroup = Rra.mlm;
+rightKerningGroup = Rra.mlm;
 unicode = 0D31;
 script = malayalam;
 category = Letter;
@@ -60391,8 +60393,8 @@ nodes = (
 width = 821;
 }
 );
-leftKerningGroup = _DaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Da.mlm;
+rightKerningGroup = Kha.mlm;
 unicode = 0D32;
 script = malayalam;
 category = Letter;
@@ -60608,8 +60610,8 @@ nodes = (
 width = 691;
 }
 );
-leftKerningGroup = _VowelULeft;
-rightKerningGroup = _LlaRight;
+leftKerningGroup = vowelU.mlm;
+rightKerningGroup = Lla.mlm;
 unicode = 0D33;
 script = malayalam;
 category = Letter;
@@ -60777,8 +60779,8 @@ nodes = (
 width = 669;
 }
 );
-leftKerningGroup = _ZhaBoth;
-rightKerningGroup = _ZhaBoth;
+leftKerningGroup = Zha.mlm;
+rightKerningGroup = Zha.mlm;
 unicode = 0D34;
 script = malayalam;
 category = Letter;
@@ -60904,8 +60906,8 @@ nodes = (
 width = 918;
 }
 );
-leftKerningGroup = _RraLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Rra.mlm;
+rightKerningGroup = Kha.mlm;
 unicode = 0D35;
 script = malayalam;
 category = Letter;
@@ -61059,8 +61061,8 @@ nodes = (
 width = 972;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D36;
 script = malayalam;
 category = Letter;
@@ -61270,8 +61272,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 unicode = 0D37;
 script = malayalam;
 category = Letter;
@@ -61445,8 +61447,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 unicode = 0D38;
 script = malayalam;
 category = Letter;
@@ -61612,8 +61614,8 @@ nodes = (
 width = 1145;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _RraRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Rra.mlm;
 unicode = 0D39;
 script = malayalam;
 category = Letter;
@@ -61915,7 +61917,7 @@ nodes = (
 width = 447;
 }
 );
-rightKerningGroup = _TthaRight;
+rightKerningGroup = Ttha.mlm;
 unicode = 0D3E;
 script = malayalam;
 category = Letter;
@@ -62001,7 +62003,7 @@ nodes = (
 width = 250;
 }
 );
-rightKerningGroup = _DandaRight;
+rightKerningGroup = Kha.mlm;
 unicode = 0D3F;
 script = malayalam;
 category = Letter;
@@ -62109,7 +62111,7 @@ nodes = (
 width = 250;
 }
 );
-rightKerningGroup = _DandaRight;
+rightKerningGroup = Kha.mlm;
 unicode = 0D40;
 script = malayalam;
 category = Letter;
@@ -62281,8 +62283,8 @@ nodes = (
 width = 295;
 }
 );
-leftKerningGroup = _matraU_Left;
-rightKerningGroup = _matraURight;
+leftKerningGroup = matraU.mlm;
+rightKerningGroup = matraU.mlm;
 unicode = 0D41;
 script = malayalam;
 category = Letter;
@@ -62516,8 +62518,8 @@ nodes = (
 width = 305;
 }
 );
-leftKerningGroup = _matraU_Left;
-rightKerningGroup = _matraURight;
+leftKerningGroup = matraU.mlm;
+rightKerningGroup = matraU.mlm;
 unicode = 0D42;
 script = malayalam;
 category = Letter;
@@ -62645,7 +62647,7 @@ nodes = (
 width = 260;
 }
 );
-rightKerningGroup = _matraRuRight;
+rightKerningGroup = matraRu.mlm;
 unicode = 0D43;
 script = malayalam;
 category = Letter;
@@ -62819,8 +62821,11 @@ nodes = (
 width = 256;
 }
 );
-rightKerningGroup = _matraRuRight;
+rightKerningGroup = matraRu.mlm;
 unicode = 0D44;
+script = malayalam;
+category = Letter;
+subCategory = Other;
 },
 {
 glyphname = matrashortE.mlm;
@@ -62974,8 +62979,8 @@ nodes = (
 width = 708;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D46;
 script = malayalam;
 category = Letter;
@@ -63190,8 +63195,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 1416;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D48;
 script = malayalam;
 category = Letter;
@@ -63231,8 +63236,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 1425;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _TthaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ttha.mlm;
 unicode = 0D4A;
 script = malayalam;
 category = Letter;
@@ -63272,7 +63277,7 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 1341;
 }
 );
-rightKerningGroup = _TthaRight;
+rightKerningGroup = Ttha.mlm;
 unicode = 0D4B;
 script = malayalam;
 category = Letter;
@@ -63312,8 +63317,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 1731;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _AumatraRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = lengthAu.mlm;
 unicode = 0D4C;
 script = malayalam;
 category = Letter;
@@ -63395,6 +63400,8 @@ width = 0;
 );
 unicode = 0D4D;
 script = malayalam;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = uni0D4E;
@@ -63448,6 +63455,8 @@ width = 0;
 );
 unicode = 0D4E;
 script = malayalam;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = lengthAu.mlm;
@@ -63599,7 +63608,7 @@ nodes = (
 width = 738;
 }
 );
-rightKerningGroup = _AumatraRight;
+rightKerningGroup = lengthAu.mlm;
 unicode = 0D57;
 script = malayalam;
 category = Letter;
@@ -64144,8 +64153,8 @@ nodes = (
 width = 809;
 }
 );
-leftKerningGroup = _VowelRuBoth;
-rightKerningGroup = _VowelRuBoth;
+leftKerningGroup = vowelRu.mlm;
+rightKerningGroup = vowelRu.mlm;
 unicode = 0D60;
 script = malayalam;
 category = Letter;
@@ -64423,8 +64432,8 @@ nodes = (
 width = 1237;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _VowelAaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = vowelAa.mlm;
 unicode = 0D61;
 script = malayalam;
 category = Letter;
@@ -64635,6 +64644,9 @@ width = 0;
 }
 );
 unicode = 0D62;
+script = malayalam;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = uni0D63;
@@ -64901,6 +64913,9 @@ width = 0;
 }
 );
 unicode = 0D63;
+script = malayalam;
+category = Mark;
+subCategory = Nonspacing;
 },
 {
 glyphname = uni0D66;
@@ -65100,7 +65115,7 @@ nodes = (
 width = 773;
 }
 );
-rightKerningGroup = _ThaRight;
+rightKerningGroup = Tha.mlm;
 unicode = 0D67;
 script = malayalam;
 category = Number;
@@ -65215,8 +65230,8 @@ nodes = (
 width = 774;
 }
 );
-leftKerningGroup = _RraLeft;
-rightKerningGroup = _malnumeral;
+leftKerningGroup = Rra.mlm;
+rightKerningGroup = uni0D68;
 unicode = 0D68;
 script = malayalam;
 category = Number;
@@ -65373,8 +65388,8 @@ nodes = (
 width = 1017;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _malnumeral;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = uni0D68;
 unicode = 0D69;
 script = malayalam;
 category = Number;
@@ -65561,8 +65576,8 @@ nodes = (
 width = 707;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D6A;
 script = malayalam;
 category = Number;
@@ -65937,7 +65952,7 @@ nodes = (
 width = 1214;
 }
 );
-leftKerningGroup = _NaLeft;
+leftKerningGroup = Na.mlm;
 unicode = 0D6C;
 script = malayalam;
 category = Number;
@@ -66088,7 +66103,7 @@ nodes = (
 width = 725;
 }
 );
-leftKerningGroup = _RaTaLeft;
+leftKerningGroup = Ra.mlm;
 unicode = 0D6D;
 script = malayalam;
 category = Number;
@@ -66239,8 +66254,8 @@ nodes = (
 width = 930;
 }
 );
-leftKerningGroup = _RraLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Rra.mlm;
+rightKerningGroup = Kha.mlm;
 unicode = 0D6E;
 script = malayalam;
 category = Number;
@@ -66469,8 +66484,8 @@ nodes = (
 width = 993;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D6F;
 script = malayalam;
 category = Number;
@@ -66791,7 +66806,7 @@ nodes = (
 width = 908;
 }
 );
-leftKerningGroup = _NaLeft;
+leftKerningGroup = Na.mlm;
 unicode = 0D71;
 script = malayalam;
 category = Number;
@@ -67036,7 +67051,7 @@ nodes = (
 width = 1374;
 }
 );
-leftKerningGroup = _NaLeft;
+leftKerningGroup = Na.mlm;
 unicode = 0D72;
 script = malayalam;
 category = Number;
@@ -67155,7 +67170,7 @@ nodes = (
 width = 719;
 }
 );
-leftKerningGroup = _RaTaLeft;
+leftKerningGroup = Ra.mlm;
 unicode = 0D73;
 script = malayalam;
 category = Number;
@@ -67384,12 +67399,11 @@ nodes = (
 width = 861;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D74;
 script = malayalam;
-category = Letter;
-subCategory = Other;
+category = Number;
 },
 {
 glyphname = uni0D75;
@@ -67657,12 +67671,11 @@ nodes = (
 width = 1092;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D75;
 script = malayalam;
-category = Letter;
-subCategory = Other;
+category = Number;
 },
 {
 glyphname = uni0D79;
@@ -67858,7 +67871,7 @@ nodes = (
 width = 1118;
 }
 );
-leftKerningGroup = _NaLeft;
+leftKerningGroup = Na.mlm;
 unicode = 0D79;
 script = malayalam;
 category = Letter;
@@ -68172,8 +68185,8 @@ nodes = (
 width = 1398;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D7A;
 script = malayalam;
 category = Letter;
@@ -68403,8 +68416,8 @@ nodes = (
 width = 993;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D7B;
 script = malayalam;
 category = Letter;
@@ -68592,8 +68605,8 @@ nodes = (
 width = 707;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D7C;
 script = malayalam;
 category = Letter;
@@ -68877,8 +68890,8 @@ nodes = (
 width = 1113;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D7D;
 script = malayalam;
 category = Letter;
@@ -69112,8 +69125,8 @@ nodes = (
 width = 965;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Ra.mlm;
 unicode = 0D7E;
 script = malayalam;
 category = Letter;
@@ -69421,9 +69434,9 @@ nodes = (
 width = 1084;
 }
 );
-leftKerningGroup = _KaLeft;
+leftKerningGroup = Ka.mlm;
 leftMetricsKey = Ka.mlm;
-rightKerningGroup = _KaRight;
+rightKerningGroup = Ka.mlm;
 unicode = 0D7F;
 script = malayalam;
 category = Letter;
@@ -69779,9 +69792,9 @@ nodes = (
 width = 1587;
 }
 );
-leftKerningGroup = _KaLeft;
+leftKerningGroup = Ka.mlm;
 leftMetricsKey = Ka.mlm;
-rightKerningGroup = _DandaRight;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -70010,8 +70023,8 @@ nodes = (
 width = 2252;
 }
 );
-leftKerningGroup = _VowelULeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = vowelU.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -70340,9 +70353,9 @@ nodes = (
 width = 1222;
 }
 );
-leftKerningGroup = _KaLeft;
+leftKerningGroup = Ka.mlm;
 leftMetricsKey = Ka.mlm;
-rightKerningGroup = _RaTaRight;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -70559,8 +70572,8 @@ nodes = (
 width = 1691;
 }
 );
-leftKerningGroup = _KaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ka.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -70867,7 +70880,7 @@ nodes = (
 width = 968;
 }
 );
-rightKerningGroup = _KaRight;
+rightKerningGroup = Ka.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -71188,8 +71201,8 @@ nodes = (
 width = 1464;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Da.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -71366,8 +71379,8 @@ nodes = (
 width = 934;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Da.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -71562,8 +71575,8 @@ nodes = (
 width = 982;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _MaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Ma.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -71824,8 +71837,8 @@ nodes = (
 width = 1540;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -71998,8 +72011,8 @@ nodes = (
 width = 1184;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -72478,8 +72491,8 @@ nodes = (
 width = 1803;
 }
 );
-leftKerningGroup = _VowelULeft;
-rightKerningGroup = _JaRight;
+leftKerningGroup = vowelU.mlm;
+rightKerningGroup = Ja.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -72908,8 +72921,8 @@ nodes = (
 width = 1567;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _JaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ja.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -73330,8 +73343,8 @@ nodes = (
 width = 2042;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -73642,8 +73655,8 @@ nodes = (
 width = 1584;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -74022,8 +74035,8 @@ nodes = (
 width = 2027;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -74304,8 +74317,8 @@ nodes = (
 width = 1403;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _MaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ma.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -74604,8 +74617,8 @@ nodes = (
 width = 1910;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -74946,8 +74959,8 @@ nodes = (
 width = 2009;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DdhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Ddha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -75238,8 +75251,8 @@ nodes = (
 width = 1379;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Da.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -75576,8 +75589,8 @@ nodes = (
 width = 1628;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -75846,8 +75859,8 @@ nodes = (
 width = 1547;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -76086,7 +76099,7 @@ nodes = (
 width = 1542;
 }
 );
-leftKerningGroup = _RaTaLeft;
+leftKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -76379,8 +76392,8 @@ nodes = (
 width = 1355;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _MaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Ma.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -76675,8 +76688,8 @@ nodes = (
 width = 1342;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Da.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -76917,8 +76930,8 @@ nodes = (
 width = 1265;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -77143,8 +77156,8 @@ nodes = (
 width = 1242;
 }
 );
-leftKerningGroup = _DaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Da.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -77331,8 +77344,8 @@ nodes = (
 width = 1208;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -77523,8 +77536,8 @@ nodes = (
 width = 959;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Da.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -77765,8 +77778,8 @@ nodes = (
 width = 1265;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -77981,8 +77994,8 @@ nodes = (
 width = 1505;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -78179,8 +78192,8 @@ nodes = (
 width = 998;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _MaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Ma.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -78365,8 +78378,8 @@ nodes = (
 width = 1499;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _ThaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Tha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -78601,8 +78614,8 @@ nodes = (
 width = 1051;
 }
 );
-leftKerningGroup = _MaLeft;
-rightKerningGroup = _MaRight;
+leftKerningGroup = Ma.mlm;
+rightKerningGroup = Ma.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -78769,8 +78782,8 @@ nodes = (
 width = 1177;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -79027,8 +79040,8 @@ nodes = (
 width = 1451;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -79353,8 +79366,8 @@ nodes = (
 width = 1896;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -79573,7 +79586,7 @@ nodes = (
 width = 1781;
 }
 );
-leftKerningGroup = _NaLeft;
+leftKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -79780,8 +79793,8 @@ nodes = (
 width = 1415;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -79972,8 +79985,8 @@ nodes = (
 width = 1159;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _MaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Ma.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -80374,8 +80387,8 @@ nodes = (
 width = 1388;
 }
 );
-leftKerningGroup = _VowelULeft;
-rightKerningGroup = _LlaRight;
+leftKerningGroup = vowelU.mlm;
+rightKerningGroup = Lla.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -80740,9 +80753,9 @@ nodes = (
 width = 962;
 }
 );
-leftKerningGroup = _KaLeft;
+leftKerningGroup = Ka.mlm;
 leftMetricsKey = Ka.mlm;
-rightKerningGroup = _KaRight;
+rightKerningGroup = Ka.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -81135,9 +81148,9 @@ nodes = (
 width = 962;
 }
 );
-leftKerningGroup = _KaLeft;
+leftKerningGroup = Ka.mlm;
 leftMetricsKey = Ka.mlm;
-rightKerningGroup = _KaRight;
+rightKerningGroup = Ka.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -81540,9 +81553,9 @@ nodes = (
 width = 962;
 }
 );
-leftKerningGroup = _KaLeft;
+leftKerningGroup = Ka.mlm;
 leftMetricsKey = Ka.mlm;
-rightKerningGroup = _KaRight;
+rightKerningGroup = Ka.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -81693,7 +81706,7 @@ nodes = (
 width = 1587;
 }
 );
-leftKerningGroup = _KaLeft;
+leftKerningGroup = Ka.mlm;
 leftMetricsKey = Ka.mlm;
 script = malayalam;
 category = Letter;
@@ -81869,8 +81882,8 @@ nodes = (
 width = 1228;
 }
 );
-leftKerningGroup = _GhaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Gha.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -82101,8 +82114,8 @@ nodes = (
 width = 862;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -82383,8 +82396,8 @@ nodes = (
 width = 862;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -82551,8 +82564,8 @@ nodes = (
 width = 858;
 }
 );
-leftKerningGroup = _CaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ca.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -82763,8 +82776,8 @@ nodes = (
 width = 858;
 }
 );
-leftKerningGroup = _CaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ca.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -82937,8 +82950,8 @@ nodes = (
 width = 557;
 }
 );
-leftKerningGroup = _TtaBoth;
-rightKerningGroup = _TtaBoth;
+leftKerningGroup = Tta.mlm;
+rightKerningGroup = Tta.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -83263,8 +83276,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -83627,8 +83640,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -84057,8 +84070,8 @@ nodes = (
 width = 1307;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -84351,8 +84364,8 @@ nodes = (
 width = 1307;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _NaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -84697,7 +84710,7 @@ nodes = (
 width = 950;
 }
 );
-leftKerningGroup = _RaTaLeft;
+leftKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -84898,8 +84911,8 @@ nodes = (
 width = 622;
 }
 );
-leftKerningGroup = _DaLeft;
-rightKerningGroup = _DaRight;
+leftKerningGroup = Da.mlm;
+rightKerningGroup = Da.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -85110,8 +85123,8 @@ nodes = (
 width = 876;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -85286,8 +85299,8 @@ nodes = (
 width = 876;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -85386,8 +85399,8 @@ nodes = (
 width = 876;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -85558,8 +85571,8 @@ nodes = (
 width = 876;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -85846,8 +85859,8 @@ nodes = (
 width = 868;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -86086,8 +86099,8 @@ nodes = (
 width = 1276;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -86240,8 +86253,8 @@ nodes = (
 width = 1276;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -86398,8 +86411,8 @@ nodes = (
 width = 1276;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -86676,8 +86689,8 @@ nodes = (
 width = 1276;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -86848,8 +86861,8 @@ nodes = (
 width = 1276;
 }
 );
-leftKerningGroup = _RaTaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Ra.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -87088,8 +87101,8 @@ nodes = (
 width = 1091;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _ThaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Tha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -87300,8 +87313,8 @@ nodes = (
 width = 1091;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _ThaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Tha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -87472,8 +87485,8 @@ nodes = (
 width = 1091;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _ThaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Tha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -87648,8 +87661,8 @@ nodes = (
 width = 647;
 }
 );
-leftKerningGroup = _MaLeft;
-rightKerningGroup = _MaRight;
+leftKerningGroup = Ma.mlm;
+rightKerningGroup = Ma.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -87830,8 +87843,8 @@ nodes = (
 width = 647;
 }
 );
-leftKerningGroup = _MaLeft;
-rightKerningGroup = _MaRight;
+leftKerningGroup = Ma.mlm;
+rightKerningGroup = Ma.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -88262,8 +88275,8 @@ nodes = (
 width = 973;
 }
 );
-leftKerningGroup = _YaBoth;
-rightKerningGroup = _YaBoth;
+leftKerningGroup = Ya.mlm;
+rightKerningGroup = Ya.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -88620,8 +88633,8 @@ nodes = (
 width = 973;
 }
 );
-leftKerningGroup = _YaBoth;
-rightKerningGroup = _YaBoth;
+leftKerningGroup = Ya.mlm;
+rightKerningGroup = Ya.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -88742,8 +88755,8 @@ nodes = (
 width = 973;
 }
 );
-leftKerningGroup = _YaBoth;
-rightKerningGroup = _YaBoth;
+leftKerningGroup = Ya.mlm;
+rightKerningGroup = Ya.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -88894,8 +88907,8 @@ nodes = (
 width = 973;
 }
 );
-leftKerningGroup = _YaBoth;
-rightKerningGroup = _YaBoth;
+leftKerningGroup = Ya.mlm;
+rightKerningGroup = Ya.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -88986,8 +88999,8 @@ nodes = (
 width = 973;
 }
 );
-leftKerningGroup = _YaBoth;
-rightKerningGroup = _YaBoth;
+leftKerningGroup = Ya.mlm;
+rightKerningGroup = Ya.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -89160,8 +89173,8 @@ nodes = (
 width = 644;
 }
 );
-leftKerningGroup = _RraLeft;
-rightKerningGroup = _RraRight;
+leftKerningGroup = Rra.mlm;
+rightKerningGroup = Rra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -89402,8 +89415,8 @@ nodes = (
 width = 826;
 }
 );
-leftKerningGroup = _DaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Da.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -89526,8 +89539,8 @@ nodes = (
 width = 826;
 }
 );
-leftKerningGroup = _DaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Da.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -89680,8 +89693,8 @@ nodes = (
 width = 826;
 }
 );
-leftKerningGroup = _DaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Da.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -89854,8 +89867,8 @@ nodes = (
 width = 826;
 }
 );
-leftKerningGroup = _DaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Da.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -90026,8 +90039,8 @@ nodes = (
 width = 918;
 }
 );
-leftKerningGroup = _RraLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Rra.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -90192,8 +90205,8 @@ nodes = (
 width = 918;
 }
 );
-leftKerningGroup = _RraLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Rra.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -90432,8 +90445,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -90576,8 +90589,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -90678,8 +90691,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -91092,8 +91105,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -91304,8 +91317,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -91462,8 +91475,8 @@ nodes = (
 width = 972;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -91584,8 +91597,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -91744,8 +91757,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -91896,8 +91909,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -92094,8 +92107,8 @@ nodes = (
 width = 1096;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _DandaRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -92366,8 +92379,8 @@ nodes = (
 width = 972;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -92538,8 +92551,8 @@ nodes = (
 width = 972;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -92818,8 +92831,8 @@ nodes = (
 width = 972;
 }
 );
-leftKerningGroup = _DhaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Dha.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -93058,8 +93071,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -93422,8 +93435,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -93728,8 +93741,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -93850,8 +93863,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -94150,7 +94163,7 @@ nodes = (
 width = 1161;
 }
 );
-leftKerningGroup = _NaLeft;
+leftKerningGroup = Na.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -94441,8 +94454,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -94779,8 +94792,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -94951,8 +94964,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -95127,8 +95140,8 @@ nodes = (
 width = 1183;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _DhaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Dha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -95439,8 +95452,8 @@ nodes = (
 width = 1155;
 }
 );
-leftKerningGroup = _PaLeft;
-rightKerningGroup = _RraRight;
+leftKerningGroup = Pa.mlm;
+rightKerningGroup = Rra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -95813,8 +95826,8 @@ nodes = (
 width = 669;
 }
 );
-leftKerningGroup = _ZhaBoth;
-rightKerningGroup = _ZhaBoth;
+leftKerningGroup = Zha.mlm;
+rightKerningGroup = Zha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -96087,8 +96100,8 @@ nodes = (
 width = 669;
 }
 );
-leftKerningGroup = _ZhaBoth;
-rightKerningGroup = _ZhaBoth;
+leftKerningGroup = Zha.mlm;
+rightKerningGroup = Zha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -96433,8 +96446,8 @@ nodes = (
 width = 669;
 }
 );
-leftKerningGroup = _ZhaBoth;
-rightKerningGroup = _ZhaBoth;
+leftKerningGroup = Zha.mlm;
+rightKerningGroup = Zha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -96719,8 +96732,8 @@ nodes = (
 width = 669;
 }
 );
-leftKerningGroup = _ZhaBoth;
-rightKerningGroup = _ZhaBoth;
+leftKerningGroup = Zha.mlm;
+rightKerningGroup = Zha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97031,8 +97044,8 @@ nodes = (
 width = 1002;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97401,8 +97414,8 @@ nodes = (
 width = 1002;
 }
 );
-leftKerningGroup = _NaLeft;
-rightKerningGroup = _RaTaRight;
+leftKerningGroup = Na.mlm;
+rightKerningGroup = Ra.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97507,7 +97520,7 @@ nodes = (
 width = 252;
 }
 );
-rightKerningGroup = _matraRuRight;
+rightKerningGroup = matraRu.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97592,7 +97605,7 @@ nodes = (
 width = 262;
 }
 );
-leftKerningGroup = _ViramaRaLeft;
+leftKerningGroup = ViramaRa.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97661,7 +97674,7 @@ nodes = (
 width = 249;
 }
 );
-rightKerningGroup = _DandaRight;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97766,7 +97779,7 @@ nodes = (
 width = 236;
 }
 );
-rightKerningGroup = _matraRuRight;
+rightKerningGroup = matraRu.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97851,7 +97864,7 @@ nodes = (
 width = 263;
 }
 );
-leftKerningGroup = _ViramaRaLeft;
+leftKerningGroup = ViramaRa.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97920,7 +97933,7 @@ nodes = (
 width = 254;
 }
 );
-rightKerningGroup = _DandaRight;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97951,7 +97964,7 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 318;
 }
 );
-rightKerningGroup = _matraURight;
+rightKerningGroup = matraU.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -97982,7 +97995,7 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 328;
 }
 );
-rightKerningGroup = _matraURight;
+rightKerningGroup = matraU.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -98013,7 +98026,7 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 286;
 }
 );
-rightKerningGroup = _matraRuRight;
+rightKerningGroup = matraRu.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -98044,7 +98057,7 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 334;
 }
 );
-rightKerningGroup = _matraURight;
+rightKerningGroup = matraU.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -98075,7 +98088,7 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 344;
 }
 );
-rightKerningGroup = _matraURight;
+rightKerningGroup = matraU.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -98202,7 +98215,7 @@ nodes = (
 width = 328;
 }
 );
-rightKerningGroup = _matraRuRight;
+rightKerningGroup = matraRu.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -98287,7 +98300,7 @@ nodes = (
 width = 250;
 }
 );
-rightKerningGroup = _DandaRight;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -98394,7 +98407,7 @@ nodes = (
 width = 250;
 }
 );
-rightKerningGroup = _DandaRight;
+rightKerningGroup = Kha.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -98423,8 +98436,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 295;
 }
 );
-leftKerningGroup = _matraU_Left;
-rightKerningGroup = _matraURight;
+leftKerningGroup = matraU.mlm;
+rightKerningGroup = matraU.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -98453,8 +98466,8 @@ layerId = "397e5db5-2a28-42eb-bc7a-688f7c865be7";
 width = 305;
 }
 );
-leftKerningGroup = _matraU_Left;
-rightKerningGroup = _matraURight;
+leftKerningGroup = matraU.mlm;
+rightKerningGroup = matraU.mlm;
 script = malayalam;
 category = Letter;
 subCategory = Other;
@@ -98991,12 +99004,6 @@ width = 1089;
 );
 instances = (
 {
-customParameters = (
-{
-name = weightClass;
-value = 400;
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 "397e5db5-2a28-42eb-bc7a-688f7c865be7" = 1;
@@ -99004,12 +99011,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = 500;
-}
-);
 interpolationWeight = 500;
 instanceInterpolations = {
 "397e5db5-2a28-42eb-bc7a-688f7c865be7" = 0.75;
@@ -99019,12 +99020,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = 600;
-}
-);
 interpolationWeight = 592;
 instanceInterpolations = {
 "397e5db5-2a28-42eb-bc7a-688f7c865be7" = 0.52;
@@ -99034,12 +99029,6 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = 700;
-}
-);
 interpolationWeight = 704;
 instanceInterpolations = {
 "397e5db5-2a28-42eb-bc7a-688f7c865be7" = 0.24;
@@ -99051,12 +99040,6 @@ name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = 800;
-}
-);
 interpolationWeight = 800;
 instanceInterpolations = {
 "6071b2fe-43f3-4e05-9bbd-9490fbbb86dc" = 1;
@@ -99095,6 +99078,30 @@ kerning = {
 "@MMK_R_v" = -27;
 "@MMK_R_w" = -13;
 "@MMK_R_z" = 10;
+Euro = -30;
+V = -35;
+X = 10;
+asterisk = -70;
+cent = -20;
+exclam = 5;
+n.superior = -30;
+nine = -30;
+one = -40;
+onesuperior = -60;
+question = -40;
+registered = -35;
+seven = -30;
+six = -15;
+slash = 25;
+threequarters = -25;
+threesuperior = -60;
+twosuperior = -40;
+uni20B9 = -30;
+uni20BA = -20;
+uni20BD = -5;
+uni2120 = -40;
+yen = -20;
+zero = -15;
 };
 "@MMK_L_C" = {
 "@MMK_R_A" = 20;
@@ -99120,6 +99127,55 @@ kerning = {
 "@MMK_R_u" = -5;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -10;
+Dcroat = -20;
+Eth = -20;
+V = 5;
+X = 16;
+asterisk = 20;
+at = -10;
+cent = -10;
+one = 8;
+question = 20;
+slash = 15;
+};
+"@MMK_L_Da.mlm" = {
+"@MMK_R_Ca.mlm" = 5;
+"@MMK_R_Gha.mlm" = 8;
+"@MMK_R_Ka.mlm" = 8;
+"@MMK_R_Ma.mlm" = 8;
+"@MMK_R_Pa.mlm" = 12;
+"@MMK_R_Tta.mlm" = 6;
+"@MMK_R_matraU.mlm" = 5;
+"@MMK_R_period" = 20;
+"@MMK_R_quoteleft" = 12;
+"@MMK_R_vowelRu.mlm" = 5;
+"@MMK_R_vowelU.mlm" = 8;
+NgaKa.mlm = 10;
+lengthAu.mlm = 10;
+slash = 20;
+};
+"@MMK_L_Ddha.mlm" = {
+"@MMK_R_Ca.mlm" = -13;
+"@MMK_R_Gha.mlm" = 10;
+"@MMK_R_Ra.mlm" = 5;
+"@MMK_R_Zha.mlm" = 5;
+lengthAu.mlm = 5;
+matraA.mlm = -4;
+uni0D67 = -30;
+uni0D70 = -30;
+};
+"@MMK_L_Dha.mlm" = {
+"@MMK_R_Ca.mlm" = -10;
+"@MMK_R_Gha.mlm" = 10;
+"@MMK_R_Ka.mlm" = 4;
+"@MMK_R_Ma.mlm" = 10;
+"@MMK_R_Pa.mlm" = 3;
+"@MMK_R_Zha.mlm" = 3;
+"@MMK_R_vowelU.mlm" = 5;
+lengthAu.mlm = 5;
+matraA.mlm = -4;
+uni0D67 = -30;
+uni0D70 = -30;
 };
 "@MMK_L_E" = {
 "@MMK_R_A" = 13;
@@ -99146,6 +99202,19 @@ kerning = {
 "@MMK_R_v" = -12;
 "@MMK_R_w" = -12;
 "@MMK_R_z" = 5;
+X = 10;
+at = -5;
+four = -5;
+hbar = 10;
+nine = -5;
+numbersign = -10;
+question = 15;
+seven = 10;
+six = -5;
+slash = 15;
+two = -2;
+x = 4;
+zero = -5;
 };
 "@MMK_L_F" = {
 "@MMK_R_A" = -44;
@@ -99173,6 +99242,24 @@ kerning = {
 "@MMK_R_v" = -10;
 "@MMK_R_w" = -15;
 "@MMK_R_z" = -15;
+AE = -79;
+V = 14;
+X = 10;
+at = -8;
+four = -5;
+hbar = 14;
+nine = -5;
+numbersign = -10;
+one = 5;
+question = 19;
+seven = 8;
+six = -8;
+slash = -40;
+three = -10;
+threequarters = 5;
+two = -5;
+x = -25;
+zero = -8;
 };
 "@MMK_L_G" = {
 "@MMK_R_A" = 10;
@@ -99191,6 +99278,44 @@ kerning = {
 "@MMK_R_trademark" = -20;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -10;
+V = -15;
+asterisk = -20;
+nine = -8;
+one = -30;
+onesuperior = -20;
+question = -1;
+seven = -15;
+threequarters = -5;
+x = -10;
+};
+"@MMK_L_Ja.mlm" = {
+"@MMK_R_Ca.mlm" = 10;
+"@MMK_R_Dha.mlm" = 5;
+"@MMK_R_Gha.mlm" = 10;
+"@MMK_R_Ma.mlm" = 10;
+"@MMK_R_Pa.mlm" = 8;
+"@MMK_R_Ra.mlm" = 3;
+"@MMK_R_Tta.mlm" = 5;
+"@MMK_R_Zha.mlm" = 5;
+"@MMK_R_parenright" = 10;
+"@MMK_R_period" = 25;
+"@MMK_R_quoteleft" = 20;
+"@MMK_R_vowelRu.mlm" = 10;
+"@MMK_R_vowelU.mlm" = 10;
+Anuswara.mlm = 4;
+Ja.mlm = 10;
+Lla.mlm = 10;
+NgaKa.mlm = 10;
+TtaTta.mlm = 10;
+ViramaVa1.mlm = 20;
+ViramaYa1.mlm = 50;
+comma = 25;
+lengthAu.mlm = 10;
+matraA.mlm = 5;
+matraU2.mlm = 5;
+matraUu.mlm = 10;
+semicolon = 25;
+slash = 20;
 };
 "@MMK_L_K" = {
 "@MMK_R_A" = 12;
@@ -99213,6 +99338,56 @@ kerning = {
 "@MMK_R_u" = -5;
 "@MMK_R_v" = -25;
 "@MMK_R_w" = -20;
+Eth = -10;
+Hbar = -10;
+V = -15;
+X = 5;
+at = -10;
+cent = -20;
+question = 5;
+registered = -10;
+six = -5;
+slash = 20;
+uni20BD = -15;
+zero = -5;
+};
+"@MMK_L_Ka.mlm" = {
+"@MMK_R_Ca.mlm" = 8;
+"@MMK_R_Gha.mlm" = -12;
+"@MMK_R_Ka.mlm" = 10;
+"@MMK_R_Ma.mlm" = 5;
+"@MMK_R_Pa.mlm" = 14;
+"@MMK_R_Rra.mlm" = 4;
+"@MMK_R_ViramaRa.mlm" = 8;
+"@MMK_R_Ya.mlm" = -5;
+"@MMK_R_Zha.mlm" = -24;
+"@MMK_R_colon" = 30;
+"@MMK_R_matraU.mlm" = 14;
+"@MMK_R_period" = 20;
+"@MMK_R_quoteleft" = -30;
+"@MMK_R_quoteright" = -30;
+"@MMK_R_quotesingle" = -30;
+"@MMK_R_trademark" = -40;
+Anuswara.mlm = 10;
+TtaTta.mlm = -22;
+Visarga.mlm = 4;
+asterisk = -30;
+four = 20;
+lengthAu.mlm = -15;
+matraA.mlm = 5;
+matraU1.mlm = -3;
+one = -50;
+question = -15;
+registered = -20;
+seven = -20;
+slash = 30;
+uni0D70 = -30;
+};
+"@MMK_L_Kha.mlm" = {
+"@MMK_R_parenright" = 5;
+"@MMK_R_period" = 10;
+"@MMK_R_quoteright" = 10;
+"@MMK_R_quotesingle" = 5;
 };
 "@MMK_L_L" = {
 "@MMK_R_A" = 10;
@@ -99240,6 +99415,42 @@ kerning = {
 "@MMK_R_u" = -20;
 "@MMK_R_v" = -50;
 "@MMK_R_w" = -40;
+Dcroat = -20;
+Eth = -20;
+Euro = -40;
+V = -60;
+X = 5;
+asterisk = -40;
+at = -5;
+cent = -35;
+n.superior = -40;
+nine = -25;
+one = -50;
+onesuperior = -80;
+question = -21;
+registered = -60;
+seven = -30;
+six = -5;
+slash = 20;
+threequarters = -10;
+threesuperior = -70;
+twosuperior = -70;
+uni20B9 = -50;
+uni20BA = -30;
+yen = -30;
+zero = -10;
+};
+"@MMK_L_Lla.mlm" = {
+"@MMK_R_Ka.mlm" = 15;
+"@MMK_R_Pa.mlm" = 12;
+"@MMK_R_colon" = 10;
+"@MMK_R_period" = 20;
+"@MMK_R_trademark" = -30;
+"@MMK_R_vowelU.mlm" = 10;
+TtaTta.mlm = 8;
+ViramaYa1.mlm = 60;
+four = 20;
+slash = 10;
 };
 "@MMK_L_M" = {
 "@MMK_R_A" = 5;
@@ -99259,6 +99470,40 @@ kerning = {
 "@MMK_R_u" = -3;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -8;
+V = -23;
+X = 3;
+asterisk = -15;
+at = -5;
+nine = -15;
+one = -20;
+onesuperior = -10;
+question = -20;
+slash = 20;
+threesuperior = -8;
+two = 5;
+twosuperior = -10;
+};
+"@MMK_L_Ma.mlm" = {
+"@MMK_R_Pa.mlm" = 5;
+"@MMK_R_matraU.mlm" = 4;
+"@MMK_R_period" = 10;
+"@MMK_R_quoteright" = -5;
+"@MMK_R_quotesingle" = -15;
+"@MMK_R_trademark" = -40;
+asterisk = -10;
+lengthAu.mlm = -5;
+one = -20;
+slash = 10;
+};
+"@MMK_L_Na.mlm" = {
+"@MMK_R_Ca.mlm" = -10;
+"@MMK_R_Gha.mlm" = 15;
+"@MMK_R_Ma.mlm" = 10;
+"@MMK_R_Pa.mlm" = 8;
+"@MMK_R_vowelU.mlm" = 5;
+four = 20;
+lengthAu.mlm = 5;
+matraA.mlm = -4;
 };
 "@MMK_L_O" = {
 "@MMK_R_A" = -7;
@@ -99274,6 +99519,19 @@ kerning = {
 "@MMK_R_quotesingle" = -5;
 "@MMK_R_trademark" = -35;
 "@MMK_R_v" = -3;
+AE = -34;
+V = -12;
+X = -10;
+asterisk = -5;
+cent = 5;
+one = -8;
+onesuperior = -30;
+question = -20;
+seven = -10;
+slash = -5;
+three = -10;
+two = -15;
+x = -11;
 };
 "@MMK_L_Ohorn" = {
 "@MMK_R_A" = -21;
@@ -99284,6 +99542,8 @@ kerning = {
 "@MMK_R_W" = 25;
 "@MMK_R_Y" = 35;
 "@MMK_R_Z" = 5;
+V = 30;
+X = 20;
 };
 "@MMK_L_R" = {
 "@MMK_R_A" = 8;
@@ -99305,6 +99565,52 @@ kerning = {
 "@MMK_R_u" = -8;
 "@MMK_R_v" = -8;
 "@MMK_R_w" = -10;
+Euro = -10;
+V = -10;
+X = 6;
+at = -5;
+nine = -5;
+numbersign = -10;
+one = -5;
+onesuperior = -10;
+question = -5;
+six = -8;
+slash = 15;
+uni20BA = -10;
+x = 4;
+yen = -15;
+zero = -10;
+};
+"@MMK_L_Ra.mlm" = {
+"@MMK_R_Ca.mlm" = -20;
+"@MMK_R_Gha.mlm" = 10;
+"@MMK_R_Ka.mlm" = 4;
+"@MMK_R_Ma.mlm" = 8;
+"@MMK_R_Pa.mlm" = 5;
+"@MMK_R_matraU.mlm" = -4;
+"@MMK_R_trademark" = -40;
+"@MMK_R_vowelRu.mlm" = -5;
+"@MMK_R_vowelU.mlm" = 3;
+Ja.mlm = 3;
+four = 20;
+matraA.mlm = -4;
+slash = 20;
+uni0D67 = -30;
+uni0D70 = -30;
+};
+"@MMK_L_Rra.mlm" = {
+"@MMK_R_Ca.mlm" = -10;
+"@MMK_R_Gha.mlm" = 15;
+"@MMK_R_Ka.mlm" = 4;
+"@MMK_R_Ma.mlm" = 10;
+"@MMK_R_Pa.mlm" = 8;
+"@MMK_R_trademark" = -30;
+"@MMK_R_vowelU.mlm" = 5;
+Ja.mlm = 5;
+NgaKa.mlm = 4;
+matraA.mlm = -4;
+uni0D67 = -30;
+uni0D70 = -30;
 };
 "@MMK_L_S" = {
 "@MMK_R_A" = 5;
@@ -99324,6 +99630,14 @@ kerning = {
 "@MMK_R_u" = -3;
 "@MMK_R_v" = -18;
 "@MMK_R_w" = -10;
+AE = -15;
+V = -12;
+X = 6;
+nine = -5;
+one = -8;
+registered = -10;
+slash = 5;
+x = -5;
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = -40;
@@ -99357,6 +99671,76 @@ kerning = {
 "@MMK_R_v" = -34;
 "@MMK_R_w" = -29;
 "@MMK_R_z" = -30;
+AE = -80;
+Dcroat = -20;
+Eth = -20;
+Euro = -30;
+V = 5;
+X = 5;
+asterisk = 20;
+at = -20;
+braceright = 5;
+cent = -30;
+eight = -10;
+four = -50;
+four.superior = -10;
+hbar = 19;
+numbersign = -20;
+one = 20;
+onesuperior = 30;
+question = 25;
+seven = 10;
+six = -10;
+slash = -40;
+sterling = -25;
+threequarters = 5;
+uni20B9 = 20;
+uni20BD = -30;
+x = -38;
+zero = -10;
+};
+"@MMK_L_Tha.mlm" = {
+"@MMK_R_matraU.mlm" = 5;
+"@MMK_R_period" = 5;
+"@MMK_R_quoteright" = -5;
+"@MMK_R_quotesingle" = -10;
+"@MMK_R_vowelU.mlm" = 4;
+matraRu.mlm = 5;
+slash = 10;
+};
+"@MMK_L_Tta.mlm" = {
+"@MMK_R_Ca.mlm" = 8;
+"@MMK_R_Gha.mlm" = 5;
+"@MMK_R_Ka.mlm" = 10;
+"@MMK_R_Ma.mlm" = 10;
+"@MMK_R_Pa.mlm" = 16;
+"@MMK_R_Ra.mlm" = 5;
+"@MMK_R_Tta.mlm" = 14;
+"@MMK_R_ViramaRa.mlm" = 8;
+"@MMK_R_matraU.mlm" = 20;
+"@MMK_R_period" = 30;
+"@MMK_R_quoteleft" = 10;
+"@MMK_R_quoteright" = 20;
+"@MMK_R_quotesingle" = 5;
+"@MMK_R_vowelU.mlm" = 10;
+Anuswara.mlm = 13;
+Ja.mlm = 10;
+NgaKa.mlm = 10;
+Visarga.mlm = 8;
+four = 20;
+lengthAu.mlm = 10;
+matraA.mlm = 6;
+one = 20;
+question = 15;
+};
+"@MMK_L_Ttha.mlm" = {
+"@MMK_R_Ca.mlm" = -12;
+"@MMK_R_Gha.mlm" = 5;
+"@MMK_R_Tta.mlm" = 4;
+"@MMK_R_matraU.mlm" = -12;
+"@MMK_R_period" = -5;
+"@MMK_R_trademark" = -30;
+matraA.mlm = -5;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -10;
@@ -99368,6 +99752,8 @@ kerning = {
 "@MMK_R_period" = -10;
 "@MMK_R_v" = -20;
 "@MMK_R_z" = -8;
+AE = -20;
+x = -5;
 };
 "@MMK_L_Uhorn" = {
 "@MMK_R_A" = -50;
@@ -99384,6 +99770,9 @@ kerning = {
 "@MMK_R_v" = -19;
 "@MMK_R_w" = -14;
 "@MMK_R_z" = -29;
+V = 20;
+X = 10;
+x = -14;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -25;
@@ -99403,6 +99792,21 @@ kerning = {
 "@MMK_R_s" = -5;
 "@MMK_R_trademark" = 8;
 "@MMK_R_u" = -4;
+AE = -40;
+V = 10;
+X = 4;
+asterisk = 15;
+at = -4;
+bracketright = 5;
+eight = -10;
+four = -15;
+numbersign = -5;
+one = 10;
+question = 15;
+seven = 5;
+slash = -10;
+two = -5;
+x = -5;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -40;
@@ -99431,6 +99835,41 @@ kerning = {
 "@MMK_R_v" = -14;
 "@MMK_R_w" = -15;
 "@MMK_R_z" = -19;
+AE = -80;
+Dcroat = -20;
+Eth = -20;
+Euro = -30;
+V = 12;
+X = 4;
+asterisk = 15;
+at = -30;
+bracketright = 8;
+cent = -10;
+eight = -10;
+five = -10;
+four = -45;
+numbersign = -30;
+one = 5;
+question = 15;
+seven = 10;
+six = -25;
+slash = -40;
+sterling = -20;
+three = -10;
+two = -10;
+uni20B9 = 20;
+uni20BD = -25;
+x = -30;
+zero = -10;
+};
+"@MMK_L_Ya.mlm" = {
+"@MMK_R_Ca.mlm" = -15;
+"@MMK_R_Gha.mlm" = 8;
+"@MMK_R_Ma.mlm" = 5;
+"@MMK_R_Tta.mlm" = 4;
+"@MMK_R_matraU.mlm" = -5;
+lengthAu.mlm = 15;
+matraA.mlm = -4;
 };
 "@MMK_L_Z" = {
 "@MMK_R_A" = 5;
@@ -99450,6 +99889,47 @@ kerning = {
 "@MMK_R_u" = -10;
 "@MMK_R_v" = -25;
 "@MMK_R_w" = -12;
+Euro = -20;
+X = 5;
+at = -5;
+numbersign = -10;
+question = 5;
+registered = -8;
+seven = -5;
+six = -10;
+slash = 20;
+zero = -10;
+};
+"@MMK_L_Zha.mlm" = {
+"@MMK_R_Ca.mlm" = -45;
+"@MMK_R_Da.mlm" = -14;
+"@MMK_R_Gha.mlm" = 16;
+"@MMK_R_Ka.mlm" = -35;
+"@MMK_R_Pa.mlm" = -30;
+"@MMK_R_Ra.mlm" = -4;
+"@MMK_R_Tta.mlm" = 14;
+"@MMK_R_ViramaRa.mlm" = -10;
+"@MMK_R_Ya.mlm" = 5;
+"@MMK_R_Zha.mlm" = 8;
+"@MMK_R_colon" = 30;
+"@MMK_R_hyphen" = -20;
+"@MMK_R_matraU.mlm" = -5;
+"@MMK_R_period" = -35;
+"@MMK_R_quoteleft" = 30;
+"@MMK_R_quoteright" = 20;
+"@MMK_R_quotesingle" = 30;
+"@MMK_R_vowelRu.mlm" = 5;
+"@MMK_R_vowelU.mlm" = 6;
+Anuswara.mlm = -14;
+Ja.mlm = 4;
+NgaKa.mlm = -5;
+ViramaVa.mlm = -12;
+Visarga.mlm = 5;
+asterisk = 20;
+lengthAu.mlm = 8;
+matraA.mlm = 8;
+one = 20;
+slash = -20;
 };
 "@MMK_L_a" = {
 "@MMK_R_S" = -5;
@@ -99462,6 +99942,20 @@ kerning = {
 "@MMK_R_quotesingle" = -35;
 "@MMK_R_v" = -12;
 "@MMK_R_w" = -7;
+V = -35;
+asterisk = -15;
+backslash = -10;
+napostrophe = -19;
+one = -20;
+question = -10;
+seven = -15;
+};
+"@MMK_L_bar" = {
+five = 8;
+four = 5;
+one = 10;
+seven = 5;
+two = 8;
 };
 "@MMK_L_c" = {
 "@MMK_R_A" = 10;
@@ -99477,14 +99971,37 @@ kerning = {
 "@MMK_R_quoteright" = 20;
 "@MMK_R_s" = 6;
 "@MMK_R_z" = 8;
+V = -10;
+backslash = -15;
+five = 3;
+four = 5;
+nine = 5;
+semicolon = 19;
+slash = 19;
+three = 5;
+x = 8;
 };
 "@MMK_L_colon" = {
 "@MMK_R_A" = 15;
+"@MMK_R_Ca.mlm" = 40;
 "@MMK_R_J" = 5;
+"@MMK_R_Ma.mlm" = 30;
+"@MMK_R_Pa.mlm" = 30;
+"@MMK_R_Rra.mlm" = 10;
 "@MMK_R_T" = -8;
+"@MMK_R_Tta.mlm" = 30;
 "@MMK_R_Y" = -20;
+"@MMK_R_Ya.mlm" = 10;
 "@MMK_R_Z" = 10;
+"@MMK_R_Zha.mlm" = 20;
 Lla.mlm = 30;
+V = -10;
+X = 10;
+eight = 5;
+one = 29;
+three = 20;
+two = 34;
+x = 14;
 };
 "@MMK_L_copyright" = {
 "@MMK_R_A" = -5;
@@ -99492,6 +100009,15 @@ Lla.mlm = 30;
 "@MMK_R_T" = -5;
 "@MMK_R_Y" = -15;
 "@MMK_R_Z" = -15;
+X = -10;
+one = -5;
+seven = -8;
+};
+"@MMK_L_d" = {
+icircumflex = 15;
+idieresis = 1;
+imacron = 5;
+itilde = 1;
 };
 "@MMK_L_dcaron" = {
 "@MMK_R_A" = -50;
@@ -99512,6 +100038,13 @@ Lla.mlm = 30;
 "@MMK_R_s" = -11;
 "@MMK_R_u" = -10;
 "@MMK_R_z" = -10;
+V = 30;
+X = 10;
+asterisk = 30;
+four = -40;
+one = 30;
+question = 30;
+seven = 40;
 };
 "@MMK_L_e" = {
 "@MMK_R_J" = -8;
@@ -99527,6 +100060,12 @@ Lla.mlm = 30;
 "@MMK_R_s" = 6;
 "@MMK_R_v" = -4;
 "@MMK_R_w" = -8;
+V = -35;
+X = -10;
+asterisk = -10;
+backslash = -30;
+one = -20;
+x = 4;
 };
 "@MMK_L_five.inferior" = {
 "@MMK_R_one.inferior" = -10;
@@ -99553,6 +100092,20 @@ Lla.mlm = 30;
 "@MMK_R_quotesingle" = -30;
 "@MMK_R_v" = -10;
 "@MMK_R_w" = -5;
+V = -35;
+asterisk = -15;
+backslash = -10;
+comma = 10;
+one = -20;
+question = -10;
+semicolon = 5;
+seven = -10;
+slash = 10;
+};
+"@MMK_L_greater" = {
+seven = -10;
+three = -10;
+two = -10;
 };
 "@MMK_L_h" = {
 "@MMK_R_S" = -5;
@@ -99564,14 +100117,28 @@ Lla.mlm = 30;
 "@MMK_R_quotesingle" = -30;
 "@MMK_R_v" = -13;
 "@MMK_R_w" = -5;
+V = -37;
+asterisk = -15;
+backslash = -10;
+one = -25;
+question = -10;
+seven = -10;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_A" = -20;
+"@MMK_R_Gha.mlm" = 15;
 "@MMK_R_J" = -20;
 "@MMK_R_T" = -30;
 "@MMK_R_Y" = -30;
 "@MMK_R_Z" = -10;
 "@MMK_R_o" = 5;
+V = -30;
+X = -5;
+four = 20;
+nine = -5;
+one = -20;
+seven = -20;
+three = -20;
 uni0D70 = -30;
 };
 "@MMK_L_i" = {
@@ -99580,9 +100147,20 @@ uni0D70 = -30;
 "@MMK_R_Y" = -12;
 "@MMK_R_l" = 2;
 "@MMK_R_parenright" = 5;
+V = -12;
+icircumflex = 10;
+idieresis = 35;
+imacron = 5;
+itilde = 25;
 };
 "@MMK_L_j" = {
 "@MMK_R_parenright" = 8;
+comma = 10;
+icircumflex = 10;
+idieresis = 35;
+imacron = 5;
+itilde = 25;
+slash = 8;
 };
 "@MMK_L_k" = {
 "@MMK_R_A" = 5;
@@ -99605,10 +100183,29 @@ uni0D70 = -30;
 "@MMK_R_v" = -17;
 "@MMK_R_w" = -12;
 "@MMK_R_z" = 5;
+V = -25;
+at = -10;
+backslash = -30;
+question = -10;
+x = 5;
 };
 "@MMK_L_l" = {
 "@MMK_R_i" = 2;
 "@MMK_R_l" = 3;
+icircumflex = 15;
+idieresis = 11;
+imacron = 5;
+itilde = 1;
+};
+"@MMK_L_lengthAu.mlm" = {
+"@MMK_R_Ca.mlm" = -30;
+"@MMK_R_Gha.mlm" = 13;
+"@MMK_R_Ka.mlm" = -8;
+"@MMK_R_Pa.mlm" = -3;
+"@MMK_R_period" = -40;
+"@MMK_R_vowelU.mlm" = 5;
+Visarga.mlm = 6;
+matraRu.mlm = -10;
 };
 "@MMK_L_m" = {
 "@MMK_R_S" = -5;
@@ -99620,6 +100217,69 @@ uni0D70 = -30;
 "@MMK_R_quotesingle" = -30;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -4;
+V = -35;
+backslash = -10;
+napostrophe = -10;
+one = -20;
+question = -10;
+seven = -10;
+three = -5;
+};
+"@MMK_L_matraRu.mlm" = {
+"@MMK_R_Ca.mlm" = 30;
+"@MMK_R_Pa.mlm" = 8;
+"@MMK_R_ViramaRa.mlm" = 20;
+"@MMK_R_bar" = 20;
+"@MMK_R_colon" = 20;
+"@MMK_R_matraU.mlm" = 50;
+"@MMK_R_parenright" = 40;
+"@MMK_R_period" = 40;
+"@MMK_R_quoteright" = 15;
+"@MMK_R_vowelU.mlm" = 15;
+CaCha.mlm = 30;
+Ja.mlm = 15;
+MaLa.mlm = 20;
+MaNa.mlm = 20;
+PaSa.mlm = 10;
+TtaTta.mlm = 10;
+comma = 50;
+matraRu.mlm = 90;
+question = 30;
+semicolon = 40;
+slash = 40;
+two = 30;
+};
+"@MMK_L_matraU.mlm" = {
+"@MMK_R_Ca.mlm" = 42;
+"@MMK_R_Gha.mlm" = 8;
+"@MMK_R_Ka.mlm" = 14;
+"@MMK_R_Ma.mlm" = 18;
+"@MMK_R_Pa.mlm" = 22;
+"@MMK_R_Tta.mlm" = 10;
+"@MMK_R_ViramaRa.mlm" = 30;
+"@MMK_R_bar" = 20;
+"@MMK_R_colon" = 40;
+"@MMK_R_parenright" = 50;
+"@MMK_R_period" = 70;
+"@MMK_R_quoteleft" = 20;
+"@MMK_R_quoteright" = 15;
+"@MMK_R_quotesingle" = 15;
+"@MMK_R_vowelRu.mlm" = 10;
+"@MMK_R_vowelU.mlm" = 35;
+CaCha.mlm = 42;
+Ja.mlm = 35;
+Lla.mlm = 35;
+MaLa.mlm = 30;
+MaNa.mlm = 30;
+TtaTta.mlm = 35;
+ZhaTa.mlm = 20;
+comma = 80;
+matraA.mlm = 20;
+matrashortE.mlm = 4;
+parenleft = 20;
+semicolon = 50;
+slash = 60;
+two = 30;
 };
 "@MMK_L_nine.inferior" = {
 "@MMK_R_seven.inferior" = -5;
@@ -99643,6 +100303,21 @@ uni0D70 = -30;
 "@MMK_R_v" = -13;
 "@MMK_R_w" = -6;
 "@MMK_R_z" = -4;
+AE = -10;
+V = -43;
+X = -15;
+ampersand = 5;
+asterisk = -20;
+backslash = -30;
+five = -10;
+four = 5;
+napostrophe = -14;
+one = -30;
+question = -5;
+seven = -20;
+six = 4;
+x = -5;
+zero = 4;
 };
 "@MMK_L_ohorn" = {
 "@MMK_R_a" = -20;
@@ -99662,6 +100337,12 @@ uni0D70 = -30;
 "@MMK_R_j" = 7;
 "@MMK_R_o" = 7;
 "@MMK_R_s" = 7;
+V = -23;
+X = 7;
+eight = 6;
+four = 6;
+one = -15;
+two = 4;
 };
 "@MMK_L_ordmasculine" = {
 "@MMK_R_A" = -50;
@@ -99676,21 +100357,38 @@ uni0D70 = -30;
 "@MMK_R_o" = -8;
 "@MMK_R_parenright" = 40;
 "@MMK_R_v" = -5;
+"@MMK_R_vowelU.mlm" = 10;
 "@MMK_R_w" = -5;
+eight = -4;
+four = -5;
+icircumflex = 50;
+idieresis = 70;
+igrave = 50;
+imacron = 40;
+seven = 20;
+three = -4;
 uni0D67 = 30;
+x = -5;
 };
 "@MMK_L_parenleft.inferior" = {
 "@MMK_R_parenright.inferior" = 15;
 };
 "@MMK_L_period" = {
 "@MMK_R_A" = 15;
+"@MMK_R_Ca.mlm" = 55;
 "@MMK_R_J" = 30;
+"@MMK_R_Ka.mlm" = 20;
 "@MMK_R_M" = 5;
+"@MMK_R_Ma.mlm" = 20;
 "@MMK_R_O" = -20;
+"@MMK_R_Pa.mlm" = 35;
 "@MMK_R_T" = -50;
+"@MMK_R_Tta.mlm" = 30;
 "@MMK_R_W" = -30;
 "@MMK_R_Y" = -30;
+"@MMK_R_Ya.mlm" = -20;
 "@MMK_R_Z" = 19;
+"@MMK_R_Zha.mlm" = -25;
 "@MMK_R_a" = 3;
 "@MMK_R_o" = -10;
 "@MMK_R_period" = 22;
@@ -99700,19 +100398,39 @@ uni0D67 = 30;
 "@MMK_R_t" = -3;
 "@MMK_R_u" = -8;
 "@MMK_R_v" = -40;
+"@MMK_R_vowelU.mlm" = 15;
 "@MMK_R_w" = -30;
 "@MMK_R_z" = 20;
 Ttha.mlm = -5;
+V = -40;
+X = 20;
+eight = 10;
+five = 10;
+four = 5;
+nine = -1;
+one = 9;
+six = -1;
+three = 39;
+two = 39;
 uni0D67 = 50;
+x = 15;
+zero = -12;
 };
 "@MMK_L_quoteleft" = {
 "@MMK_R_A" = -60;
+"@MMK_R_Ca.mlm" = -40;
+"@MMK_R_Gha.mlm" = 30;
 "@MMK_R_J" = -70;
+"@MMK_R_Ka.mlm" = -30;
 "@MMK_R_M" = -10;
+"@MMK_R_Ma.mlm" = 10;
 "@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -25;
 "@MMK_R_T" = 30;
+"@MMK_R_Tta.mlm" = 20;
 "@MMK_R_W" = 15;
 "@MMK_R_Y" = 20;
+"@MMK_R_Zha.mlm" = 20;
 "@MMK_R_a" = -25;
 "@MMK_R_g" = -20;
 "@MMK_R_m" = -20;
@@ -99722,13 +100440,30 @@ uni0D67 = 50;
 "@MMK_R_v" = 10;
 "@MMK_R_w" = 10;
 "@MMK_R_z" = -5;
+AE = -80;
+V = 10;
+X = 10;
+five = 8;
+four = -21;
+icircumflex = 40;
+idieresis = 60;
+igrave = 40;
+imacron = 20;
+one = 39;
+seven = 35;
+three = 19;
+two = 9;
 uni0D67 = -40;
 uni0D70 = -30;
 };
 "@MMK_L_quoteright" = {
 "@MMK_R_A" = -60;
+"@MMK_R_Ca.mlm" = -20;
+"@MMK_R_Gha.mlm" = 20;
 "@MMK_R_J" = -70;
+"@MMK_R_Ka.mlm" = -40;
 "@MMK_R_O" = -20;
+"@MMK_R_Pa.mlm" = -25;
 "@MMK_R_S" = 19;
 "@MMK_R_T" = 20;
 "@MMK_R_W" = 19;
@@ -99745,24 +100480,59 @@ uni0D70 = -30;
 "@MMK_R_s" = -30;
 "@MMK_R_u" = -20;
 "@MMK_R_z" = -20;
+AE = -80;
+V = 19;
+exclam = -5;
+four = -40;
+icircumflex = 40;
+idieresis = 60;
+igrave = 20;
+imacron = 20;
+one = 30;
+question = 5;
+seven = 39;
+space = -50;
+three = 29;
 uni0D67 = -30;
+x = -12;
 };
 "@MMK_L_quotesingle" = {
 "@MMK_R_A" = -60;
+"@MMK_R_Ca.mlm" = -40;
+"@MMK_R_Gha.mlm" = 35;
 "@MMK_R_J" = -50;
+"@MMK_R_Ka.mlm" = -15;
 "@MMK_R_M" = -5;
+"@MMK_R_Ma.mlm" = 15;
 "@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -15;
 "@MMK_R_S" = 10;
 "@MMK_R_T" = 28;
+"@MMK_R_Tta.mlm" = 15;
 "@MMK_R_W" = 12;
 "@MMK_R_Y" = 20;
+"@MMK_R_Zha.mlm" = 30;
 "@MMK_R_a" = -11;
 "@MMK_R_g" = -30;
 "@MMK_R_m" = -30;
 "@MMK_R_o" = -30;
 "@MMK_R_v" = 19;
+"@MMK_R_vowelU.mlm" = 20;
 "@MMK_R_w" = 14;
+AE = -80;
 NgaKa.mlm = 15;
+V = 20;
+eight = -7;
+four = -11;
+icircumflex = 40;
+idieresis = 50;
+igrave = 20;
+imacron = 20;
+nine = 5;
+one = 49;
+seven = 39;
+space = -50;
+three = 24;
 uni0D67 = -20;
 };
 "@MMK_L_r" = {
@@ -99789,6 +100559,16 @@ uni0D67 = -20;
 "@MMK_R_v" = 16;
 "@MMK_R_w" = 14;
 "@MMK_R_z" = 5;
+V = -8;
+X = -10;
+ampersand = -40;
+asterisk = 5;
+at = -5;
+napostrophe = 38;
+nine = 8;
+slash = -40;
+threequarters = 5;
+x = 5;
 };
 "@MMK_L_s" = {
 "@MMK_R_A" = 5;
@@ -99806,6 +100586,14 @@ uni0D67 = -20;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -5;
 "@MMK_R_z" = 6;
+V = -30;
+asterisk = -5;
+at = 4;
+four = 10;
+one = -5;
+question = -15;
+seven = -8;
+x = 5;
 };
 "@MMK_L_seven.inferior" = {
 "@MMK_R_four.inferior" = -11;
@@ -99838,6 +100626,14 @@ uni0D67 = -20;
 "@MMK_R_v" = 4;
 "@MMK_R_w" = -5;
 "@MMK_R_z" = 8;
+V = -10;
+five = 5;
+nine = 8;
+one = 10;
+six = 10;
+slash = 10;
+x = 7;
+zero = 10;
 };
 "@MMK_L_three.inferior" = {
 "@MMK_R_four.inferior" = 4;
@@ -99856,11 +100652,27 @@ uni0D67 = -20;
 "@MMK_R_W" = -8;
 "@MMK_R_Y" = -35;
 "@MMK_R_Z" = -5;
+V = -25;
+X = -5;
 };
 "@MMK_L_uhorn" = {
 "@MMK_R_A" = -29;
 "@MMK_R_o" = -24;
 "@MMK_R_v" = 5;
+};
+"@MMK_L_uni0D68" = {
+"@MMK_R_Ca.mlm" = 40;
+"@MMK_R_Da.mlm" = 20;
+"@MMK_R_Gha.mlm" = -30;
+"@MMK_R_Ma.mlm" = 20;
+"@MMK_R_Pa.mlm" = 20;
+"@MMK_R_Tta.mlm" = 20;
+"@MMK_R_Zha.mlm" = -40;
+"@MMK_R_period" = 50;
+"@MMK_R_quoteright" = -30;
+"@MMK_R_vowelU.mlm" = 10;
+slash = 40;
+uni0D67 = 40;
 };
 "@MMK_L_v" = {
 "@MMK_R_A" = -30;
@@ -99878,6 +100690,79 @@ uni0D67 = -20;
 "@MMK_R_quotesingle" = 19;
 "@MMK_R_v" = 8;
 "@MMK_R_w" = 5;
+AE = -40;
+X = -15;
+ampersand = -15;
+asterisk = 5;
+napostrophe = 19;
+nine = 4;
+one = 7;
+six = 5;
+slash = -25;
+three = -10;
+two = -20;
+x = 3;
+zero = 8;
+};
+"@MMK_L_vowelAa.mlm" = {
+"@MMK_R_Ca.mlm" = 12;
+"@MMK_R_Dha.mlm" = -3;
+"@MMK_R_Gha.mlm" = -25;
+"@MMK_R_Ka.mlm" = 16;
+"@MMK_R_Ma.mlm" = 5;
+"@MMK_R_Pa.mlm" = 20;
+"@MMK_R_Ra.mlm" = -5;
+"@MMK_R_Rra.mlm" = -4;
+"@MMK_R_Tta.mlm" = 5;
+"@MMK_R_ViramaRa.mlm" = 5;
+"@MMK_R_Ya.mlm" = -7;
+"@MMK_R_Zha.mlm" = -30;
+"@MMK_R_colon" = 40;
+"@MMK_R_hyphen" = -5;
+"@MMK_R_parenright" = 10;
+"@MMK_R_period" = 50;
+"@MMK_R_quoteleft" = -30;
+"@MMK_R_quoteright" = -45;
+"@MMK_R_quotesingle" = -50;
+"@MMK_R_trademark" = -60;
+"@MMK_R_vowelRu.mlm" = -25;
+"@MMK_R_vowelU.mlm" = 8;
+NgaKa.mlm = 4;
+Visarga.mlm = 6;
+asterisk = -40;
+four = 20;
+lengthAu.mlm = -35;
+matraE.mlm = -5;
+one = -30;
+question = -20;
+registered = -30;
+slash = 50;
+};
+"@MMK_L_vowelRu.mlm" = {
+"@MMK_R_Ca.mlm" = -5;
+"@MMK_R_Gha.mlm" = 15;
+"@MMK_R_Ka.mlm" = -5;
+"@MMK_R_Ma.mlm" = 8;
+"@MMK_R_Pa.mlm" = -10;
+"@MMK_R_Ra.mlm" = -5;
+"@MMK_R_Zha.mlm" = 8;
+"@MMK_R_period" = -10;
+"@MMK_R_quoteright" = 20;
+"@MMK_R_vowelRu.mlm" = 5;
+"@MMK_R_vowelU.mlm" = 5;
+ViramaYa.mlm = 15;
+ViramaYa1.mlm = 10;
+lengthAu.mlm = 8;
+};
+"@MMK_L_vowelshortE.mlm" = {
+"@MMK_R_Ca.mlm" = 5;
+"@MMK_R_Pa.mlm" = 10;
+"@MMK_R_Tta.mlm" = 10;
+"@MMK_R_period" = 20;
+"@MMK_R_trademark" = -40;
+"@MMK_R_vowelU.mlm" = 10;
+TtaTta.mlm = 5;
+slash = 10;
 };
 "@MMK_L_w" = {
 "@MMK_R_A" = -15;
@@ -99893,6 +100778,18 @@ uni0D67 = -20;
 "@MMK_R_quoteright" = 15;
 "@MMK_R_quotesingle" = 14;
 "@MMK_R_v" = 5;
+AE = -25;
+V = -5;
+X = -5;
+ampersand = -10;
+asterisk = 5;
+napostrophe = 19;
+nine = 5;
+one = 7;
+slash = -15;
+three = -8;
+two = -15;
+zero = 5;
 };
 "@MMK_L_z" = {
 "@MMK_R_A" = 10;
@@ -99905,6 +100802,9 @@ uni0D67 = -20;
 "@MMK_R_s" = 5;
 "@MMK_R_v" = -7;
 "@MMK_R_w" = -5;
+napostrophe = 10;
+slash = 15;
+x = 5;
 };
 "@MMK_L_zero.inferior" = {
 "@MMK_R_nine.inferior" = -4;
@@ -99912,11 +100812,35 @@ uni0D67 = -20;
 "@MMK_R_seven.inferior" = -5;
 };
 Anuswara.mlm = {
+"@MMK_R_Ka.mlm" = 10;
+"@MMK_R_Ma.mlm" = 5;
+"@MMK_R_Pa.mlm" = 15;
+"@MMK_R_ViramaRa.mlm" = 8;
+"@MMK_R_Zha.mlm" = -10;
 "@MMK_R_period" = 10;
 "@MMK_R_quoteright" = -20;
 "@MMK_R_quotesingle" = -30;
+"@MMK_R_vowelU.mlm" = 5;
 Ja.mlm = 5;
 Lla.mlm = 5;
+};
+B = {
+"@MMK_R_T" = -15;
+"@MMK_R_W" = -6;
+"@MMK_R_Y" = -20;
+"@MMK_R_m" = -3;
+"@MMK_R_o" = -3;
+"@MMK_R_quoteleft" = -5;
+"@MMK_R_quotesingle" = -5;
+"@MMK_R_trademark" = -20;
+"@MMK_R_u" = -5;
+"@MMK_R_v" = -13;
+"@MMK_R_w" = -8;
+V = -10;
+X = -7;
+three = -5;
+two = -5;
+x = -10;
 };
 BaBa.mlm = {
 ViramaVa1.mlm = 50;
@@ -99951,10 +100875,33 @@ DdaDdha.mlm = {
 ViramaVa1.mlm = 50;
 ViramaYa1.mlm = 50;
 };
+Delta = {
+one = -30;
+};
+Euro = {
+"@MMK_R_J" = 5;
+"@MMK_R_O" = -20;
+"@MMK_R_T" = 25;
+"@MMK_R_Y" = 10;
+X = 15;
+eight = 5;
+one = 20;
+seven = 20;
+};
 GaLa.mlm = {
 ViramaVa.mlm = 20;
 ViramaYa1.mlm = 10;
 matraRu1.mlm = -20;
+};
+Gha.mlm = {
+"@MMK_R_Da.mlm" = -10;
+};
+Iogonek = {
+"@MMK_R_j" = 20;
+};
+J = {
+"@MMK_R_J" = -10;
+AE = -39;
 };
 KaLa.mlm = {
 ViramaVa.mlm = 50;
@@ -99973,7 +100920,20 @@ LaPa.mlm = {
 ViramaVa1.mlm = 40;
 ViramaYa1.mlm = 40;
 };
+Ldot = {
+"@MMK_R_O" = -30;
+"@MMK_R_W" = -40;
+"@MMK_R_Y" = -67;
+"@MMK_R_g" = -10;
+"@MMK_R_hyphen" = -30;
+"@MMK_R_o" = -10;
+"@MMK_R_v" = -40;
+"@MMK_R_w" = -30;
+V = -60;
+one = -10;
+};
 MaLa.mlm = {
+"@MMK_R_matraU.mlm" = 15;
 ViramaVa.mlm = 80;
 ViramaVa1.mlm = 30;
 ViramaYa1.mlm = 50;
@@ -99990,6 +100950,51 @@ ViramaYa1.mlm = 50;
 NnaNna.mlm = {
 ViramaVa.mlm = 40;
 matraRu.mlm = 10;
+};
+Oslash = {
+"@MMK_R_Y" = -18;
+"@MMK_R_trademark" = -35;
+};
+Oslashacute = {
+"@MMK_R_Y" = -18;
+"@MMK_R_trademark" = -35;
+};
+P = {
+"@MMK_R_A" = -32;
+"@MMK_R_J" = -59;
+"@MMK_R_M" = -8;
+"@MMK_R_S" = -5;
+"@MMK_R_T" = -5;
+"@MMK_R_W" = -6;
+"@MMK_R_Z" = -20;
+"@MMK_R_a" = -10;
+"@MMK_R_colon" = 19;
+"@MMK_R_g" = -5;
+"@MMK_R_hyphen" = -4;
+"@MMK_R_i" = -10;
+"@MMK_R_j" = -10;
+"@MMK_R_m" = -20;
+"@MMK_R_o" = -20;
+"@MMK_R_ordmasculine" = 10;
+"@MMK_R_period" = -60;
+"@MMK_R_quoteright" = 30;
+"@MMK_R_quotesingle" = 8;
+"@MMK_R_s" = -5;
+"@MMK_R_trademark" = -5;
+"@MMK_R_z" = -5;
+AE = -50;
+X = -10;
+four = -12;
+nine = 5;
+numbersign = -8;
+one = 6;
+question = 5;
+slash = -40;
+three = -10;
+two = -15;
+};
+Pa.mlm = {
+"@MMK_R_Da.mlm" = -12;
 };
 PaLa.mlm = {
 ViramaVa1.mlm = 30;
@@ -100011,6 +101016,7 @@ PhaKa.mlm = {
 ViramaVa1.mlm = 30;
 };
 PhaLa.mlm = {
+"@MMK_R_matraU.mlm" = 15;
 ViramaVa.mlm = 50;
 ViramaYa1.mlm = 20;
 matraRu.mlm = 40;
@@ -100018,11 +101024,21 @@ matraRu.mlm = 40;
 PhaTa.mlm = {
 matraRu1.mlm = -10;
 };
+Q = {
+"@MMK_R_J" = 10;
+"@MMK_R_j" = 19;
+"@MMK_R_parenright" = 40;
+braceright = 33;
+comma = 50;
+semicolon = 50;
+slash = 45;
+};
 SaKa.mlm = {
 ViramaVa1.mlm = 50;
 ViramaYa1.mlm = 50;
 };
 SaLa.mlm = {
+"@MMK_R_matraU.mlm" = 20;
 ViramaVa.mlm = 85;
 ViramaVa1.mlm = 50;
 ViramaYa1.mlm = 80;
@@ -100091,8 +101107,11 @@ ViramaVa1.mlm = 20;
 ViramaYa1.mlm = 20;
 };
 TtaTta.mlm = {
+"@MMK_R_Ca.mlm" = 20;
+"@MMK_R_matraU.mlm" = 50;
 "@MMK_R_parenright" = 15;
 "@MMK_R_period" = 25;
+"@MMK_R_vowelU.mlm" = 28;
 NgaKa.mlm = 15;
 TtaTta.mlm = 20;
 ViramaVa.mlm = 110;
@@ -100101,6 +101120,50 @@ ViramaYa1.mlm = 100;
 matraA.mlm = 10;
 matraRu.mlm = 90;
 matraU2.mlm = 5;
+};
+V = {
+"@MMK_R_A" = -35;
+"@MMK_R_J" = -50;
+"@MMK_R_M" = -8;
+"@MMK_R_O" = -7;
+"@MMK_R_S" = 5;
+"@MMK_R_T" = 5;
+"@MMK_R_W" = 10;
+"@MMK_R_Y" = 12;
+"@MMK_R_Z" = -4;
+"@MMK_R_a" = -16;
+"@MMK_R_g" = -35;
+"@MMK_R_hyphen" = -28;
+"@MMK_R_i" = -12;
+"@MMK_R_m" = -30;
+"@MMK_R_o" = -30;
+"@MMK_R_onequarter" = 20;
+"@MMK_R_period" = -40;
+"@MMK_R_quoteright" = 25;
+"@MMK_R_quotesingle" = 20;
+"@MMK_R_s" = -20;
+"@MMK_R_trademark" = 8;
+"@MMK_R_u" = -20;
+AE = -70;
+Euro = -20;
+V = 12;
+X = 5;
+asterisk = 10;
+at = -10;
+bracketright = 5;
+eight = -10;
+four = -20;
+hbar = 8;
+numbersign = -15;
+one = 5;
+question = 20;
+seven = 5;
+slash = -30;
+sterling = -10;
+three = -5;
+two = -5;
+uni20BD = -25;
+x = -29;
 };
 VaLa.mlm = {
 ViramaVa1.mlm = 30;
@@ -100111,6 +101174,9 @@ ViramaVa1.mlm = 50;
 ViramaYa1.mlm = 60;
 };
 ViramaRa.mlm = {
+"@MMK_R_Ka.mlm" = -20;
+"@MMK_R_Pa.mlm" = -8;
+"@MMK_R_vowelU.mlm" = 50;
 MaLa.mlm = 65;
 TtaTta.mlm = 70;
 };
@@ -100122,7 +101188,12 @@ TtaTta.mlm = 30;
 ZhaKa.mlm = 20;
 ZhaTa.mlm = 20;
 };
+ViramaVa.mlm = {
+"@MMK_R_Pa.mlm" = -5;
+"@MMK_R_matraU.mlm" = 20;
+};
 ViramaVa1.mlm = {
+"@MMK_R_matraU.mlm" = 20;
 ViramaYa.mlm = 60;
 };
 ViramaYa.mlm = {
@@ -100138,9 +101209,49 @@ matraU2.mlm = 20;
 matraUu2.mlm = 20;
 };
 Visarga.mlm = {
+"@MMK_R_Gha.mlm" = 10;
+"@MMK_R_Ka.mlm" = 4;
+"@MMK_R_Pa.mlm" = 5;
+"@MMK_R_Tta.mlm" = 10;
+"@MMK_R_Zha.mlm" = 5;
 "@MMK_R_period" = 20;
 "@MMK_R_quoteright" = 40;
 "@MMK_R_quotesingle" = 30;
+"@MMK_R_vowelU.mlm" = 8;
+};
+X = {
+"@MMK_R_A" = 10;
+"@MMK_R_J" = 20;
+"@MMK_R_M" = 5;
+"@MMK_R_O" = -13;
+"@MMK_R_S" = -4;
+"@MMK_R_T" = 5;
+"@MMK_R_Z" = 10;
+"@MMK_R_colon" = 15;
+"@MMK_R_copyright" = -10;
+"@MMK_R_g" = -5;
+"@MMK_R_hyphen" = -5;
+"@MMK_R_m" = -5;
+"@MMK_R_o" = -20;
+"@MMK_R_onequarter" = 8;
+"@MMK_R_period" = 20;
+"@MMK_R_quoteright" = 10;
+"@MMK_R_quotesingle" = 5;
+"@MMK_R_trademark" = 8;
+"@MMK_R_u" = -5;
+"@MMK_R_v" = -20;
+"@MMK_R_w" = -8;
+Euro = -20;
+X = 5;
+asterisk = 8;
+at = -8;
+cent = -5;
+numbersign = -15;
+question = 12;
+registered = -8;
+slash = 20;
+three = -5;
+two = 4;
 };
 YaPa.mlm = {
 ViramaVa1.mlm = 20;
@@ -100160,10 +101271,789 @@ ZhaTa.mlm = {
 ViramaVa1.mlm = 40;
 ViramaYa1.mlm = 50;
 };
+afii61289 = {
+four = -15;
+};
+ampersand = {
+"@MMK_R_v" = -20;
+"@MMK_R_w" = -5;
+"@MMK_R_z" = 5;
+eight = 5;
+four = 5;
+nine = -5;
+one = -20;
+seven = -10;
+three = 10;
+two = 15;
+};
+asterisk = {
+"@MMK_R_A" = -70;
+"@MMK_R_Ca.mlm" = -50;
+"@MMK_R_J" = -50;
+"@MMK_R_Ka.mlm" = -30;
+"@MMK_R_M" = -15;
+"@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -40;
+"@MMK_R_T" = 20;
+"@MMK_R_W" = 10;
+"@MMK_R_Y" = 10;
+"@MMK_R_Zha.mlm" = 20;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_m" = -15;
+"@MMK_R_o" = -20;
+"@MMK_R_v" = 5;
+V = 5;
+X = 8;
+four = -40;
+one = 20;
+seven = 10;
+six = -10;
+zero = -15;
+};
+at = {
+"@MMK_R_J" = -10;
+"@MMK_R_M" = 2;
+"@MMK_R_S" = -4;
+"@MMK_R_T" = -20;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -30;
+"@MMK_R_Z" = -5;
+V = -15;
+X = -10;
+four = 5;
+nine = -5;
+seven = -4;
+two = 3;
+};
+backslash = {
+"@MMK_R_j" = 70;
+"@MMK_R_o" = 5;
+"@MMK_R_s" = 10;
+"@MMK_R_v" = -25;
+"@MMK_R_w" = -20;
+"@MMK_R_z" = 15;
+nine = -10;
+one = -40;
+seven = -15;
+two = 5;
+};
+braceleft = {
+"@MMK_R_T" = 5;
+braceright = 25;
+};
+bracketleft = {
+"@MMK_R_W" = 5;
+"@MMK_R_Y" = 8;
+V = 5;
+};
+cent = {
+eight = 10;
+four = -10;
+one = 19;
+three = 20;
+two = 20;
+};
+colonmonetary = {
+one = 19;
+};
+comma = {
+"@MMK_R_j" = 10;
+};
+degree = {
+four = -50;
+one = 30;
+seven = 25;
+};
+dollar = {
+four = 10;
+one = 29;
+three = 14;
+two = 10;
+};
+eight = {
+"@MMK_R_Ca.mlm" = 30;
+"@MMK_R_Pa.mlm" = 30;
+"@MMK_R_T" = -10;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -30;
+"@MMK_R_colon" = 5;
+"@MMK_R_parenright" = -4;
+"@MMK_R_percent" = -10;
+"@MMK_R_period" = 10;
+"@MMK_R_quoteright" = 1;
+"@MMK_R_quotesingle" = -10;
+"@MMK_R_trademark" = -25;
+"@MMK_R_v" = -5;
+V = -15;
+ampersand = 5;
+asterisk = -10;
+five = -15;
+multiply = 10;
+onesuperior = -20;
+seven = -15;
+slash = 6;
+summation = -5;
+three = 4;
+two = -5;
+};
+exclam = {
+"@MMK_R_A" = 5;
+"@MMK_R_period" = -30;
+};
+exclamdown = {
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -20;
+"@MMK_R_Z" = 5;
+"@MMK_R_j" = 40;
+};
+f = {
+"@MMK_R_A" = -50;
+"@MMK_R_J" = -70;
+"@MMK_R_M" = -8;
+"@MMK_R_T" = 10;
+"@MMK_R_W" = 10;
+"@MMK_R_Y" = 10;
+"@MMK_R_a" = -25;
+"@MMK_R_colon" = 19;
+"@MMK_R_f" = -15;
+"@MMK_R_g" = -39;
+"@MMK_R_hyphen" = -10;
+"@MMK_R_i" = -3;
+"@MMK_R_j" = -3;
+"@MMK_R_m" = -39;
+"@MMK_R_o" = -30;
+"@MMK_R_onequarter" = 20;
+"@MMK_R_parenright" = 30;
+"@MMK_R_percent" = 10;
+"@MMK_R_period" = -60;
+"@MMK_R_quoteleft" = 20;
+"@MMK_R_quoteright" = 49;
+"@MMK_R_quotesingle" = 25;
+"@MMK_R_s" = -15;
+"@MMK_R_t" = -15;
+"@MMK_R_trademark" = 19;
+"@MMK_R_u" = -20;
+"@MMK_R_v" = -10;
+"@MMK_R_w" = -10;
+"@MMK_R_z" = -18;
+AE = -70;
+V = 10;
+ampersand = -30;
+at = -10;
+b = -5;
+backslash = 40;
+four = -20;
+hbar = 8;
+igrave = 20;
+n.superior = 20;
+napostrophe = 19;
+nine = 4;
+one = 20;
+question = 30;
+seven = 20;
+slash = -35;
+three = -5;
+threequarters = 20;
+two = -5;
+uni20B9 = 15;
+x = -17;
+};
+five = {
+"@MMK_R_Pa.mlm" = 30;
+"@MMK_R_T" = -10;
+"@MMK_R_W" = -15;
+"@MMK_R_Y" = -25;
+"@MMK_R_colon" = 5;
+"@MMK_R_g" = 3;
+"@MMK_R_o" = 2;
+"@MMK_R_parenright" = 19;
+"@MMK_R_period" = 14;
+"@MMK_R_quotesingle" = 9;
+"@MMK_R_v" = -10;
+"@MMK_R_w" = -10;
+"@MMK_R_z" = -10;
+V = -15;
+ampersand = 5;
+asterisk = -10;
+at = 5;
+degree = -1;
+eight = 10;
+five = -5;
+four = 10;
+nine = -5;
+numbersign = 5;
+periodcentered = 10;
+registered = -8;
+six = 4;
+slash = 6;
+summation = -5;
+three = 12;
+two = 8;
+uni20B9 = 19;
+zero = 5;
+};
+five.superior = {
+seven.superior = -6;
+};
+florin = {
+four = -20;
+nine = 15;
+one = 20;
+seven = 30;
+slash = -30;
+};
+four = {
+"@MMK_R_A" = 15;
+"@MMK_R_Ca.mlm" = 20;
+"@MMK_R_Ka.mlm" = 30;
+"@MMK_R_O" = 15;
+"@MMK_R_Rra.mlm" = 30;
+"@MMK_R_Y" = -15;
+"@MMK_R_a" = 20;
+"@MMK_R_g" = 20;
+"@MMK_R_hyphen" = 20;
+"@MMK_R_less" = 30;
+"@MMK_R_o" = 20;
+"@MMK_R_percent" = -30;
+"@MMK_R_quotesingle" = -20;
+"@MMK_R_trademark" = -20;
+Euro = 20;
+V = -10;
+ampersand = 20;
+asterisk = -20;
+cent = 30;
+degree = -19;
+eight = 1;
+five = -1;
+four = 20;
+nine = -1;
+numbersign = 15;
+one = -1;
+periodcentered = 15;
+seven = -15;
+six = 10;
+slash = 20;
+three = 10;
+uni20A6 = 20;
+uni20B2 = 10;
+uni20B5 = 10;
+uni20BA = 10;
+uni20BD = 20;
+uni2215 = 30;
+zero = 10;
+};
+four.superior = {
+eight.superior = 5;
+four.superior = 15;
+nine.superior = -10;
+onesuperior = -10;
+seven.superior = -10;
+};
+fraction = {
+eight.dnom = -10;
+four.dnom = -40;
+nine.dnom = -10;
+seven.dnom = 40;
+six.dnom = -20;
+zero.dnom = -20;
+};
+iacute = {
+"@MMK_R_parenright" = 30;
+"@MMK_R_quotesingle" = 20;
+};
+icircumflex = {
+"@MMK_R_i" = 8;
+"@MMK_R_j" = 8;
+"@MMK_R_l" = 15;
+"@MMK_R_parenright" = 50;
+"@MMK_R_quoteleft" = 10;
+"@MMK_R_quoteright" = 40;
+"@MMK_R_quotesingle" = 40;
+exclam = 20;
+question = 40;
+tcaron = 1;
+};
+idieresis = {
+"@MMK_R_i" = 30;
+"@MMK_R_j" = 30;
+"@MMK_R_l" = 30;
+"@MMK_R_parenright" = 70;
+"@MMK_R_quoteleft" = 25;
+"@MMK_R_quoteright" = 55;
+"@MMK_R_quotesingle" = 50;
+"@MMK_R_t" = 11;
+exclam = 35;
+question = 50;
+tcaron = 2;
+};
+imacron = {
+"@MMK_R_i" = 5;
+"@MMK_R_j" = 5;
+"@MMK_R_l" = 8;
+"@MMK_R_parenright" = 40;
+"@MMK_R_quoteright" = 15;
+"@MMK_R_quotesingle" = 20;
+question = 20;
+};
+iogonek = {
+"@MMK_R_j" = 25;
+};
+itilde = {
+"@MMK_R_i" = 15;
+"@MMK_R_j" = 15;
+"@MMK_R_l" = 18;
+};
+lcaron = {
+"@MMK_R_a" = -11;
+"@MMK_R_g" = -30;
+"@MMK_R_m" = -20;
+"@MMK_R_o" = -20;
+"@MMK_R_period" = -41;
+"@MMK_R_s" = -10;
+"@MMK_R_u" = -10;
+"@MMK_R_v" = 19;
+};
+lira = {
+one = 29;
+seven = 20;
+three = 20;
+two = 20;
+};
+lozenge = {
+four = 5;
+one = -20;
+seven = -10;
+};
 matraE.mlm = {
+"@MMK_R_Ca.mlm" = 5;
+"@MMK_R_Gha.mlm" = 10;
+"@MMK_R_Ma.mlm" = 10;
+"@MMK_R_Pa.mlm" = 10;
+"@MMK_R_Tta.mlm" = 10;
+"@MMK_R_Zha.mlm" = 8;
+"@MMK_R_vowelU.mlm" = 5;
 NgaKa.mlm = 10;
 };
+multiply = {
+one = 14;
+three = -19;
+};
+n.superior = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -40;
+};
+nine = {
+"@MMK_R_J" = -15;
+"@MMK_R_T" = -10;
+"@MMK_R_Y" = -8;
+"@MMK_R_o" = 5;
+"@MMK_R_period" = -15;
+"@MMK_R_quoteright" = 1;
+"@MMK_R_trademark" = -15;
+V = -10;
+ampersand = 5;
+degree = -5;
+periodcentered = 10;
+seven = -12;
+summation = -5;
+three = -8;
+two = -1;
+underscore = -20;
+uni2215 = 0;
+};
+nine.numr = {
+fraction = 0;
+};
+nine.superior = {
+seven.superior = -5;
+};
+numbersign = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -35;
+"@MMK_R_Z" = -10;
+nine = 5;
+one = 24;
+seven = 5;
+three = -5;
+};
+one = {
+"@MMK_R_bar" = 1;
+"@MMK_R_colon" = 8;
+"@MMK_R_copyright" = 5;
+"@MMK_R_onequarter" = 10;
+"@MMK_R_parenright" = 10;
+"@MMK_R_quoteright" = 5;
+"@MMK_R_quotesingle" = 10;
+at = 5;
+backslash = 20;
+eight = 6;
+four = 5;
+nine = 6;
+one = 5;
+seven = 4;
+six = 6;
+slash = 25;
+three = 5;
+two = 10;
+underscore = 5;
+};
+onehalf = {
+"@MMK_R_A" = 7;
+"@MMK_R_J" = 4;
+"@MMK_R_T" = -15;
+"@MMK_R_Y" = -15;
+"@MMK_R_Z" = 4;
+"@MMK_R_a" = 4;
+"@MMK_R_g" = 7;
+"@MMK_R_j" = 11;
+"@MMK_R_o" = 7;
+"@MMK_R_s" = 7;
+V = -8;
+X = 7;
+five = 4;
+four = 6;
+};
+onesuperior = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -23;
+"@MMK_R_O" = 4;
+"@MMK_R_T" = 15;
+five = 4;
+four = -15;
+};
+periodcentered = {
+four = 29;
+one = -1;
+seven = -20;
+six = 10;
+zero = 10;
+};
+pi = {
+one = 10;
+};
+product = {
+four = -20;
+one = 10;
+seven = 10;
+six = -10;
+};
+q = {
+"@MMK_R_parenright" = 10;
+semicolon = 5;
+slash = 10;
+};
+question = {
+"@MMK_R_A" = -50;
+"@MMK_R_Ca.mlm" = -30;
+"@MMK_R_J" = -60;
+"@MMK_R_Ka.mlm" = -20;
+"@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -30;
+"@MMK_R_T" = 25;
+"@MMK_R_W" = 15;
+"@MMK_R_Y" = 20;
+"@MMK_R_Zha.mlm" = 20;
+"@MMK_R_g" = -10;
+"@MMK_R_m" = -15;
+"@MMK_R_o" = -10;
+"@MMK_R_period" = -120;
+"@MMK_R_quoteright" = 25;
+V = 10;
+X = 15;
+four = -30;
+seven = 30;
+};
+questiondown = {
+"@MMK_R_J" = 5;
+"@MMK_R_O" = -30;
+"@MMK_R_T" = -40;
+"@MMK_R_U" = -20;
+"@MMK_R_W" = -30;
+"@MMK_R_Y" = -50;
+"@MMK_R_j" = 70;
+"@MMK_R_o" = -10;
+"@MMK_R_v" = -30;
+"@MMK_R_w" = -25;
+V = -40;
+};
+radical = {
+four = -25;
+seven = 20;
+};
+registered = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -50;
+"@MMK_R_Y" = -8;
+"@MMK_R_Z" = -10;
+"@MMK_R_a" = -5;
+X = -10;
+};
+seven = {
+"@MMK_R_A" = -40;
+"@MMK_R_Ca.mlm" = -30;
+"@MMK_R_J" = -50;
+"@MMK_R_Ka.mlm" = -30;
+"@MMK_R_M" = -10;
+"@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -30;
+"@MMK_R_T" = 15;
+"@MMK_R_Y" = 10;
+"@MMK_R_Zha.mlm" = 20;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_greater" = -5;
+"@MMK_R_hyphen" = -15;
+"@MMK_R_less" = -20;
+"@MMK_R_m" = -10;
+"@MMK_R_o" = -20;
+"@MMK_R_onequarter" = 40;
+"@MMK_R_parenright" = 20;
+"@MMK_R_percent" = 10;
+"@MMK_R_period" = -11;
+"@MMK_R_quoteleft" = 44;
+"@MMK_R_quoteright" = 45;
+"@MMK_R_quotesingle" = 49;
+"@MMK_R_s" = -10;
+"@MMK_R_trademark" = 15;
+AE = -70;
+Delta = -40;
+Omega = -10;
+X = 5;
+ampersand = -30;
+asterisk = 20;
+at = -8;
+backslash = 20;
+cent = -10;
+degree = 30;
+eight = 4;
+exclam = 8;
+four = -25;
+lozenge = -10;
+nine = 19;
+numbersign = -30;
+one = 40;
+onesuperior = 20;
+product = 30;
+question = 40;
+radical = -50;
+seven = 25;
+six = 3;
+slash = -30;
+three = 15;
+threequarters = 20;
+underscore = -60;
+uni20B9 = 20;
+uni20BD = -20;
+uni2215 = -50;
+zero = 3;
+};
+seven.numr = {
+fraction = -20;
+};
+seven.superior = {
+"@MMK_R_T" = 10;
+"@MMK_R_W" = 15;
+"@MMK_R_Y" = 20;
+V = 10;
+X = 10;
+four.superior = -11;
+onesuperior = 15;
+seven.superior = 15;
+twosuperior = -8;
+};
+six = {
+"@MMK_R_Ca.mlm" = 30;
+"@MMK_R_Gha.mlm" = 30;
+"@MMK_R_Pa.mlm" = 30;
+"@MMK_R_T" = -10;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -30;
+"@MMK_R_o" = 4;
+"@MMK_R_percent" = -19;
+"@MMK_R_period" = 14;
+"@MMK_R_quoteleft" = -15;
+"@MMK_R_quoteright" = -10;
+"@MMK_R_quotesingle" = -20;
+"@MMK_R_trademark" = -25;
+"@MMK_R_v" = -5;
+V = -20;
+X = -5;
+ampersand = 5;
+asterisk = -10;
+backslash = -10;
+degree = -1;
+eight = 5;
+five = -8;
+four = 10;
+nine = -10;
+one = -8;
+onesuperior = -20;
+periodcentered = 10;
+seven = -8;
+slash = 5;
+summation = -8;
+three = 9;
+threequarters = 5;
+two = 4;
+};
+six.superior = {
+onesuperior = -8;
+};
+slash = {
+"@MMK_R_A" = -30;
+"@MMK_R_Ca.mlm" = -40;
+"@MMK_R_J" = -40;
+"@MMK_R_Ka.mlm" = -20;
+"@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -30;
+"@MMK_R_T" = 40;
+"@MMK_R_U" = 10;
+"@MMK_R_W" = 20;
+"@MMK_R_Y" = 30;
+"@MMK_R_Z" = 10;
+"@MMK_R_a" = -35;
+"@MMK_R_g" = -30;
+"@MMK_R_m" = -40;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -25;
+"@MMK_R_z" = -10;
+V = 30;
+X = 20;
+five = -10;
+four = -30;
+nine = 5;
+one = 39;
+seven = 30;
+slash = -35;
+three = 10;
+uni0D67 = -40;
+uni0D70 = -30;
+x = -10;
+};
+space = {
+"@MMK_R_Ca.mlm" = 70;
+"@MMK_R_Da.mlm" = 80;
+"@MMK_R_Dha.mlm" = 80;
+"@MMK_R_Gha.mlm" = 70;
+"@MMK_R_Ka.mlm" = 80;
+"@MMK_R_Na.mlm" = 80;
+"@MMK_R_Pa.mlm" = 70;
+"@MMK_R_Ra.mlm" = 80;
+"@MMK_R_Rra.mlm" = 80;
+"@MMK_R_Tta.mlm" = 80;
+"@MMK_R_ViramaRa.mlm" = 80;
+"@MMK_R_Ya.mlm" = 80;
+"@MMK_R_Zha.mlm" = 80;
+"@MMK_R_quoteleft" = -50;
+"@MMK_R_quotesingle" = -50;
+"@MMK_R_vowelRu.mlm" = 80;
+"@MMK_R_vowelU.mlm" = 80;
+NgaKa.mlm = 80;
+Tha.mlm = 80;
+Ttha.mlm = 80;
+matraE.mlm = 80;
+uni0D66 = 80;
+uni0D67 = 50;
+uni0D6B = 80;
+uni0D70 = 50;
+};
+sterling = {
+eight = 10;
+five = 1;
+four = -1;
+one = 29;
+seven = 19;
+three = 20;
+two = 20;
+};
+summation = {
+four = -25;
+one = 5;
+seven = 20;
+six = -5;
+three = 2;
+zero = -5;
+};
+tcaron = {
+"@MMK_R_a" = -30;
+"@MMK_R_colon" = -1;
+"@MMK_R_hyphen" = -50;
+"@MMK_R_m" = -50;
+"@MMK_R_o" = -60;
+"@MMK_R_period" = -41;
+"@MMK_R_quoteleft" = 20;
+"@MMK_R_quoteright" = 20;
+"@MMK_R_s" = -30;
+"@MMK_R_u" = -20;
+"@MMK_R_z" = -10;
+icircumflex = 40;
+idieresis = 41;
+igrave = 40;
+question = 20;
+};
+three = {
+"@MMK_R_W" = -5;
+"@MMK_R_Y" = -8;
+"@MMK_R_colon" = 10;
+"@MMK_R_period" = 2;
+"@MMK_R_quotesingle" = -6;
+V = -10;
+ampersand = 5;
+at = 4;
+eight = 8;
+nine = 4;
+seven = -5;
+slash = 5;
+three = 5;
+};
+threesuperior = {
+"@MMK_R_A" = -41;
+"@MMK_R_J" = -30;
+five = 4;
+four = -15;
+seven = 7;
+};
+two = {
+"@MMK_R_Ca.mlm" = 20;
+"@MMK_R_W" = -5;
+"@MMK_R_a" = -3;
+"@MMK_R_colon" = 5;
+"@MMK_R_greater" = 5;
+"@MMK_R_hyphen" = -15;
+"@MMK_R_o" = -15;
+"@MMK_R_period" = 19;
+"@MMK_R_quoteleft" = 10;
+"@MMK_R_quoteright" = 10;
+V = -5;
+ampersand = -5;
+eight = -14;
+five = -24;
+four = -19;
+multiply = -14;
+nine = -5;
+radical = -15;
+seven = -10;
+six = -10;
+slash = 10;
+underscore = 12;
+zero = -10;
+};
+twosuperior = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -30;
+five = 4;
+};
+underscore = {
+nine = -20;
+one = -50;
+three = 10;
+two = 18;
+zero = -20;
+};
 uni0D66 = {
+"@MMK_R_Gha.mlm" = 20;
+"@MMK_R_Pa.mlm" = 20;
 uni0D67 = -30;
 };
 uni0D6A = {
@@ -100185,12 +102075,16 @@ uni0D71 = {
 "@MMK_R_period" = 15;
 };
 uni0D72 = {
+"@MMK_R_Ca.mlm" = -40;
+"@MMK_R_Gha.mlm" = 30;
 "@MMK_R_period" = -40;
 "@MMK_R_quoteleft" = 30;
 "@MMK_R_quoteright" = 40;
 "@MMK_R_quotesingle" = 40;
 };
 uni0D73 = {
+"@MMK_R_Ca.mlm" = -40;
+"@MMK_R_Pa.mlm" = -40;
 "@MMK_R_hyphen" = -30;
 "@MMK_R_period" = -30;
 "@MMK_R_quoteleft" = 40;
@@ -100198,31 +102092,156 @@ uni0D73 = {
 "@MMK_R_quotesingle" = 40;
 };
 uni0D79 = {
+"@MMK_R_Gha.mlm" = 20;
 "@MMK_R_hyphen" = 10;
 "@MMK_R_period" = -30;
+parenleft = 10;
+};
+uni20B5 = {
+eight = 10;
+one = 20;
+seven = 10;
+three = 10;
+two = 10;
+};
+uni20B9 = {
+"@MMK_R_A" = -40;
+"@MMK_R_J" = -40;
+"@MMK_R_T" = 20;
+"@MMK_R_Y" = 10;
+"@MMK_R_o" = -10;
+four = -30;
+one = 39;
+seven = 20;
+};
+uni20BA = {
+"@MMK_R_T" = -40;
+"@MMK_R_W" = -25;
+"@MMK_R_Y" = -50;
+five = -5;
+four = 20;
+nine = -5;
+one = -30;
+seven = -20;
+};
+uni20BD = {
+"@MMK_R_J" = -50;
+"@MMK_R_M" = -10;
+four = -20;
+one = 20;
+seven = 10;
+};
+uni2215 = {
+eight = 0;
+five = 0;
+four = -80;
+one = 60;
+seven = 50;
+six = -20;
+two = 20;
+zero = 0;
 };
 vowelE.mlm = {
+"@MMK_R_Ca.mlm" = 20;
+"@MMK_R_Ma.mlm" = 15;
+"@MMK_R_Pa.mlm" = 10;
+"@MMK_R_Tta.mlm" = 14;
+"@MMK_R_ViramaRa.mlm" = 10;
 "@MMK_R_parenright" = 25;
 "@MMK_R_period" = 30;
+"@MMK_R_vowelU.mlm" = 20;
 Ja.mlm = 20;
 Lla.mlm = 20;
 NgaKa.mlm = 10;
 lengthAu.mlm = 10;
 };
 vowelI.mlm = {
+"@MMK_R_Ca.mlm" = -20;
+"@MMK_R_Dha.mlm" = 4;
+"@MMK_R_Gha.mlm" = 14;
+"@MMK_R_Ma.mlm" = 10;
+"@MMK_R_Na.mlm" = 4;
+"@MMK_R_Pa.mlm" = 5;
+"@MMK_R_Rra.mlm" = 4;
+"@MMK_R_Zha.mlm" = 5;
+"@MMK_R_matraU.mlm" = 5;
 "@MMK_R_quoteright" = 20;
 "@MMK_R_quotesingle" = 20;
+"@MMK_R_vowelRu.mlm" = 5;
+"@MMK_R_vowelU.mlm" = 8;
 ViramaYa1.mlm = 50;
 lengthAu.mlm = 10;
 matraRu.mlm = 25;
 };
 vowelU.mlm = {
+"@MMK_R_Ca.mlm" = -15;
+"@MMK_R_Gha.mlm" = 10;
+"@MMK_R_Ka.mlm" = 5;
+"@MMK_R_Ma.mlm" = 8;
+"@MMK_R_Zha.mlm" = 4;
 "@MMK_R_trademark" = -30;
+"@MMK_R_vowelRu.mlm" = 5;
+"@MMK_R_vowelU.mlm" = 10;
 Ja.mlm = 10;
 Lla.mlm = 10;
 NgaKa.mlm = 4;
 ViramaYa1.mlm = 50;
+four = 20;
 lengthAu.mlm = 10;
+};
+x = {
+"@MMK_R_J" = 10;
+"@MMK_R_O" = -4;
+"@MMK_R_S" = -5;
+"@MMK_R_T" = -20;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -25;
+"@MMK_R_Z" = 3;
+"@MMK_R_colon" = 14;
+"@MMK_R_o" = -8;
+"@MMK_R_parenright" = -5;
+"@MMK_R_period" = 19;
+"@MMK_R_quoteright" = 8;
+"@MMK_R_s" = 4;
+"@MMK_R_v" = -5;
+"@MMK_R_z" = 5;
+V = -15;
+one = 7;
+slash = 15;
+};
+yen = {
+"@MMK_R_J" = -10;
+one = 29;
+};
+zero = {
+"@MMK_R_J" = -20;
+"@MMK_R_T" = -10;
+"@MMK_R_Y" = -10;
+"@MMK_R_Z" = -10;
+"@MMK_R_o" = 4;
+"@MMK_R_period" = -12;
+"@MMK_R_quoteright" = 1;
+"@MMK_R_v" = 8;
+"@MMK_R_w" = 5;
+ampersand = 5;
+asterisk = -8;
+degree = -10;
+four = 5;
+nine = -5;
+one = -10;
+periodcentered = 10;
+seven = -12;
+summation = -5;
+three = -8;
+two = -1;
+underscore = -20;
+uni2215 = 0;
+};
+zero.numr = {
+fraction = -20;
+};
+zero.superior = {
+seven.superior = -5;
 };
 };
 "6071b2fe-43f3-4e05-9bbd-9490fbbb86dc" = {
@@ -100254,6 +102273,30 @@ lengthAu.mlm = 10;
 "@MMK_R_v" = -30;
 "@MMK_R_w" = -15;
 "@MMK_R_z" = 0;
+Euro = -30;
+V = -40;
+X = 10;
+asterisk = -70;
+cent = -20;
+exclam = 5;
+n.superior = -30;
+nine = -30;
+one = -40;
+onesuperior = -60;
+question = -40;
+registered = -35;
+seven = -30;
+six = -15;
+slash = 25;
+threequarters = -25;
+threesuperior = -60;
+twosuperior = -40;
+uni20B9 = -30;
+uni20BA = -20;
+uni20BD = -5;
+uni2120 = -40;
+yen = -20;
+zero = -15;
 };
 "@MMK_L_C" = {
 "@MMK_R_A" = 15;
@@ -100279,6 +102322,53 @@ lengthAu.mlm = 10;
 "@MMK_R_u" = -5;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -10;
+Dcroat = -20;
+Eth = -20;
+V = 4;
+X = 15;
+asterisk = 20;
+at = -10;
+cent = -10;
+one = 8;
+question = 20;
+slash = 15;
+};
+"@MMK_L_Da.mlm" = {
+"@MMK_R_Ca.mlm" = 8;
+"@MMK_R_Gha.mlm" = -10;
+"@MMK_R_Pa.mlm" = 5;
+"@MMK_R_Ya.mlm" = -3;
+"@MMK_R_Zha.mlm" = -5;
+"@MMK_R_period" = 10;
+"@MMK_R_trademark" = -10;
+"@MMK_R_vowelRu.mlm" = -5;
+Anuswara.mlm = -5;
+lengthAu.mlm = -10;
+question = -20;
+};
+"@MMK_L_Ddha.mlm" = {
+"@MMK_R_Ca.mlm" = -20;
+"@MMK_R_Ka.mlm" = -2;
+"@MMK_R_Pa.mlm" = -5;
+"@MMK_R_period" = -10;
+matraA.mlm = -13;
+seven = -10;
+slash = -5;
+uni0D67 = -30;
+uni0D70 = -40;
+};
+"@MMK_L_Dha.mlm" = {
+"@MMK_R_Ca.mlm" = -9;
+"@MMK_R_Gha.mlm" = 2;
+"@MMK_R_Pa.mlm" = -2;
+"@MMK_R_Ya.mlm" = 5;
+"@MMK_R_hyphen" = 5;
+"@MMK_R_period" = -5;
+lengthAu.mlm = 8;
+matraA.mlm = -14;
+question = -15;
+uni0D67 = -10;
+uni0D70 = -30;
 };
 "@MMK_L_E" = {
 "@MMK_R_A" = 13;
@@ -100305,6 +102395,19 @@ lengthAu.mlm = 10;
 "@MMK_R_v" = -20;
 "@MMK_R_w" = -10;
 "@MMK_R_z" = 5;
+X = 10;
+at = -5;
+four = -5;
+hbar = 0;
+nine = -5;
+numbersign = -10;
+question = 10;
+seven = 10;
+six = -5;
+slash = 15;
+two = -2;
+x = 4;
+zero = -5;
 };
 "@MMK_L_F" = {
 "@MMK_R_A" = -30;
@@ -100332,6 +102435,24 @@ lengthAu.mlm = 10;
 "@MMK_R_v" = -20;
 "@MMK_R_w" = -15;
 "@MMK_R_z" = -15;
+AE = -60;
+V = 14;
+X = 10;
+at = -8;
+four = -5;
+hbar = 0;
+nine = -5;
+numbersign = -10;
+one = 5;
+question = 0;
+seven = 8;
+six = -8;
+slash = -40;
+three = -10;
+threequarters = 5;
+two = -5;
+x = -25;
+zero = -8;
 };
 "@MMK_L_G" = {
 "@MMK_R_A" = 10;
@@ -100350,6 +102471,34 @@ lengthAu.mlm = 10;
 "@MMK_R_trademark" = -20;
 "@MMK_R_v" = -20;
 "@MMK_R_w" = -10;
+V = -15;
+asterisk = -20;
+nine = -8;
+one = -30;
+onesuperior = -20;
+question = -20;
+seven = -15;
+threequarters = -5;
+x = -10;
+};
+"@MMK_L_Ja.mlm" = {
+"@MMK_R_Ka.mlm" = -8;
+"@MMK_R_Pa.mlm" = -12;
+"@MMK_R_parenright" = 4;
+"@MMK_R_period" = 5;
+"@MMK_R_vowelRu.mlm" = 2;
+"@MMK_R_vowelU.mlm" = 5;
+Anuswara.mlm = -5;
+Ja.mlm = 2;
+Lla.mlm = 5;
+ViramaVa1.mlm = 30;
+ViramaYa1.mlm = 30;
+comma = 10;
+lengthAu.mlm = 2;
+matraA.mlm = -8;
+question = -5;
+semicolon = 10;
+slash = 20;
 };
 "@MMK_L_K" = {
 "@MMK_R_A" = 12;
@@ -100372,6 +102521,51 @@ lengthAu.mlm = 10;
 "@MMK_R_u" = -5;
 "@MMK_R_v" = -20;
 "@MMK_R_w" = -20;
+Eth = 0;
+Hbar = 0;
+V = -5;
+X = 5;
+at = -10;
+cent = -20;
+question = 5;
+registered = -10;
+six = -5;
+slash = 20;
+uni20BD = -15;
+zero = -5;
+};
+"@MMK_L_Ka.mlm" = {
+"@MMK_R_Ca.mlm" = 10;
+"@MMK_R_Gha.mlm" = -20;
+"@MMK_R_Ka.mlm" = 5;
+"@MMK_R_Ma.mlm" = -5;
+"@MMK_R_Pa.mlm" = 5;
+"@MMK_R_Ra.mlm" = 3;
+"@MMK_R_Rra.mlm" = 2;
+"@MMK_R_Tta.mlm" = 3;
+"@MMK_R_Ya.mlm" = -3;
+"@MMK_R_Zha.mlm" = -30;
+"@MMK_R_colon" = 5;
+"@MMK_R_hyphen" = 10;
+"@MMK_R_parenright" = -5;
+"@MMK_R_period" = 25;
+"@MMK_R_quoteleft" = -40;
+"@MMK_R_quoteright" = -50;
+"@MMK_R_quotesingle" = -50;
+"@MMK_R_trademark" = -50;
+"@MMK_R_vowelRu.mlm" = -15;
+"@MMK_R_vowelU.mlm" = -3;
+Ja.mlm = -5;
+Lla.mlm = -5;
+asterisk = -50;
+four = 25;
+lengthAu.mlm = -25;
+one = -40;
+question = -30;
+registered = -8;
+seven = -20;
+slash = 5;
+uni0D70 = -30;
 };
 "@MMK_L_L" = {
 "@MMK_R_A" = 10;
@@ -100399,6 +102593,50 @@ lengthAu.mlm = 10;
 "@MMK_R_u" = -20;
 "@MMK_R_v" = -50;
 "@MMK_R_w" = -40;
+Dcroat = -20;
+Eth = -20;
+Euro = -40;
+V = -50;
+X = 5;
+asterisk = -40;
+at = -5;
+cent = -35;
+n.superior = -40;
+nine = -25;
+one = -50;
+onesuperior = -80;
+question = -40;
+registered = -60;
+seven = -30;
+six = -5;
+slash = 20;
+threequarters = -10;
+threesuperior = -70;
+twosuperior = -70;
+uni20B9 = -50;
+uni20BA = -30;
+yen = -30;
+zero = -10;
+};
+"@MMK_L_Lla.mlm" = {
+"@MMK_R_Ca.mlm" = 5;
+"@MMK_R_Gha.mlm" = -5;
+"@MMK_R_Ka.mlm" = 5;
+"@MMK_R_Pa.mlm" = 10;
+"@MMK_R_Zha.mlm" = -7;
+"@MMK_R_colon" = 5;
+"@MMK_R_period" = 10;
+"@MMK_R_trademark" = -25;
+"@MMK_R_vowelU.mlm" = 5;
+Anuswara.mlm = 2;
+ViramaYa1.mlm = 40;
+four = 10;
+lengthAu.mlm = -15;
+matraA.mlm = -8;
+question = -10;
+seven = -20;
+six = 5;
+slash = 5;
 };
 "@MMK_L_M" = {
 "@MMK_R_A" = 5;
@@ -100418,6 +102656,42 @@ lengthAu.mlm = 10;
 "@MMK_R_u" = -3;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -8;
+V = -23;
+X = 3;
+asterisk = -15;
+at = -5;
+nine = -15;
+one = -20;
+onesuperior = -10;
+question = -20;
+slash = 20;
+threesuperior = -8;
+two = 5;
+twosuperior = -10;
+};
+"@MMK_L_Ma.mlm" = {
+"@MMK_R_Gha.mlm" = -2;
+"@MMK_R_Pa.mlm" = 10;
+"@MMK_R_Ya.mlm" = -2;
+"@MMK_R_Zha.mlm" = -15;
+"@MMK_R_parenright" = -5;
+"@MMK_R_quoteright" = -10;
+"@MMK_R_quotesingle" = -20;
+"@MMK_R_trademark" = -20;
+asterisk = -20;
+lengthAu.mlm = -5;
+matraA.mlm = -3;
+one = -15;
+question = -15;
+seven = -20;
+};
+"@MMK_L_Na.mlm" = {
+"@MMK_R_Ca.mlm" = -5;
+"@MMK_R_hyphen" = 5;
+"@MMK_R_period" = -5;
+four = 20;
+matraA.mlm = -14;
+question = -15;
 };
 "@MMK_L_O" = {
 "@MMK_R_A" = -7;
@@ -100433,6 +102707,19 @@ lengthAu.mlm = 10;
 "@MMK_R_quotesingle" = -5;
 "@MMK_R_trademark" = -35;
 "@MMK_R_v" = -12;
+AE = -15;
+V = -15;
+X = -8;
+asterisk = -5;
+cent = 5;
+one = -8;
+onesuperior = -30;
+question = -20;
+seven = -10;
+slash = -5;
+three = -10;
+two = -15;
+x = -15;
 };
 "@MMK_L_Ohorn" = {
 "@MMK_R_A" = -40;
@@ -100443,6 +102730,8 @@ lengthAu.mlm = 10;
 "@MMK_R_W" = 25;
 "@MMK_R_Y" = 35;
 "@MMK_R_Z" = 5;
+V = 30;
+X = 20;
 };
 "@MMK_L_R" = {
 "@MMK_R_A" = 8;
@@ -100464,6 +102753,56 @@ lengthAu.mlm = 10;
 "@MMK_R_u" = -8;
 "@MMK_R_v" = -8;
 "@MMK_R_w" = -10;
+Euro = -10;
+V = -16;
+X = 0;
+at = -5;
+nine = -5;
+numbersign = -10;
+one = -5;
+onesuperior = -10;
+question = -5;
+six = -8;
+slash = 15;
+uni20BA = -10;
+x = -8;
+yen = -15;
+zero = -10;
+};
+"@MMK_L_Ra.mlm" = {
+"@MMK_R_Gha.mlm" = -2;
+"@MMK_R_Ka.mlm" = 3;
+"@MMK_R_Tta.mlm" = -2;
+"@MMK_R_Zha.mlm" = -3;
+"@MMK_R_colon" = 5;
+"@MMK_R_hyphen" = 5;
+"@MMK_R_parenright" = -5;
+"@MMK_R_quoteright" = -5;
+"@MMK_R_quotesingle" = -8;
+"@MMK_R_trademark" = -10;
+Ja.mlm = -4;
+four = 5;
+matraA.mlm = -12;
+one = -10;
+question = -10;
+registered = -8;
+seven = -15;
+uni0D67 = -30;
+uni0D70 = -30;
+};
+"@MMK_L_Rra.mlm" = {
+"@MMK_R_Ca.mlm" = -2;
+"@MMK_R_Ka.mlm" = 2;
+"@MMK_R_parenright" = -5;
+"@MMK_R_quoteright" = -10;
+"@MMK_R_quotesingle" = -8;
+"@MMK_R_trademark" = -10;
+Ja.mlm = -3;
+matraA.mlm = -15;
+question = -10;
+seven = -15;
+uni0D67 = -20;
+uni0D70 = -40;
 };
 "@MMK_L_S" = {
 "@MMK_R_A" = 4;
@@ -100483,6 +102822,14 @@ lengthAu.mlm = 10;
 "@MMK_R_u" = -3;
 "@MMK_R_v" = -20;
 "@MMK_R_w" = -10;
+AE = -15;
+V = -15;
+X = 5;
+nine = -5;
+one = -8;
+registered = -10;
+slash = 0;
+x = -5;
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = -40;
@@ -100516,6 +102863,72 @@ lengthAu.mlm = 10;
 "@MMK_R_v" = -10;
 "@MMK_R_w" = -5;
 "@MMK_R_z" = -30;
+AE = -80;
+Dcroat = -20;
+Eth = -20;
+Euro = -30;
+V = 15;
+X = 5;
+asterisk = 20;
+at = -20;
+braceright = 5;
+cent = -30;
+eight = -10;
+four = -50;
+four.superior = -10;
+hbar = 0;
+numbersign = -20;
+one = 20;
+onesuperior = 30;
+question = 25;
+seven = 10;
+six = -10;
+slash = -40;
+sterling = -25;
+threequarters = 5;
+uni20B9 = 20;
+uni20BD = -30;
+x = -25;
+zero = -10;
+};
+"@MMK_L_Tha.mlm" = {
+"@MMK_R_parenright" = -5;
+"@MMK_R_quotesingle" = -10;
+question = -10;
+};
+"@MMK_L_Tta.mlm" = {
+"@MMK_R_Ca.mlm" = 2;
+"@MMK_R_Gha.mlm" = -18;
+"@MMK_R_Ka.mlm" = 3;
+"@MMK_R_Pa.mlm" = 8;
+"@MMK_R_Ya.mlm" = -4;
+"@MMK_R_Zha.mlm" = -10;
+"@MMK_R_hyphen" = 5;
+"@MMK_R_parenright" = -5;
+"@MMK_R_period" = 15;
+"@MMK_R_quoteright" = -8;
+Ja.mlm = -8;
+Lla.mlm = -5;
+Ttha.mlm = -7;
+four = 20;
+lengthAu.mlm = -20;
+matraA.mlm = -5;
+matraE.mlm = -5;
+one = -10;
+seven = -15;
+};
+"@MMK_L_Ttha.mlm" = {
+"@MMK_R_Ca.mlm" = -15;
+"@MMK_R_Tta.mlm" = -5;
+"@MMK_R_hyphen" = 5;
+"@MMK_R_parenright" = -5;
+"@MMK_R_period" = -5;
+"@MMK_R_quotesingle" = -8;
+"@MMK_R_trademark" = -15;
+matraA.mlm = -12;
+question = -10;
+seven = -25;
+slash = -2;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -8;
@@ -100527,6 +102940,8 @@ lengthAu.mlm = 10;
 "@MMK_R_period" = -10;
 "@MMK_R_v" = -20;
 "@MMK_R_z" = -5;
+AE = -20;
+x = -5;
 };
 "@MMK_L_Uhorn" = {
 "@MMK_R_A" = -50;
@@ -100543,6 +102958,9 @@ lengthAu.mlm = 10;
 "@MMK_R_v" = 0;
 "@MMK_R_w" = 0;
 "@MMK_R_z" = 0;
+V = 30;
+X = 20;
+x = 0;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -15;
@@ -100562,6 +102980,21 @@ lengthAu.mlm = 10;
 "@MMK_R_s" = -5;
 "@MMK_R_trademark" = 8;
 "@MMK_R_u" = -4;
+AE = -40;
+V = 10;
+X = 4;
+asterisk = 15;
+at = -4;
+bracketright = 5;
+eight = -10;
+four = -15;
+numbersign = -5;
+one = 10;
+question = 15;
+seven = 5;
+slash = -10;
+two = -5;
+x = -5;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -35;
@@ -100590,6 +103023,47 @@ lengthAu.mlm = 10;
 "@MMK_R_v" = 0;
 "@MMK_R_w" = -15;
 "@MMK_R_z" = 0;
+AE = -80;
+Dcroat = -20;
+Eth = -20;
+Euro = -30;
+V = 10;
+X = 4;
+asterisk = 15;
+at = -30;
+bracketright = 8;
+cent = -10;
+eight = -10;
+five = -10;
+four = -45;
+numbersign = -30;
+one = 5;
+question = 15;
+seven = 10;
+six = -25;
+slash = -40;
+sterling = -20;
+three = -10;
+two = -10;
+uni20B9 = 20;
+uni20BD = -25;
+x = -20;
+zero = -10;
+};
+"@MMK_L_Ya.mlm" = {
+"@MMK_R_Ca.mlm" = -15;
+"@MMK_R_Da.mlm" = -3;
+"@MMK_R_Dha.mlm" = 3;
+"@MMK_R_Ka.mlm" = -3;
+"@MMK_R_Pa.mlm" = -3;
+"@MMK_R_Zha.mlm" = 2;
+"@MMK_R_colon" = 5;
+"@MMK_R_hyphen" = 5;
+"@MMK_R_period" = -15;
+"@MMK_R_vowelRu.mlm" = 2;
+Anuswara.mlm = -5;
+lengthAu.mlm = 10;
+matraA.mlm = -8;
 };
 "@MMK_L_Z" = {
 "@MMK_R_A" = 5;
@@ -100609,6 +103083,39 @@ lengthAu.mlm = 10;
 "@MMK_R_u" = -4;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -10;
+Euro = -20;
+X = 5;
+at = -5;
+numbersign = -10;
+question = 5;
+registered = -8;
+seven = -5;
+six = -10;
+slash = 20;
+zero = -10;
+};
+"@MMK_L_Zha.mlm" = {
+"@MMK_R_Ca.mlm" = -45;
+"@MMK_R_Da.mlm" = -8;
+"@MMK_R_Gha.mlm" = 4;
+"@MMK_R_Ka.mlm" = -30;
+"@MMK_R_Pa.mlm" = -32;
+"@MMK_R_ViramaRa.mlm" = -15;
+"@MMK_R_Zha.mlm" = 8;
+"@MMK_R_colon" = 15;
+"@MMK_R_matraU.mlm" = 5;
+"@MMK_R_parenright" = -5;
+"@MMK_R_period" = -60;
+"@MMK_R_quoteleft" = 20;
+"@MMK_R_quoteright" = 12;
+"@MMK_R_vowelRu.mlm" = 10;
+Anuswara.mlm = -15;
+Ja.mlm = 2;
+asterisk = 10;
+lengthAu.mlm = 15;
+matraA.mlm = 5;
+one = 5;
+slash = -50;
 };
 "@MMK_L_a" = {
 "@MMK_R_S" = -5;
@@ -100621,6 +103128,20 @@ lengthAu.mlm = 10;
 "@MMK_R_quotesingle" = -35;
 "@MMK_R_v" = -12;
 "@MMK_R_w" = -7;
+V = -35;
+asterisk = -15;
+backslash = -10;
+napostrophe = 0;
+one = -20;
+question = -10;
+seven = -15;
+};
+"@MMK_L_bar" = {
+five = 8;
+four = 5;
+one = 5;
+seven = 5;
+two = 8;
 };
 "@MMK_L_c" = {
 "@MMK_R_A" = 0;
@@ -100636,21 +103157,55 @@ lengthAu.mlm = 10;
 "@MMK_R_quoteright" = 8;
 "@MMK_R_s" = -10;
 "@MMK_R_z" = 6;
+V = -10;
+backslash = -15;
+five = 3;
+four = 5;
+nine = 5;
+semicolon = 0;
+slash = 0;
+three = 5;
+x = 6;
 };
 "@MMK_L_colon" = {
 "@MMK_R_A" = 15;
+"@MMK_R_Ca.mlm" = 20;
 "@MMK_R_J" = 5;
+"@MMK_R_Ka.mlm" = 5;
+"@MMK_R_Ma.mlm" = 10;
+"@MMK_R_Pa.mlm" = 20;
+"@MMK_R_Rra.mlm" = 5;
 "@MMK_R_T" = -8;
+"@MMK_R_Tta.mlm" = 10;
 "@MMK_R_Y" = -20;
+"@MMK_R_Ya.mlm" = 5;
 "@MMK_R_Z" = 10;
+"@MMK_R_Zha.mlm" = 15;
 Lla.mlm = 5;
+V = -10;
+X = 10;
+eight = 5;
+one = 10;
+three = 10;
+two = 5;
+x = 0;
 };
 "@MMK_L_copyright" = {
 "@MMK_R_A" = -5;
+"@MMK_R_Ca.mlm" = -25;
 "@MMK_R_J" = -20;
 "@MMK_R_T" = -5;
 "@MMK_R_Y" = -15;
 "@MMK_R_Z" = -15;
+X = -10;
+one = -5;
+seven = -8;
+};
+"@MMK_L_d" = {
+icircumflex = 10;
+idieresis = 30;
+imacron = 5;
+itilde = 20;
 };
 "@MMK_L_dcaron" = {
 "@MMK_R_A" = -70;
@@ -100670,6 +103225,11 @@ Lla.mlm = 5;
 "@MMK_R_s" = -25;
 "@MMK_R_v" = -10;
 "@MMK_R_z" = -10;
+V = 20;
+four = -70;
+one = 10;
+question = 20;
+seven = 20;
 };
 "@MMK_L_e" = {
 "@MMK_R_J" = -8;
@@ -100685,6 +103245,12 @@ Lla.mlm = 5;
 "@MMK_R_s" = 0;
 "@MMK_R_v" = -4;
 "@MMK_R_w" = 0;
+V = -35;
+X = -20;
+asterisk = -10;
+backslash = -30;
+one = -20;
+x = -5;
 };
 "@MMK_L_five.inferior" = {
 "@MMK_R_one.inferior" = 0;
@@ -100711,6 +103277,20 @@ Lla.mlm = 5;
 "@MMK_R_quotesingle" = -30;
 "@MMK_R_v" = -10;
 "@MMK_R_w" = -5;
+V = -35;
+asterisk = -15;
+backslash = -10;
+comma = 5;
+one = -20;
+question = -10;
+semicolon = 5;
+seven = -10;
+slash = 5;
+};
+"@MMK_L_greater" = {
+seven = -10;
+three = -10;
+two = -10;
 };
 "@MMK_L_h" = {
 "@MMK_R_S" = -5;
@@ -100722,15 +103302,35 @@ Lla.mlm = 5;
 "@MMK_R_quotesingle" = -30;
 "@MMK_R_v" = -13;
 "@MMK_R_w" = -5;
+V = -37;
+asterisk = -15;
+backslash = -10;
+one = -25;
+question = -10;
+seven = -10;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_A" = -20;
+"@MMK_R_Dha.mlm" = 5;
 "@MMK_R_J" = -20;
+"@MMK_R_Ka.mlm" = 10;
+"@MMK_R_Na.mlm" = 5;
+"@MMK_R_Pa.mlm" = 5;
+"@MMK_R_Ra.mlm" = 5;
+"@MMK_R_Rra.mlm" = 5;
 "@MMK_R_T" = -30;
 "@MMK_R_Y" = -30;
+"@MMK_R_Ya.mlm" = 5;
 "@MMK_R_Z" = -10;
 "@MMK_R_o" = 3;
 Ttha.mlm = 5;
+V = -30;
+X = -5;
+four = 20;
+nine = -5;
+one = -20;
+seven = -20;
+three = -20;
 uni0D70 = -30;
 };
 "@MMK_L_i" = {
@@ -100739,9 +103339,20 @@ uni0D70 = -30;
 "@MMK_R_Y" = -12;
 "@MMK_R_l" = 0;
 "@MMK_R_parenright" = 5;
+V = -12;
+icircumflex = 10;
+idieresis = 35;
+imacron = 5;
+itilde = 25;
 };
 "@MMK_L_j" = {
 "@MMK_R_parenright" = 8;
+comma = 10;
+icircumflex = 10;
+idieresis = 35;
+imacron = 5;
+itilde = 25;
+slash = 8;
 };
 "@MMK_L_k" = {
 "@MMK_R_A" = 5;
@@ -100764,10 +103375,30 @@ uni0D70 = -30;
 "@MMK_R_v" = -17;
 "@MMK_R_w" = -12;
 "@MMK_R_z" = 0;
+V = -25;
+at = -10;
+backslash = -30;
+question = -10;
+x = 0;
 };
 "@MMK_L_l" = {
 "@MMK_R_i" = 0;
 "@MMK_R_l" = 0;
+icircumflex = 10;
+idieresis = 30;
+imacron = 5;
+itilde = 20;
+};
+"@MMK_L_lengthAu.mlm" = {
+"@MMK_R_Ca.mlm" = -33;
+"@MMK_R_Ka.mlm" = -5;
+"@MMK_R_Pa.mlm" = -8;
+"@MMK_R_Zha.mlm" = 5;
+"@MMK_R_parenright" = -15;
+"@MMK_R_period" = -30;
+question = -15;
+seven = -20;
+slash = -10;
 };
 "@MMK_L_m" = {
 "@MMK_R_S" = -5;
@@ -100779,6 +103410,65 @@ uni0D70 = -30;
 "@MMK_R_quotesingle" = -30;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -4;
+V = -35;
+backslash = -10;
+napostrophe = 0;
+one = -20;
+question = -10;
+seven = -10;
+three = -5;
+};
+"@MMK_L_matraRu.mlm" = {
+"@MMK_R_Ca.mlm" = 30;
+"@MMK_R_Pa.mlm" = 20;
+"@MMK_R_Tta.mlm" = 10;
+"@MMK_R_ViramaRa.mlm" = 30;
+"@MMK_R_Zha.mlm" = -4;
+"@MMK_R_bar" = 25;
+"@MMK_R_colon" = 20;
+"@MMK_R_parenright" = 50;
+"@MMK_R_period" = 40;
+"@MMK_R_quoteright" = 10;
+"@MMK_R_vowelU.mlm" = 25;
+CaCha.mlm = 35;
+Ja.mlm = 20;
+MaLa.mlm = 25;
+MaNa.mlm = 25;
+PaSa.mlm = 20;
+ZhaKa.mlm = 25;
+ZhaTa.mlm = 15;
+comma = 65;
+question = 20;
+semicolon = 40;
+slash = 50;
+two = 10;
+};
+"@MMK_L_matraU.mlm" = {
+"@MMK_R_Ca.mlm" = 25;
+"@MMK_R_Gha.mlm" = -10;
+"@MMK_R_Pa.mlm" = 10;
+"@MMK_R_Tta.mlm" = 5;
+"@MMK_R_ViramaRa.mlm" = 25;
+"@MMK_R_Zha.mlm" = -15;
+"@MMK_R_bar" = 30;
+"@MMK_R_colon" = 20;
+"@MMK_R_parenright" = 50;
+"@MMK_R_period" = 40;
+"@MMK_R_quoteright" = -10;
+"@MMK_R_trademark" = -15;
+"@MMK_R_vowelU.mlm" = 35;
+CaCha.mlm = 35;
+Ja.mlm = 30;
+Lla.mlm = 25;
+MaLa.mlm = 25;
+MaNa.mlm = 25;
+TtaTta.mlm = 25;
+ZhaKa.mlm = 15;
+ZhaTa.mlm = 25;
+comma = 65;
+semicolon = 45;
+slash = 60;
+two = 10;
 };
 "@MMK_L_nine.inferior" = {
 "@MMK_R_seven.inferior" = -5;
@@ -100802,6 +103492,21 @@ uni0D70 = -30;
 "@MMK_R_v" = -13;
 "@MMK_R_w" = -6;
 "@MMK_R_z" = -4;
+AE = -10;
+V = -43;
+X = -15;
+ampersand = 5;
+asterisk = -20;
+backslash = -30;
+five = -10;
+four = 5;
+napostrophe = 0;
+one = -30;
+question = -5;
+seven = -20;
+six = 4;
+x = -5;
+zero = 4;
 };
 "@MMK_L_ohorn" = {
 "@MMK_R_a" = -20;
@@ -100821,6 +103526,12 @@ uni0D70 = -30;
 "@MMK_R_j" = 7;
 "@MMK_R_o" = 7;
 "@MMK_R_s" = 7;
+V = -23;
+X = 7;
+eight = 6;
+four = 6;
+one = -15;
+two = 4;
 };
 "@MMK_L_ordmasculine" = {
 "@MMK_R_A" = -50;
@@ -100829,29 +103540,49 @@ uni0D70 = -30;
 "@MMK_R_T" = 10;
 };
 "@MMK_L_parenleft" = {
+"@MMK_R_Gha.mlm" = -15;
+"@MMK_R_Ka.mlm" = -5;
+"@MMK_R_Ra.mlm" = -5;
+"@MMK_R_Rra.mlm" = -5;
 "@MMK_R_T" = 15;
 "@MMK_R_i" = 5;
 "@MMK_R_j" = 70;
 "@MMK_R_o" = -8;
 "@MMK_R_parenright" = 40;
 "@MMK_R_v" = -5;
+"@MMK_R_vowelRu.mlm" = -5;
+"@MMK_R_vowelU.mlm" = 5;
 "@MMK_R_w" = -5;
 Ttha.mlm = -5;
+eight = -4;
+four = -5;
+icircumflex = 50;
+idieresis = 70;
+igrave = 50;
+imacron = 40;
 lengthAu.mlm = -10;
+seven = 12;
+three = -4;
 uni0D67 = 40;
+x = -5;
 };
 "@MMK_L_parenleft.inferior" = {
 "@MMK_R_parenright.inferior" = 15;
 };
 "@MMK_L_period" = {
 "@MMK_R_A" = 15;
+"@MMK_R_Ca.mlm" = 30;
+"@MMK_R_Gha.mlm" = -45;
 "@MMK_R_J" = 20;
+"@MMK_R_Ka.mlm" = 10;
 "@MMK_R_M" = 5;
 "@MMK_R_O" = -20;
+"@MMK_R_Pa.mlm" = 15;
 "@MMK_R_T" = -50;
 "@MMK_R_W" = -30;
 "@MMK_R_Y" = -30;
 "@MMK_R_Z" = 0;
+"@MMK_R_Zha.mlm" = -50;
 "@MMK_R_a" = 3;
 "@MMK_R_o" = -10;
 "@MMK_R_period" = 0;
@@ -100863,16 +103594,36 @@ uni0D67 = 40;
 "@MMK_R_v" = -40;
 "@MMK_R_w" = -30;
 "@MMK_R_z" = 10;
+V = -40;
+X = 10;
+eight = 0;
+five = 0;
+four = 5;
+nine = -20;
+one = -30;
+six = -15;
+three = 0;
+two = 0;
 uni0D67 = 20;
+x = 5;
+zero = -12;
 };
 "@MMK_L_quoteleft" = {
 "@MMK_R_A" = -70;
+"@MMK_R_Ca.mlm" = -70;
+"@MMK_R_Da.mlm" = -10;
 "@MMK_R_J" = -70;
+"@MMK_R_Ka.mlm" = -50;
 "@MMK_R_M" = -10;
 "@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -50;
+"@MMK_R_Ra.mlm" = -15;
+"@MMK_R_Rra.mlm" = -15;
 "@MMK_R_T" = 30;
+"@MMK_R_ViramaRa.mlm" = -15;
 "@MMK_R_W" = 15;
 "@MMK_R_Y" = 20;
+"@MMK_R_Zha.mlm" = 5;
 "@MMK_R_a" = -25;
 "@MMK_R_g" = -20;
 "@MMK_R_m" = -20;
@@ -100882,15 +103633,35 @@ uni0D67 = 20;
 "@MMK_R_v" = 0;
 "@MMK_R_w" = 0;
 "@MMK_R_z" = -5;
+AE = -80;
 Ttha.mlm = -10;
+V = 10;
+X = 10;
+five = 8;
+four = -40;
+icircumflex = 40;
+idieresis = 60;
+igrave = 40;
+imacron = 20;
 matraE.mlm = -5;
+one = 25;
+seven = 25;
+three = -5;
+two = -5;
 uni0D67 = -40;
 uni0D70 = -40;
 };
 "@MMK_L_quoteright" = {
 "@MMK_R_A" = -60;
+"@MMK_R_Ca.mlm" = -40;
+"@MMK_R_Dha.mlm" = -15;
 "@MMK_R_J" = -70;
+"@MMK_R_Ka.mlm" = -40;
+"@MMK_R_Na.mlm" = -15;
 "@MMK_R_O" = -20;
+"@MMK_R_Pa.mlm" = -60;
+"@MMK_R_Ra.mlm" = -35;
+"@MMK_R_Rra.mlm" = -35;
 "@MMK_R_S" = 0;
 "@MMK_R_T" = 15;
 "@MMK_R_W" = 0;
@@ -100907,26 +103678,62 @@ uni0D70 = -40;
 "@MMK_R_s" = -30;
 "@MMK_R_u" = -20;
 "@MMK_R_z" = -20;
+AE = -80;
 Ttha.mlm = -15;
+V = 0;
+exclam = -5;
+four = -40;
+icircumflex = 40;
+idieresis = 60;
+igrave = 20;
+imacron = 20;
+one = 25;
+question = 5;
+seven = 0;
+space = -50;
+three = 0;
 uni0D67 = -40;
+x = -12;
 };
 "@MMK_L_quotesingle" = {
 "@MMK_R_A" = -70;
+"@MMK_R_Ca.mlm" = -60;
+"@MMK_R_Da.mlm" = -20;
 "@MMK_R_J" = -50;
+"@MMK_R_Ka.mlm" = -50;
 "@MMK_R_M" = -5;
+"@MMK_R_Ma.mlm" = -10;
 "@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -40;
+"@MMK_R_Ra.mlm" = -8;
+"@MMK_R_Rra.mlm" = -8;
 "@MMK_R_S" = 0;
 "@MMK_R_T" = 28;
+"@MMK_R_ViramaRa.mlm" = -25;
 "@MMK_R_W" = 12;
 "@MMK_R_Y" = 10;
+"@MMK_R_Zha.mlm" = 5;
 "@MMK_R_a" = -40;
 "@MMK_R_g" = -30;
 "@MMK_R_m" = -30;
 "@MMK_R_o" = -30;
 "@MMK_R_v" = 0;
 "@MMK_R_w" = 0;
+AE = -80;
 Ttha.mlm = -8;
+V = 15;
+eight = -7;
+four = -40;
+icircumflex = 40;
+idieresis = 50;
+igrave = 20;
+imacron = 20;
 matraE.mlm = -5;
+nine = 5;
+one = 30;
+seven = 15;
+space = -50;
+three = 0;
 uni0D67 = -40;
 };
 "@MMK_L_r" = {
@@ -100953,6 +103760,16 @@ uni0D67 = -40;
 "@MMK_R_v" = 16;
 "@MMK_R_w" = 14;
 "@MMK_R_z" = 3;
+V = -8;
+X = -10;
+ampersand = -40;
+asterisk = 5;
+at = -5;
+napostrophe = -10;
+nine = 8;
+slash = -40;
+threequarters = 5;
+x = 5;
 };
 "@MMK_L_s" = {
 "@MMK_R_A" = 0;
@@ -100970,6 +103787,14 @@ uni0D67 = -40;
 "@MMK_R_v" = -15;
 "@MMK_R_w" = -5;
 "@MMK_R_z" = 6;
+V = -30;
+asterisk = -5;
+at = 4;
+four = 10;
+one = -5;
+question = -15;
+seven = -8;
+x = 5;
 };
 "@MMK_L_seven.inferior" = {
 "@MMK_R_four.inferior" = -11;
@@ -101002,6 +103827,14 @@ uni0D67 = -40;
 "@MMK_R_v" = 0;
 "@MMK_R_w" = 0;
 "@MMK_R_z" = 7;
+V = -10;
+five = 5;
+nine = 8;
+one = 10;
+six = 10;
+slash = 10;
+x = 14;
+zero = 10;
 };
 "@MMK_L_three.inferior" = {
 "@MMK_R_four.inferior" = 0;
@@ -101020,11 +103853,27 @@ uni0D67 = -40;
 "@MMK_R_W" = -8;
 "@MMK_R_Y" = -35;
 "@MMK_R_Z" = -5;
+V = -25;
+X = -5;
 };
 "@MMK_L_uhorn" = {
 "@MMK_R_A" = 0;
 "@MMK_R_o" = 0;
 "@MMK_R_v" = 0;
+};
+"@MMK_L_uni0D68" = {
+"@MMK_R_Ca.mlm" = 40;
+"@MMK_R_Gha.mlm" = -30;
+"@MMK_R_Ka.mlm" = 20;
+"@MMK_R_Ma.mlm" = 20;
+"@MMK_R_Pa.mlm" = 30;
+"@MMK_R_Tta.mlm" = 20;
+"@MMK_R_Zha.mlm" = -20;
+"@MMK_R_period" = 55;
+"@MMK_R_quoteright" = -20;
+"@MMK_R_vowelU.mlm" = 15;
+slash = 50;
+uni0D67 = 45;
 };
 "@MMK_L_v" = {
 "@MMK_R_A" = -30;
@@ -101042,6 +103891,74 @@ uni0D67 = -40;
 "@MMK_R_quotesingle" = 0;
 "@MMK_R_v" = 8;
 "@MMK_R_w" = 5;
+AE = -40;
+X = -5;
+ampersand = -15;
+asterisk = 5;
+napostrophe = 0;
+nine = 4;
+one = 7;
+six = 5;
+slash = -25;
+three = -10;
+two = -20;
+x = 3;
+zero = 8;
+};
+"@MMK_L_vowelAa.mlm" = {
+"@MMK_R_Ca.mlm" = 15;
+"@MMK_R_Dha.mlm" = -5;
+"@MMK_R_Gha.mlm" = -30;
+"@MMK_R_Ka.mlm" = 5;
+"@MMK_R_Na.mlm" = -3;
+"@MMK_R_Pa.mlm" = 15;
+"@MMK_R_Rra.mlm" = -5;
+"@MMK_R_Tta.mlm" = 2;
+"@MMK_R_Zha.mlm" = -38;
+"@MMK_R_colon" = 25;
+"@MMK_R_hyphen" = 10;
+"@MMK_R_period" = 30;
+"@MMK_R_quoteleft" = -50;
+"@MMK_R_quoteright" = -50;
+"@MMK_R_quotesingle" = -60;
+"@MMK_R_trademark" = -80;
+"@MMK_R_vowelRu.mlm" = -15;
+Anuswara.mlm = -5;
+Ttha.mlm = -4;
+asterisk = -70;
+four = 20;
+nine = -20;
+one = -50;
+question = -40;
+registered = -20;
+seven = -35;
+slash = 30;
+};
+"@MMK_L_vowelRu.mlm" = {
+"@MMK_R_Ca.mlm" = -30;
+"@MMK_R_Gha.mlm" = 5;
+"@MMK_R_Ka.mlm" = -15;
+"@MMK_R_Pa.mlm" = -20;
+"@MMK_R_Ya.mlm" = 2;
+"@MMK_R_Zha.mlm" = 10;
+"@MMK_R_parenright" = -5;
+"@MMK_R_period" = -15;
+Anuswara.mlm = -18;
+};
+"@MMK_L_vowelshortE.mlm" = {
+"@MMK_R_Gha.mlm" = -5;
+"@MMK_R_Ka.mlm" = 10;
+"@MMK_R_Pa.mlm" = 5;
+"@MMK_R_Zha.mlm" = -10;
+"@MMK_R_hyphen" = 5;
+"@MMK_R_period" = 15;
+"@MMK_R_quotesingle" = -20;
+"@MMK_R_trademark" = -25;
+one = -10;
+question = -20;
+six = 10;
+slash = 25;
+two = 10;
 };
 "@MMK_L_w" = {
 "@MMK_R_A" = -15;
@@ -101057,6 +103974,18 @@ uni0D67 = -40;
 "@MMK_R_quoteright" = 5;
 "@MMK_R_quotesingle" = 0;
 "@MMK_R_v" = 5;
+AE = -25;
+V = -5;
+X = -5;
+ampersand = -10;
+asterisk = 5;
+napostrophe = 0;
+nine = 5;
+one = 7;
+slash = -15;
+three = -8;
+two = -15;
+zero = 5;
 };
 "@MMK_L_z" = {
 "@MMK_R_A" = 0;
@@ -101069,6 +103998,9 @@ uni0D67 = -40;
 "@MMK_R_s" = 5;
 "@MMK_R_v" = -7;
 "@MMK_R_w" = -5;
+napostrophe = 0;
+slash = 15;
+x = 5;
 };
 "@MMK_L_zero.inferior" = {
 "@MMK_R_nine.inferior" = -4;
@@ -101076,9 +104008,36 @@ uni0D67 = -40;
 "@MMK_R_seven.inferior" = -5;
 };
 Anuswara.mlm = {
+"@MMK_R_Ca.mlm" = -5;
+"@MMK_R_Gha.mlm" = -15;
+"@MMK_R_Ma.mlm" = -10;
+"@MMK_R_Pa.mlm" = 2;
+"@MMK_R_Tta.mlm" = -8;
+"@MMK_R_Ya.mlm" = -5;
+"@MMK_R_Zha.mlm" = -20;
 "@MMK_R_period" = 5;
+"@MMK_R_vowelRu.mlm" = -18;
+"@MMK_R_vowelU.mlm" = -15;
 Ja.mlm = -15;
 Lla.mlm = -5;
+};
+B = {
+"@MMK_R_T" = -10;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -20;
+"@MMK_R_m" = -3;
+"@MMK_R_o" = -3;
+"@MMK_R_quoteleft" = -5;
+"@MMK_R_quotesingle" = -5;
+"@MMK_R_trademark" = -20;
+"@MMK_R_u" = -5;
+"@MMK_R_v" = -13;
+"@MMK_R_w" = -8;
+V = -20;
+X = 0;
+three = -5;
+two = -5;
+x = 0;
 };
 BaBa.mlm = {
 ViramaVa1.mlm = 65;
@@ -101108,6 +104067,7 @@ ViramaVa1.mlm = 60;
 ViramaYa1.mlm = 45;
 };
 DaDa.mlm = {
+"@MMK_R_vowelU.mlm" = 10;
 Lla.mlm = 10;
 ViramaVa1.mlm = 60;
 ViramaYa1.mlm = 55;
@@ -101118,6 +104078,19 @@ ViramaVa1.mlm = 20;
 DdaDdha.mlm = {
 ViramaVa1.mlm = 65;
 ViramaYa1.mlm = 50;
+};
+Delta = {
+one = -30;
+};
+Euro = {
+"@MMK_R_J" = 5;
+"@MMK_R_O" = -20;
+"@MMK_R_T" = 25;
+"@MMK_R_Y" = 10;
+X = 15;
+eight = 5;
+one = 20;
+seven = 20;
 };
 GaGa.mlm = {
 ViramaVa1.mlm = 30;
@@ -101132,6 +104105,13 @@ ViramaYa1.mlm = -20;
 HaLa.mlm = {
 ViramaVa1.mlm = 25;
 ViramaYa1.mlm = 20;
+};
+Iogonek = {
+"@MMK_R_j" = 20;
+};
+J = {
+"@MMK_R_J" = 0;
+AE = -20;
 };
 KaLa.mlm = {
 ViramaVa1.mlm = 35;
@@ -101155,6 +104135,18 @@ LaPa.mlm = {
 ViramaVa1.mlm = 65;
 ViramaYa1.mlm = 40;
 };
+Ldot = {
+"@MMK_R_O" = 20;
+"@MMK_R_W" = -5;
+"@MMK_R_Y" = -20;
+"@MMK_R_g" = 10;
+"@MMK_R_hyphen" = 5;
+"@MMK_R_o" = 10;
+"@MMK_R_v" = 15;
+"@MMK_R_w" = 15;
+V = -10;
+one = 10;
+};
 MaLa.mlm = {
 ViramaVa1.mlm = 50;
 ViramaYa1.mlm = 40;
@@ -101172,6 +104164,48 @@ ViramaVa1.mlm = 20;
 };
 NnaTtha.mlm = {
 ViramaVa1.mlm = 10;
+};
+Oslash = {
+"@MMK_R_Y" = -10;
+"@MMK_R_trademark" = -10;
+};
+Oslashacute = {
+"@MMK_R_Y" = -10;
+"@MMK_R_trademark" = -10;
+};
+P = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -45;
+"@MMK_R_M" = -3;
+"@MMK_R_S" = -5;
+"@MMK_R_T" = 4;
+"@MMK_R_W" = 0;
+"@MMK_R_Z" = -10;
+"@MMK_R_a" = -10;
+"@MMK_R_colon" = 0;
+"@MMK_R_g" = -5;
+"@MMK_R_hyphen" = -4;
+"@MMK_R_i" = -10;
+"@MMK_R_j" = -10;
+"@MMK_R_m" = -20;
+"@MMK_R_o" = -15;
+"@MMK_R_ordmasculine" = 10;
+"@MMK_R_period" = -60;
+"@MMK_R_quoteright" = 30;
+"@MMK_R_quotesingle" = 8;
+"@MMK_R_s" = -5;
+"@MMK_R_trademark" = -5;
+"@MMK_R_z" = -5;
+AE = -50;
+X = -8;
+four = -12;
+nine = 5;
+numbersign = -8;
+one = 6;
+question = 5;
+slash = -40;
+three = -10;
+two = -15;
 };
 PaLa.mlm = {
 ViramaVa1.mlm = 50;
@@ -101191,6 +104225,15 @@ ViramaYa1.mlm = 40;
 };
 PhaKa.mlm = {
 ViramaVa1.mlm = 30;
+};
+Q = {
+"@MMK_R_J" = 10;
+"@MMK_R_j" = 0;
+"@MMK_R_parenright" = 40;
+braceright = 33;
+comma = 50;
+semicolon = 50;
+slash = 45;
 };
 SaKa.mlm = {
 ViramaVa1.mlm = 50;
@@ -101269,8 +104312,53 @@ ViramaVa1.mlm = 30;
 ViramaYa1.mlm = 20;
 };
 TtaTta.mlm = {
+"@MMK_R_vowelU.mlm" = 3;
 ViramaVa1.mlm = 50;
 ViramaYa1.mlm = 50;
+};
+V = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -50;
+"@MMK_R_M" = -8;
+"@MMK_R_O" = -7;
+"@MMK_R_S" = 5;
+"@MMK_R_T" = 15;
+"@MMK_R_W" = 10;
+"@MMK_R_Y" = 10;
+"@MMK_R_Z" = -4;
+"@MMK_R_a" = 0;
+"@MMK_R_g" = -35;
+"@MMK_R_hyphen" = -28;
+"@MMK_R_i" = -12;
+"@MMK_R_m" = -30;
+"@MMK_R_o" = -33;
+"@MMK_R_onequarter" = 20;
+"@MMK_R_period" = -40;
+"@MMK_R_quoteright" = 25;
+"@MMK_R_quotesingle" = 15;
+"@MMK_R_s" = -20;
+"@MMK_R_trademark" = 8;
+"@MMK_R_u" = -10;
+AE = -70;
+Euro = -20;
+V = 12;
+X = 5;
+asterisk = 10;
+at = -10;
+bracketright = 5;
+eight = -10;
+four = -20;
+hbar = 0;
+numbersign = -15;
+one = 5;
+question = 20;
+seven = 5;
+slash = -30;
+sterling = -10;
+three = -5;
+two = -5;
+uni20BD = -25;
+x = -10;
 };
 VaLa.mlm = {
 ViramaVa1.mlm = 40;
@@ -101281,6 +104369,7 @@ ViramaVa1.mlm = 65;
 ViramaYa1.mlm = 40;
 };
 ViramaRa.mlm = {
+"@MMK_R_Zha.mlm" = 25;
 Tha.mlm = 20;
 };
 ViramaRa1.mlm = {
@@ -101294,6 +104383,7 @@ ZhaKa.mlm = 60;
 ZhaTa.mlm = 70;
 };
 ViramaVa1.mlm = {
+"@MMK_R_matraU.mlm" = 40;
 ViramaYa.mlm = 100;
 };
 ViramaYa.mlm = {
@@ -101310,6 +104400,40 @@ matraUu2.mlm = 20;
 };
 Visarga.mlm = {
 "@MMK_R_period" = 10;
+};
+X = {
+"@MMK_R_A" = 10;
+"@MMK_R_J" = 20;
+"@MMK_R_M" = 5;
+"@MMK_R_O" = -13;
+"@MMK_R_S" = 0;
+"@MMK_R_T" = 5;
+"@MMK_R_Z" = 10;
+"@MMK_R_colon" = 15;
+"@MMK_R_copyright" = -10;
+"@MMK_R_g" = -5;
+"@MMK_R_hyphen" = -5;
+"@MMK_R_m" = -5;
+"@MMK_R_o" = -10;
+"@MMK_R_onequarter" = 8;
+"@MMK_R_period" = 10;
+"@MMK_R_quoteright" = 10;
+"@MMK_R_quotesingle" = 5;
+"@MMK_R_trademark" = 8;
+"@MMK_R_u" = -5;
+"@MMK_R_v" = -8;
+"@MMK_R_w" = -8;
+Euro = -20;
+X = 5;
+asterisk = 8;
+at = -8;
+cent = -5;
+numbersign = -15;
+question = 12;
+registered = -8;
+slash = 20;
+three = -5;
+two = 4;
 };
 YaPa.mlm = {
 ViramaVa1.mlm = 45;
@@ -101333,11 +104457,818 @@ ZhaTa.mlm = {
 ViramaVa1.mlm = 90;
 ViramaYa1.mlm = 60;
 };
+afii61289 = {
+four = -15;
+};
+ampersand = {
+"@MMK_R_v" = -20;
+"@MMK_R_w" = -5;
+"@MMK_R_z" = 5;
+eight = 5;
+four = 0;
+nine = -5;
+one = -30;
+seven = -20;
+three = 0;
+two = 15;
+};
+asterisk = {
+"@MMK_R_A" = -70;
+"@MMK_R_Ca.mlm" = -80;
+"@MMK_R_Da.mlm" = -20;
+"@MMK_R_J" = -50;
+"@MMK_R_Ka.mlm" = -50;
+"@MMK_R_M" = -15;
+"@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -50;
+"@MMK_R_T" = 20;
+"@MMK_R_W" = 10;
+"@MMK_R_Y" = 10;
+"@MMK_R_Zha.mlm" = 10;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_m" = -15;
+"@MMK_R_o" = -20;
+"@MMK_R_v" = 5;
+V = 5;
+X = 8;
+four = -40;
+one = 10;
+seven = 10;
+six = -10;
+zero = -15;
+};
+at = {
+"@MMK_R_J" = -10;
+"@MMK_R_M" = 2;
+"@MMK_R_S" = -4;
+"@MMK_R_T" = -20;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -30;
+"@MMK_R_Z" = -5;
+V = -15;
+X = -10;
+four = 5;
+nine = -5;
+seven = -4;
+two = 3;
+};
+backslash = {
+"@MMK_R_j" = 70;
+"@MMK_R_o" = 5;
+"@MMK_R_s" = 10;
+"@MMK_R_v" = -25;
+"@MMK_R_w" = -20;
+"@MMK_R_z" = 15;
+nine = -10;
+one = -40;
+seven = -15;
+two = 5;
+};
+braceleft = {
+"@MMK_R_T" = 5;
+braceright = 25;
+};
+bracketleft = {
+"@MMK_R_W" = 5;
+"@MMK_R_Y" = 8;
+V = 5;
+};
+cent = {
+eight = 10;
+four = -10;
+one = 0;
+three = 10;
+two = 10;
+};
+colonmonetary = {
+one = 0;
+};
+comma = {
+"@MMK_R_j" = 10;
+};
+degree = {
+four = -50;
+one = 30;
+seven = 20;
+};
+dollar = {
+four = 0;
+one = 0;
+three = 0;
+two = 0;
+};
+eight = {
+"@MMK_R_Ca.mlm" = 5;
+"@MMK_R_Pa.mlm" = 5;
+"@MMK_R_T" = -10;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -30;
+"@MMK_R_colon" = 5;
+"@MMK_R_parenright" = -4;
+"@MMK_R_percent" = 0;
+"@MMK_R_period" = 2;
+"@MMK_R_quoteright" = 15;
+"@MMK_R_quotesingle" = -10;
+"@MMK_R_trademark" = -25;
+"@MMK_R_v" = -5;
+V = -15;
+ampersand = 10;
+asterisk = -10;
+five = -10;
+multiply = 10;
+onesuperior = -20;
+seven = -15;
+slash = 20;
+summation = -5;
+three = 0;
+two = -5;
+};
+exclam = {
+"@MMK_R_A" = 5;
+"@MMK_R_period" = -30;
+};
+exclamdown = {
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -20;
+"@MMK_R_Z" = 5;
+"@MMK_R_j" = 40;
+};
+f = {
+"@MMK_R_A" = -45;
+"@MMK_R_J" = -70;
+"@MMK_R_M" = -8;
+"@MMK_R_T" = 10;
+"@MMK_R_W" = 10;
+"@MMK_R_Y" = 10;
+"@MMK_R_a" = -20;
+"@MMK_R_colon" = 0;
+"@MMK_R_f" = -15;
+"@MMK_R_g" = -20;
+"@MMK_R_hyphen" = -10;
+"@MMK_R_i" = -3;
+"@MMK_R_j" = -3;
+"@MMK_R_m" = -20;
+"@MMK_R_o" = -22;
+"@MMK_R_onequarter" = 20;
+"@MMK_R_parenright" = 30;
+"@MMK_R_percent" = 10;
+"@MMK_R_period" = -60;
+"@MMK_R_quoteleft" = 20;
+"@MMK_R_quoteright" = 30;
+"@MMK_R_quotesingle" = 25;
+"@MMK_R_s" = -15;
+"@MMK_R_t" = -5;
+"@MMK_R_trademark" = 0;
+"@MMK_R_u" = -10;
+"@MMK_R_v" = -10;
+"@MMK_R_w" = 3;
+"@MMK_R_z" = -8;
+AE = -60;
+V = 10;
+ampersand = -30;
+at = -10;
+b = 0;
+backslash = 40;
+four = -20;
+hbar = 0;
+igrave = 10;
+n.superior = 20;
+napostrophe = 0;
+nine = 4;
+one = 20;
+question = 30;
+seven = 20;
+slash = -35;
+three = -5;
+threequarters = 20;
+two = -5;
+uni20B9 = 15;
+x = -2;
+};
+five = {
+"@MMK_R_Pa.mlm" = 10;
+"@MMK_R_T" = -10;
+"@MMK_R_W" = -15;
+"@MMK_R_Y" = -25;
+"@MMK_R_colon" = 5;
+"@MMK_R_g" = 3;
+"@MMK_R_o" = 2;
+"@MMK_R_parenright" = -4;
+"@MMK_R_period" = 0;
+"@MMK_R_quotesingle" = -18;
+"@MMK_R_v" = -10;
+"@MMK_R_w" = -10;
+"@MMK_R_z" = -10;
+V = -15;
+ampersand = 0;
+asterisk = -10;
+at = 5;
+degree = -30;
+eight = 10;
+five = 0;
+four = 5;
+nine = -10;
+numbersign = 5;
+periodcentered = 10;
+registered = -8;
+six = 4;
+slash = 20;
+summation = -5;
+three = 10;
+two = 0;
+uni20B9 = 0;
+zero = 5;
+};
+five.superior = {
+seven.superior = -6;
+};
+florin = {
+four = -20;
+nine = 15;
+one = 20;
+seven = 30;
+slash = -30;
+};
+four = {
+"@MMK_R_A" = 15;
+"@MMK_R_Ca.mlm" = 20;
+"@MMK_R_Ka.mlm" = 25;
+"@MMK_R_O" = 15;
+"@MMK_R_Rra.mlm" = 5;
+"@MMK_R_Y" = -15;
+"@MMK_R_a" = 20;
+"@MMK_R_g" = 20;
+"@MMK_R_hyphen" = 20;
+"@MMK_R_less" = 30;
+"@MMK_R_o" = 20;
+"@MMK_R_percent" = -30;
+"@MMK_R_quotesingle" = -20;
+"@MMK_R_trademark" = -20;
+Euro = 20;
+V = -10;
+ampersand = 20;
+asterisk = -20;
+cent = 30;
+degree = 0;
+eight = 15;
+five = -15;
+four = 20;
+nine = -15;
+numbersign = 15;
+one = -20;
+periodcentered = 10;
+seven = -25;
+six = 10;
+slash = 20;
+three = 0;
+uni20A6 = 20;
+uni20B2 = 10;
+uni20B5 = 10;
+uni20BA = 10;
+uni20BD = 20;
+uni2215 = 0;
+zero = 10;
+};
+four.superior = {
+eight.superior = 5;
+four.superior = 15;
+nine.superior = -10;
+onesuperior = -10;
+seven.superior = -10;
+};
+fraction = {
+eight.dnom = 0;
+four.dnom = -50;
+nine.dnom = 0;
+seven.dnom = 30;
+six.dnom = -20;
+zero.dnom = -20;
+};
+iacute = {
+"@MMK_R_parenright" = 30;
+"@MMK_R_quotesingle" = 20;
+};
+icircumflex = {
+"@MMK_R_i" = 8;
+"@MMK_R_j" = 8;
+"@MMK_R_l" = 15;
+"@MMK_R_parenright" = 50;
+"@MMK_R_quoteleft" = 10;
+"@MMK_R_quoteright" = 40;
+"@MMK_R_quotesingle" = 40;
+exclam = 20;
+question = 40;
+tcaron = 20;
+};
+idieresis = {
+"@MMK_R_i" = 30;
+"@MMK_R_j" = 30;
+"@MMK_R_l" = 30;
+"@MMK_R_parenright" = 70;
+"@MMK_R_quoteleft" = 25;
+"@MMK_R_quoteright" = 55;
+"@MMK_R_quotesingle" = 50;
+"@MMK_R_t" = 30;
+exclam = 35;
+question = 50;
+tcaron = 50;
+};
+imacron = {
+"@MMK_R_i" = 5;
+"@MMK_R_j" = 5;
+"@MMK_R_l" = 8;
+"@MMK_R_parenright" = 40;
+"@MMK_R_quoteright" = 15;
+"@MMK_R_quotesingle" = 20;
+question = 20;
+};
+iogonek = {
+"@MMK_R_j" = 25;
+};
+itilde = {
+"@MMK_R_i" = 15;
+"@MMK_R_j" = 15;
+"@MMK_R_l" = 18;
+};
+lcaron = {
+"@MMK_R_a" = -30;
+"@MMK_R_g" = -30;
+"@MMK_R_m" = -30;
+"@MMK_R_o" = -80;
+"@MMK_R_period" = -70;
+"@MMK_R_s" = -20;
+"@MMK_R_u" = -10;
+"@MMK_R_v" = 0;
+};
+lira = {
+one = 10;
+seven = 20;
+three = 20;
+two = 20;
+};
+lozenge = {
+four = 5;
+one = -20;
+seven = -10;
+};
 matraE.mlm = {
+"@MMK_R_Da.mlm" = -10;
+"@MMK_R_Dha.mlm" = -5;
+"@MMK_R_Ka.mlm" = -5;
+"@MMK_R_Na.mlm" = -5;
+"@MMK_R_Pa.mlm" = -5;
+"@MMK_R_Rra.mlm" = -4;
+"@MMK_R_Ya.mlm" = -5;
 Ja.mlm = -5;
 Ttha.mlm = -5;
 };
+multiply = {
+one = 0;
+three = 0;
+};
+n.superior = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -40;
+};
+nine = {
+"@MMK_R_Ca.mlm" = -15;
+"@MMK_R_J" = -15;
+"@MMK_R_T" = -10;
+"@MMK_R_Y" = -8;
+"@MMK_R_o" = 5;
+"@MMK_R_period" = -25;
+"@MMK_R_quoteright" = 30;
+"@MMK_R_trademark" = -15;
+V = -10;
+ampersand = 0;
+degree = -5;
+periodcentered = 0;
+seven = -12;
+summation = -5;
+three = -8;
+two = -15;
+underscore = -20;
+uni2215 = -20;
+};
+nine.numr = {
+fraction = -10;
+};
+nine.superior = {
+seven.superior = -5;
+};
+numbersign = {
+"@MMK_R_A" = -30;
+"@MMK_R_Ca.mlm" = -30;
+"@MMK_R_J" = -35;
+"@MMK_R_Pa.mlm" = -10;
+"@MMK_R_Z" = -10;
+nine = 5;
+one = 10;
+seven = 5;
+three = -5;
+};
+one = {
+"@MMK_R_bar" = 20;
+"@MMK_R_colon" = 8;
+"@MMK_R_copyright" = 5;
+"@MMK_R_onequarter" = 10;
+"@MMK_R_parenright" = 10;
+"@MMK_R_quoteright" = 5;
+"@MMK_R_quotesingle" = 10;
+"@MMK_R_vowelU.mlm" = 10;
+at = 5;
+backslash = 20;
+eight = 0;
+four = 5;
+nine = 0;
+one = 0;
+seven = 8;
+six = 0;
+slash = 25;
+three = 0;
+two = 10;
+underscore = 5;
+};
+onehalf = {
+"@MMK_R_A" = 7;
+"@MMK_R_J" = 4;
+"@MMK_R_T" = -15;
+"@MMK_R_Y" = -15;
+"@MMK_R_Z" = 4;
+"@MMK_R_a" = 4;
+"@MMK_R_g" = 7;
+"@MMK_R_j" = 11;
+"@MMK_R_o" = 7;
+"@MMK_R_s" = 7;
+V = -8;
+X = 7;
+five = 4;
+four = 6;
+};
+onesuperior = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -23;
+"@MMK_R_O" = 4;
+"@MMK_R_T" = 15;
+five = 4;
+four = -15;
+};
+periodcentered = {
+four = 5;
+one = -30;
+seven = -30;
+six = 0;
+zero = 0;
+};
+pi = {
+one = 10;
+};
+product = {
+four = -20;
+one = 10;
+seven = 10;
+six = -10;
+};
+q = {
+"@MMK_R_parenright" = 0;
+semicolon = 5;
+slash = 10;
+};
+question = {
+"@MMK_R_A" = -50;
+"@MMK_R_Ca.mlm" = -50;
+"@MMK_R_Da.mlm" = -5;
+"@MMK_R_J" = -60;
+"@MMK_R_Ka.mlm" = -50;
+"@MMK_R_Ma.mlm" = -10;
+"@MMK_R_Na.mlm" = -5;
+"@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -50;
+"@MMK_R_Ra.mlm" = -10;
+"@MMK_R_T" = 25;
+"@MMK_R_ViramaRa.mlm" = -35;
+"@MMK_R_W" = 15;
+"@MMK_R_Y" = 20;
+"@MMK_R_Zha.mlm" = 20;
+"@MMK_R_g" = -10;
+"@MMK_R_m" = -15;
+"@MMK_R_o" = -10;
+"@MMK_R_period" = -120;
+"@MMK_R_quoteright" = 15;
+V = 10;
+X = 15;
+four = -30;
+matraE.mlm = -20;
+seven = 30;
+};
+questiondown = {
+"@MMK_R_J" = 5;
+"@MMK_R_O" = -30;
+"@MMK_R_T" = -40;
+"@MMK_R_U" = -20;
+"@MMK_R_W" = -30;
+"@MMK_R_Y" = -50;
+"@MMK_R_j" = 70;
+"@MMK_R_o" = -10;
+"@MMK_R_v" = -30;
+"@MMK_R_w" = -25;
+V = -40;
+};
+radical = {
+four = -25;
+seven = 20;
+};
+registered = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -50;
+"@MMK_R_Y" = -8;
+"@MMK_R_Z" = -10;
+"@MMK_R_a" = -5;
+X = -10;
+};
+seven = {
+"@MMK_R_A" = -40;
+"@MMK_R_Ca.mlm" = -60;
+"@MMK_R_Da.mlm" = -15;
+"@MMK_R_J" = -50;
+"@MMK_R_Ka.mlm" = -40;
+"@MMK_R_M" = -10;
+"@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -40;
+"@MMK_R_Ra.mlm" = -15;
+"@MMK_R_T" = 15;
+"@MMK_R_ViramaRa.mlm" = -20;
+"@MMK_R_Y" = 10;
+"@MMK_R_Zha.mlm" = 15;
+"@MMK_R_a" = -20;
+"@MMK_R_g" = -20;
+"@MMK_R_greater" = -5;
+"@MMK_R_hyphen" = -15;
+"@MMK_R_less" = -20;
+"@MMK_R_m" = -10;
+"@MMK_R_o" = -20;
+"@MMK_R_onequarter" = 30;
+"@MMK_R_parenright" = 15;
+"@MMK_R_percent" = 10;
+"@MMK_R_period" = -30;
+"@MMK_R_quoteleft" = 25;
+"@MMK_R_quoteright" = 45;
+"@MMK_R_quotesingle" = 24;
+"@MMK_R_s" = -10;
+"@MMK_R_trademark" = 15;
+AE = -70;
+Delta = -40;
+Omega = -10;
+X = 5;
+ampersand = -30;
+asterisk = 20;
+at = -8;
+backslash = 20;
+cent = -10;
+degree = 35;
+eight = 4;
+exclam = 8;
+four = -25;
+lozenge = -10;
+nine = 5;
+numbersign = -30;
+one = 26;
+onesuperior = 20;
+product = 30;
+question = 40;
+radical = -50;
+seven = 15;
+six = 3;
+slash = -30;
+three = 5;
+threequarters = 25;
+underscore = -60;
+uni20B9 = 10;
+uni20BD = -20;
+uni2215 = -80;
+zero = 3;
+};
+seven.numr = {
+fraction = -30;
+};
+seven.superior = {
+"@MMK_R_T" = 10;
+"@MMK_R_W" = 15;
+"@MMK_R_Y" = 20;
+V = 10;
+X = 10;
+four.superior = -11;
+onesuperior = 15;
+seven.superior = 15;
+twosuperior = -8;
+};
+six = {
+"@MMK_R_Ca.mlm" = 5;
+"@MMK_R_Gha.mlm" = -10;
+"@MMK_R_Pa.mlm" = 15;
+"@MMK_R_T" = -10;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -30;
+"@MMK_R_o" = 4;
+"@MMK_R_percent" = 0;
+"@MMK_R_period" = 0;
+"@MMK_R_quoteleft" = -15;
+"@MMK_R_quoteright" = -10;
+"@MMK_R_quotesingle" = -20;
+"@MMK_R_trademark" = -25;
+"@MMK_R_v" = -5;
+V = -20;
+X = -5;
+ampersand = 0;
+asterisk = -10;
+backslash = -10;
+degree = -35;
+eight = 0;
+five = -5;
+four = 5;
+nine = -10;
+one = -8;
+onesuperior = -20;
+periodcentered = 10;
+seven = -8;
+slash = 5;
+summation = -8;
+three = -7;
+threequarters = 5;
+two = -10;
+};
+six.superior = {
+onesuperior = -8;
+};
+slash = {
+"@MMK_R_A" = -30;
+"@MMK_R_Ca.mlm" = -70;
+"@MMK_R_Da.mlm" = -20;
+"@MMK_R_Dha.mlm" = -10;
+"@MMK_R_Gha.mlm" = -15;
+"@MMK_R_J" = -40;
+"@MMK_R_Ka.mlm" = -55;
+"@MMK_R_Ma.mlm" = -20;
+"@MMK_R_Na.mlm" = -15;
+"@MMK_R_O" = -5;
+"@MMK_R_Pa.mlm" = -55;
+"@MMK_R_Ra.mlm" = -25;
+"@MMK_R_Rra.mlm" = -10;
+"@MMK_R_T" = 40;
+"@MMK_R_Tta.mlm" = -8;
+"@MMK_R_U" = 10;
+"@MMK_R_ViramaRa.mlm" = -20;
+"@MMK_R_W" = 20;
+"@MMK_R_Y" = 30;
+"@MMK_R_Z" = 10;
+"@MMK_R_Zha.mlm" = 10;
+"@MMK_R_a" = -35;
+"@MMK_R_g" = -30;
+"@MMK_R_m" = -40;
+"@MMK_R_o" = -30;
+"@MMK_R_s" = -25;
+"@MMK_R_vowelU.mlm" = -5;
+"@MMK_R_z" = -10;
+Ja.mlm = -8;
+Lla.mlm = -20;
+Ttha.mlm = -10;
+V = 30;
+X = 20;
+five = 0;
+four = -30;
+matraE.mlm = -15;
+nine = 5;
+one = 25;
+seven = 25;
+slash = -35;
+three = 0;
+uni0D67 = -40;
+uni0D70 = -40;
+x = -10;
+};
+space = {
+"@MMK_R_Ca.mlm" = 35;
+"@MMK_R_Da.mlm" = 40;
+"@MMK_R_Dha.mlm" = 40;
+"@MMK_R_Gha.mlm" = 35;
+"@MMK_R_Ka.mlm" = 40;
+"@MMK_R_Na.mlm" = 40;
+"@MMK_R_Pa.mlm" = 30;
+"@MMK_R_Ra.mlm" = 40;
+"@MMK_R_Rra.mlm" = 40;
+"@MMK_R_Tta.mlm" = 40;
+"@MMK_R_ViramaRa.mlm" = 40;
+"@MMK_R_Ya.mlm" = 40;
+"@MMK_R_Zha.mlm" = 40;
+"@MMK_R_quoteleft" = -50;
+"@MMK_R_quotesingle" = -50;
+"@MMK_R_vowelRu.mlm" = 40;
+"@MMK_R_vowelU.mlm" = 40;
+NgaKa.mlm = 40;
+Tha.mlm = 40;
+Ttha.mlm = 40;
+matraE.mlm = 40;
+uni0D66 = 40;
+uni0D67 = 30;
+uni0D6B = 40;
+uni0D70 = 35;
+};
+sterling = {
+eight = 10;
+five = 20;
+four = -20;
+one = 10;
+seven = 0;
+three = 20;
+two = 20;
+};
+summation = {
+four = -25;
+one = 5;
+seven = 20;
+six = -5;
+three = 2;
+zero = -5;
+};
+tcaron = {
+"@MMK_R_a" = -30;
+"@MMK_R_colon" = -20;
+"@MMK_R_hyphen" = -60;
+"@MMK_R_m" = -40;
+"@MMK_R_o" = -90;
+"@MMK_R_period" = -70;
+"@MMK_R_quoteleft" = 20;
+"@MMK_R_quoteright" = 20;
+"@MMK_R_s" = -30;
+"@MMK_R_u" = -20;
+"@MMK_R_z" = -10;
+icircumflex = 40;
+idieresis = 70;
+igrave = 30;
+question = 20;
+};
+three = {
+"@MMK_R_W" = -5;
+"@MMK_R_Y" = -8;
+"@MMK_R_colon" = 10;
+"@MMK_R_period" = 2;
+"@MMK_R_quotesingle" = -6;
+V = -10;
+ampersand = 5;
+at = 4;
+eight = 8;
+nine = 4;
+seven = -5;
+slash = 10;
+three = 0;
+};
+threesuperior = {
+"@MMK_R_A" = -41;
+"@MMK_R_J" = -30;
+five = 4;
+four = -15;
+seven = 7;
+};
+two = {
+"@MMK_R_Ca.mlm" = 25;
+"@MMK_R_W" = -5;
+"@MMK_R_a" = -3;
+"@MMK_R_colon" = 5;
+"@MMK_R_greater" = 5;
+"@MMK_R_hyphen" = -15;
+"@MMK_R_o" = -15;
+"@MMK_R_period" = 5;
+"@MMK_R_quoteleft" = 0;
+"@MMK_R_quoteright" = 15;
+V = -5;
+ampersand = 0;
+eight = 0;
+five = 0;
+four = -5;
+multiply = 0;
+nine = 0;
+radical = -15;
+seven = -5;
+six = 0;
+slash = 10;
+underscore = 12;
+zero = 0;
+};
+twosuperior = {
+"@MMK_R_A" = -30;
+"@MMK_R_J" = -30;
+five = 4;
+};
+underscore = {
+nine = -20;
+one = -50;
+three = 10;
+two = 18;
+zero = -20;
+};
 uni0D66 = {
+"@MMK_R_Gha.mlm" = 20;
 uni0D67 = -50;
 };
 uni0D6A = {
@@ -101359,11 +105290,16 @@ uni0D71 = {
 "@MMK_R_period" = 20;
 };
 uni0D72 = {
+"@MMK_R_Ca.mlm" = -40;
+"@MMK_R_Gha.mlm" = 10;
 "@MMK_R_period" = -80;
 "@MMK_R_quoteleft" = 20;
 "@MMK_R_quoteright" = 20;
 };
 uni0D73 = {
+"@MMK_R_Ca.mlm" = -40;
+"@MMK_R_Gha.mlm" = 20;
+"@MMK_R_Pa.mlm" = -40;
 "@MMK_R_period" = -40;
 "@MMK_R_quoteleft" = 30;
 "@MMK_R_quoteright" = 30;
@@ -101373,21 +105309,131 @@ uni0D79 = {
 "@MMK_R_hyphen" = 40;
 "@MMK_R_period" = -20;
 };
+uni20B5 = {
+eight = 10;
+one = 20;
+seven = 20;
+three = 10;
+two = 10;
+};
+uni20B9 = {
+"@MMK_R_A" = -40;
+"@MMK_R_Ca.mlm" = -50;
+"@MMK_R_J" = -40;
+"@MMK_R_Ka.mlm" = -30;
+"@MMK_R_Pa.mlm" = -50;
+"@MMK_R_T" = 20;
+"@MMK_R_Y" = 10;
+"@MMK_R_o" = -10;
+four = -30;
+one = 20;
+seven = 15;
+};
+uni20BA = {
+"@MMK_R_T" = -40;
+"@MMK_R_W" = -25;
+"@MMK_R_Y" = -50;
+five = -5;
+four = 20;
+nine = -5;
+one = -30;
+seven = -20;
+};
+uni20BD = {
+"@MMK_R_J" = -50;
+"@MMK_R_M" = -10;
+four = -20;
+one = 20;
+seven = 10;
+};
+uni2215 = {
+eight = -20;
+five = -20;
+four = -100;
+one = 20;
+seven = 20;
+six = -40;
+two = -10;
+zero = -30;
+};
 vowelE.mlm = {
+"@MMK_R_Gha.mlm" = -5;
+"@MMK_R_Ma.mlm" = -5;
+"@MMK_R_Zha.mlm" = -5;
 "@MMK_R_parenright" = 20;
 "@MMK_R_period" = 10;
+"@MMK_R_vowelU.mlm" = 5;
 Ja.mlm = 5;
 Lla.mlm = 5;
 };
 vowelI.mlm = {
+"@MMK_R_Ca.mlm" = -10;
 "@MMK_R_period" = -5;
 };
 vowelU.mlm = {
+"@MMK_R_Ca.mlm" = -15;
 "@MMK_R_hyphen" = 5;
 "@MMK_R_period" = -5;
 "@MMK_R_trademark" = -30;
+"@MMK_R_vowelRu.mlm" = 2;
 Ja.mlm = 5;
 Lla.mlm = 5;
+four = 20;
+question = -20;
+};
+x = {
+"@MMK_R_J" = 10;
+"@MMK_R_O" = -4;
+"@MMK_R_S" = -5;
+"@MMK_R_T" = -10;
+"@MMK_R_W" = -10;
+"@MMK_R_Y" = -25;
+"@MMK_R_Z" = 3;
+"@MMK_R_colon" = 0;
+"@MMK_R_o" = -4;
+"@MMK_R_parenright" = -5;
+"@MMK_R_period" = 0;
+"@MMK_R_quoteright" = 8;
+"@MMK_R_s" = 4;
+"@MMK_R_v" = -5;
+"@MMK_R_z" = 5;
+V = -15;
+one = 7;
+slash = 15;
+};
+yen = {
+"@MMK_R_J" = -10;
+one = 0;
+};
+zero = {
+"@MMK_R_J" = -20;
+"@MMK_R_T" = -10;
+"@MMK_R_Y" = -10;
+"@MMK_R_Z" = -10;
+"@MMK_R_o" = 4;
+"@MMK_R_period" = -12;
+"@MMK_R_quoteright" = 15;
+"@MMK_R_v" = 8;
+"@MMK_R_w" = 5;
+ampersand = 0;
+asterisk = -8;
+degree = -10;
+four = 5;
+nine = -5;
+one = -10;
+periodcentered = 0;
+seven = -12;
+summation = -5;
+three = -8;
+two = -15;
+underscore = -20;
+uni2215 = -20;
+};
+zero.numr = {
+fraction = -20;
+};
+zero.superior = {
+seven.superior = -5;
 };
 };
 };

@@ -71139,6 +71139,7 @@ nodes = (
 width = 643;
 }
 );
+unicode = 09F3;
 script = bengali;
 category = Letter;
 subCategory = Other;
